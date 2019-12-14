@@ -4,7 +4,7 @@
 
 ## Thành viên nhóm
 
--   Nguyễn Thanh Tuấn 1612
+-   Nguyễn Thanh Tuấn 1612744
 -   Hoàng Xuân Trường 1612899
 
 ## Ý tưởng:
