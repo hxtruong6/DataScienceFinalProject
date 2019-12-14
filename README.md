@@ -32,6 +32,22 @@
     -   Thuộc tính sản phẩm 2 nguồn khác nhau, format khác nhau, cần đồng bộ (khó ghép lại) -> giải quyết: ????
     -   Dữ liệu rác: Thuộc tính không chuẩn, thiếu
 
+### Thông tin dữ liệu
+
+Một số thông tin cơ bản được crawl:
+
+-   Price: giá của laptop
+-   Screen size: kích thước của màn hình
+-   RAM: bộ nhớ RAM
+-   Brand Name: hãng laptop
+-   Item Weigth: Khối lượng
+-   Operating System: Hệ điều hành của máy
+-   Color: màu của sản phẩm
+-   Processor Brand: hãng sản xuất CPU (Intel, AMD, Mediatek,..)
+-   Processor Count: số lượng nhân
+-   Computer Memory Type: Loại RAM (DDR3, DDR4,...)
+-   ...
+
 ### Dataset
 
 -   Dữ liệu chưa được clean và preproccessing
