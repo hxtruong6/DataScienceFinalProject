@@ -1,569 +1,569 @@
-ChipsetBrand,CardDescription,NumberOfUSB2.0Ports,NumberOfUSB3.0Ports,BrandName,OperatingSystem,ProcessorBrand,ProcessorCount,HardDriveInterface,HardwarePlatform,ScreenSize_pcs,MaxScreenResolution_width_pcs,MaxScreenResolution_height_pcs,RAM_capacity_pcs,RAM_type_pcs,HardDrive_capacity_pcs,HardDrive_measure_pcs,ItemWeight_pcs,ItemDimensions_L_pcs,ItemDimensions_W_pcs,ItemDimensions_H_pcs,AverageBatteryLife_pcs,Batteries_pcs,GraphicsCardRamSize_pcs,FlashMemorySize_pcs,Processor_ghz_pcs
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,12,DDR3,1,TB,4,15.1,10.2,1,5.5,,,,2.4
-amd,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,15.6,1366,768,8,DDR4,256,GB,3.5,14.3,9.9,0.8,8,1 Lithium ion batteries required,,,2.6
-intel,Integrated,2.0,,Lenovo,Windows 10,Intel N3060,2.0,Solid State,PC,11.6,1366,768,2,DDR3,64,GB,3.09,11.8,0.9,8.2,6,1 Lithium Polymer batteries required,,64,1.6
-Intel,dedicated,2.0,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,15.6,1920,1080,8,DDR4,512,GB,4.6,14.53,9.92,0.78,13,1 Lithium ion batteries required,,,2.5
-amd,"Integrated, Dedicated",,,HP,Windows 8 Pro,AMD,2.0,ATA,PC,15.6,1366,768,4,DDR4,500,GB,4.52,15,10,0.9,6.25,1 Lithium ion batteries required,,,2.5
-NVIDIA,Integrated,2.0,,Dell,Windows 10 Home,Intel,6.0,Serial ATA,PC,,,,8,DDR4,1000,GB,28.7,13.3,7,15.1,,1 Lithium ion batteries required,6,16.0,
-amd,integrated,,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,11.6,1366,768,4,DDR4,1,TB,4.64,7,5,1.5,,1 Lithium ion batteries required,,,2.5
-,Integrated,,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,,,8,,500,GB,2.6,7,1.4,7.2,,,8,256.00,2.1
-Intel,,,,Acer,Chrome OS,Intel,1.0,,,11.6,1366,768,4,,32,GB,5,8.1,11.7,0.8,,1 Lithium ion batteries required,,32,1.1
-amd,integrated,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,15.6,1366,768,8,DDR4,512,GB,5.69,14.8,10,0.9,,1 Lithium ion batteries required,,512,3.1
-amd,,,,Acer,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,1,TB,5.4,10.2,15,0.8,,1 Lithium ion batteries required,,,3
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA-600,PC,14,1366,768,8,DDR4,128,GB,4.24,12.76,8.86,0.71,,1 Lithium Polymer batteries required,,,3.9
-,Dedicated,2.0,2.0,iBUYPOWER,Windows 10 Home,Intel,,Serial ATA,PC,1,,,16,DDR4,1,TB,32,22,20.5,12.8,,,6,240.00,3
-NVIDIA GeForce,Dedicated,1.0,2.0,ASUS,Windows 10,Intel,4.0,Serial ATA-600,PC,15,1920,1080,16,GDDR3,1,TB,5.6,10.1,15.1,1.3,7,1 Lithium ion batteries required,2048,16,2.6
-Intel,Integrated,,,HP,Windows 10,Intel,4.0,Solid State,PC,13.3,1920,1080,8,DDR4,256,GB,5.05,12.09,8.35,0.59,14,1 Lithium Polymer batteries required,,,1.6
-nvidia,Dedicated,,4.0,ASUS,Windows 10 Pro,Intel,4.0,,,15.6,1920,1080,16,DDR4,256,GB,4.9,15.6,10.3,0.7,,1 Lithium Polymer batteries required,8,256.0,2.8
-intel,Integrated,2.0,1.0,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,SDRAM,1000,GB,4.85,14.96,0.9,10,6,1 Lithium Metal batteries required,8,4.00,2.2
-NVIDIA,Dedicated,,,Dell,,,1.0,,,15.6,1920,1080,16,,,,8.05,19.5,13.2,2.5,,1 Lithium ion batteries required,4,256,
-intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,12,DDR4,1,TB,5.91,14.88,10.24,0.9,5,,,,1.8
-Intel,Integrated,,,ASUS,Chrome OS,Intel,4.0,Solid State,PC,15.6,1920,1080,4,DDR4,32,GB,3.97,14,9.8,0.6,,1 Lithium Polymer batteries required,,64,1.1
-,,,,HP,Windows 10,AMD,,Solid State,PC,,,,16,DDR,128,GB,11.46,19.4,15.3,10.9,,,,,4.1
-Intel,integrated,1.0,,HP,Windows 10,Intel,1.0,Solid State,PC,14,1366,768,4,DDR3,32,GB,3.17,8.9,13.27,0.7,,1 Lithium Metal batteries required,,32,1.6
-intel,,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,16,DDR4,512,GB,6.21,14.3,9.9,0.8,,1 Lithium ion batteries required,,512,2.6
-amd,,1.0,,Dell,Windows 10 Pro,Intel,4.0,Solid State,PC,17.3,1920,1080,16,DDR3,1,TB,6.15,10.99,16.35,0.98,,1 Lithium ion batteries required,,1,4
-amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1366,768,8,DDR4,1,TB,5.9,20.6,11.9,3,5,,,,3.1
-intel,integrated,,,HP,Windows 10,Intel,2.0,,PC,14,1366,768,4,DDR4,128,GB,3.09,17.6,12,2.8,,1 Lithium ion batteries required,,128,2.3
-,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,15.6,1920,1080,16,DDR4,512,GB,4.71,20.6,12.1,2.6,8,1 Lithium ion batteries required,,,1.8
-intel,Integrated,,,Acer,Chrome OS,Intel,2.0,Serial ATA,PC,15.6,,,2,DDR3,16,GB,4.19,14.88,9.99,0.9,12,1 Lithium Polymer batteries required,,16,1.6
-amd,Integrated,,,HP,Windows 10,,1.0,Serial ATA,,14,1920,1080,8,DDR,,,4.85,9.2,12.8,0.7,,1 Lithium ion batteries required,8,1.00,
-NVIDIA,Dedicated,,,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,256,GB,5.1,15.1,10.3,1,,1 Lithium ion batteries required,,256,2.2
-intel,Integrated,,,HP,,,1.0,Ethernet,,17.3,1920,1080,,,,,10.4,11.3,16.4,1.3,,1 12V batteries required,,512.00,
-,,,,HUAWEI,Android 8.0 Oreo,,8.0,,Android,10.1,1920,1200,2,,16,GB,1.01,9.56,6.45,0.3,10,1 Lithium ion batteries required,,16,
-,Integrated,,,XIDU,Windows 10,Intel,4.0,USB 3.0,PC,11.6,1920,1080,4,DDR3,64,GB,2.2,10.9,7.4,0.6,7,1 Lithium ion batteries required,,64,1.44
-intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA-600,PC,15.6,,,8,DDR4,1,TB,4.23,14.24,9.51,0.7,,1 Lithium Polymer batteries required,,,1.6
-,,,,HP,Windows 10,AMD,4.0,Solid State,PC,15.6,1920,1080,8,DDR4,256,GB,4.52,14.1,9.7,0.7,,1 Lithium ion batteries required,,256,2.1
-,integrated,,,Lenovo,Windows 10,Intel,4.0,eSATA,PC,27,,,8,GDDR4,1,TB,18,24.6,18.9,2.7,,,,,4
-,,,,Dell,Windows 10,Intel,,Serial ATA,PC,23.8,1920,1080,12,GDDR4,512,GB,10.18,21.61,14.1,1.63,,,,,3.9
-,Integrated,2.0,1.0,Acer,Windows 10 Home,Intel,1.0,,,11.6,1920,1080,4,,,,3.31,11.73,8.27,0.8,9,1 Lithium Polymer batteries required,,32.0,1.1
-intel,integrated,1.0,,HP,Windows 10,Intel,4.0,,,15.6,,,4,DDR3,500,GB,4.81,15.18,10.16,0.89,,1 Lithium Polymer batteries required,,,2.16
-NVIDIA,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,17.3,1920,1080,16,DDR4,1,TB,6.14,15.94,10.47,0.88,10,1 Lithium ion batteries required,4,64,1.8
-intel,,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,12,DDR4,1,TB,4.41,15,11,2,,1 Lithium Polymer batteries required,,,1.6
-Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,Serial ATA,PC,17.3,1600,900,32,DDR4,512,GB,5.71,12.8,9.2,0.7,,1 Lithium ion batteries required,,,1.8
-Intel,Integrated,,1.0,Lenovo,Chrome OS,Mediatek,4.0,Solid State,Chrome,14,1920,1080,4,,64,GB,3.3,12.82,0.82,9.15,,1 Lithium Polymer batteries required,,64.00,2.1
-amd,Integrated,2.0,2.0,HP,,AMD,4.0,Serial ATA,,15.6,1920,1080,8,,256,GB,3.95,14.6,9.91,0.72,,1 12V batteries required,1,256.00,
-Intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,4.0,ATA100,Windows,14,1920,1080,8,,,,3.64,13.3,9.2,0.8,10,2 Lithium ion batteries required,,256.0,1.6
-Intel,Dedicated,1.0,1.0,Acer,Windows 10 Home,,2.0,ATA-4,,15.6,1280,800,4,,,,4.63,15,10.3,0.8,,100 Lithium ion batteries required,1,1.00,
-,,,,Highwings,Windows 10,Intel,4.0,Ethernet 100Base-TX,PC,,,,8,DDR,128,GB,,,,,,,,,2.2
-,dedicated,1.0,2.0,Lenovo,,,1.0,Solid State,,14,1920,1080,3,,,,5.3,13,8.9,0.7,,1 Lithium ion batteries required,2,256.00,
-intel,Integrated,,,Smart-US,Windows 10,Intel,4.0,ATA,PC,11.6,1366,768,2,DDR3,32,GB,3.1,16.3,10.2,2,1,,,64,1.3
-Samsung,Dedicated,1.0,1.0,Samsung,Chrome OS,Intel,4.0,eSATA,PC,11.6,1366,768,2,DDR3,16,GB,2.6,11.4,8.1,0.7,,1 A batteries required,,12.00,1.04
-,Integrated,,5.0,AWOW,Windows 10,Intel,4.0,Serial ATA-600,PC,100,,,6,DDR,128,GB,2.03,10,5.8,2.6,,1 Lithium Metal batteries required,6,128.00,2.2
-intel,integrated,1.0,,HP,other,Intel,2.0,,,15.6,1366,768,6,DDR3,1,TB,5.05,15.14,10.24,0.94,,,,,2.2
-intel,,3.0,,Dell,Windows 10,Intel,1.0,,,15.6,,,12,DDR,1,TB,5.2,10.2,15,0.8,,1 Lithium ion batteries required,,,3
-nvidia,GTX 1050 4GB,1.0,2.0,ASUS,Windows 10,Intel,4.0,Serial ATA,,15.6,1920,1080,8,,1000,GB,5.1,15.1,10.3,1,,1 Lithium Polymer batteries required,4,128.00,3.7
-,,,,PROSCAN,Android 7.1 Nougat,,4.0,,Android,10.1,1024,600,8,DDR,8,GB,2.87,11.9,7.7,3.4,5,,,8,1.2
-AMD,,,,Dell,Windows 10 Home,AMD,2.0,Serial ATA,PC,11.6,1366,768,8,DDR4,128,TB,2.57,11.31,7.79,0.75,,1 Lithium ion batteries required,,128,1.8
-Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Ethernet 100Base-T,PC,15.6,1366,768,4,DDR4,500,GB,5.07,15,10.2,0.9,,1 Lithium ion batteries required,,,1.1
-intel,Integrated,,2.0,Lenovo,,,1.0,Solid State,,14,1920,1080,3,,,,5.85,17.5,11.5,3,,1 Lithium ion batteries required,,256.00,
-Intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,14,1920,1080,4,DDR4,128,GB,4.37,12.76,8.86,0.71,5,1 Lithium Polymer batteries required,,,1.1
-,Dedicated,2.0,8.0,HP,Windows 10,Intel,6.0,Serial ATA,PC,,,,16,,2000,GB,36.7,17.41,7.56,16.43,,,11,512.0,3.7
-NVIDIA,Dedicated,,2.0,Lenovo,,Intel,1.0,Solid State,,15.6,,,16,,512,GB,6.35,19.75,12.75,3.2,8,1 Lithium Polymer batteries required,4,16,2.6
-intel,Integrated,,,Samsung,Chrome OS,Intel,2.0,Solid State,PC,11.6,1366,768,4,SDRAM,32,GB,2.54,11.4,8.1,0.7,,1 Lithium Polymer batteries required,,32,1.6
-,,,,Lenovo,Windows 10,Intel,2.0,ATA,PC,15.6,,,4,DDR,1,TB,4.84,10.2,1,14,,1 Lithium Polymer batteries required,,,1.1
-AMD,Integrated,1.0,,ASUS,Windows 10 Home,AMD,4.0,Solid State,PC,15.6,1920,1080,8,DDR4,256,GB,3.5,14.1,9.1,0.75,,1 Lithium ion batteries required,8,256.00,3.6
-,,,,Dell,Windows 10,AMD,8.0,Serial ATA,PC,,,,16,SDRAM,1,TB,33.2,18.1,17.2,8.5,,,,,3.6
-NVIDIA,Dedicated,2.0,6.0,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,,,,12,,1000,GB,19.8,6.5,14.8,12.78,,3 AAA batteries required,12,128.0,3.6
-Intel,,,,HP,Windows 10 Home,Intel,4.0,Solid State,2-in-1 Laptop/tablet,15.6,1920,1080,8,DDR,256,GB,4.41,9.8,14.16,0.77,10,1 Lithium ion batteries required,,256,1.8
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,15.6,1366,768,16,DDR4,512,GB,4.48,14.96,10.16,0.78,,,,,2.1
-nvidia,Dedicated,,,ASUS,Windows 10 64-Bit,,4.0,,,17.3,1920,1080,,GDDR5,,,6.39,18.8,17.4,5.5,,,,,
-,,,,Haehne,Android 6.0 Marshmallow,AMD,4.0,USB,PC,7.8,1024,768,1,,32,GB,1.25,9,6.5,1.5,36,1 Lithium ion batteries required,,32,1.4
-Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,256,GB,4.34,9.3,14.14,0.86,,1 Lithium ion batteries required,,256,2.5
-NVIDIA,Dedicated,4.0,4.0,MSI,Windows 10 Home,Intel,8.0,Solid State,PC,15.6,,,16,DDR4,1,TB,6.99,23.86,8.9,12.44,,,6,16,3
-Intel,,2.0,,CHUWI,,Intel,4.0,Serial ATA-300,PC,10.1,1920,1080,4,DDR3,64,GB,1.15,12.7,8.4,2.3,5,,4,64,2.4
-Intel,integrated,2.0,,HP,Windows 10,Intel,4.0,Solid State,PC,,,,16,DDR,1,TB,11.4,12.09,6.4,12.4,,,,256,2.9
-,dedicated,,,Dell,Windows 10,Intel,,Solid State,PC,,,,12,GDDR4,128,GB,14.1,11.61,6.3,14.71,,,,,4
-NVIDIA,Dedicated,1.0,,Alienware,Windows 10 Home,Intel,4.0,Solid State,PC; Notebook,15.6,1920,1080,16,DDR4,1000,GB,7.69,12,15.31,1,,1 Lithium Polymer batteries required,,128.0,3.8
-,Integrated,,7.0,HP,,,4.0,Solid State,,0.1,,,4,,,,2.78,6.97,6.89,1.34,,,2,256.00,3.2
-NVIDIA,Dedicated,1.0,3.0,Acer,Windows 10 Home,Intel,4.0,Solid State,,15.6,1920,1080,8,DDR4,512,GB,5.9,14.31,9.88,0.71,,1 Lithium Polymer batteries required,2,512.00,3.9
-intel,integrated,,,Acer,Google Chrome,,1.0,,,11.6,,,4,,,,2.76,11.7,8.1,0.8,10,1 Lithium ion batteries required,,32,
-amd,,,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,1,TB,5,15,11,4,,1 Lithium Polymer batteries required,,,2
-amd,Dedicated,,,Lenovo,Windows 10,AMD,1.0,IDE,PC,15.6,,,8,DDR3,1,TB,5.07,14.84,10.2,0.39,,1 Lithium Metal batteries required,,,2.7
-Intel,Integrated,,,HP,Windows 10 Profesinal 64-Bit,Intel,2.0,Serial ATA,PC,11.6,1366,768,4,DDR3,64,GB,2.65,11.91,8.19,0.78,11,1 Lithium ion batteries required,,64,1.1
-Intel,Integrated,1.0,,Lenovo,Windows 10 Home,Intel,2.0,eSATA,Home and Business Laptop,15.6,1366,768,8,DDR3,1,TB,6.35,14.88,10.24,0.9,8.5,1 Lithium ion batteries required,,,1.1
-AMD,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1366,768,4,DDR3,128,GB,4.63,14.8,10,0.9,,,,128,2.6
-intel,integrated,,,HP,Windows 10,Intel,2.0,,Mac,14,1366,768,4,DDR4,128,GB,4.41,17.6,11.8,2.8,,1 Lithium ion batteries required,,,2.3
-,,,,Visual Land,Android 5.1 Lollipop,Rockchip,1.0,,Android,13.3,1920,1080,2,DDR3,64,GB,5,15.5,9.5,2.25,6,1 Lithium Polymer batteries required,,64,1.6
-intel,Integrated,2.0,2.0,Lenovo,,,1.0,Solid State,,14,1366,768,3,,,,5.75,17.5,11.9,3.2,,1 12V batteries required,,128.00,
-,integrated,2.0,,Toshiba,,,2.0,,Windows,15.6,,,8,DDR3,1,TB,6.25,17.2,13.7,1.9,,,,,
-,,3.0,,zoomtablet,,,4.0,,Android,10.1,1920,1200,2,EDO,,,2.1,11.4,7.9,2.3,1,,16,,
-Intel,,,,HP,Windows 10 S,Intel,2.0,Solid State,Business Laptop,14,1366,768,8,DDR,512,GB,4.45,8.89,12.76,0.78,,,,512,2.2
-intel,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,14,1920,1080,4,,,,3.24,13,8.9,0.7,,1 Lithium Polymer batteries required,,0.01,
-amd,Dedicated,,,Lenovo,Windows 10,AMD,4.0,Serial ATA,PC,15.6,,,8,DDR4,1,TB,6.07,14.88,10.24,0.91,,1 Lithium ion batteries required,,,2.7
-,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA-600,PC,15.6,1366,768,8,DDR4,1,TB,4.85,20.8,12.8,2.9,,1 Lithium Polymer batteries required,,,2.2
-intel,Integrated,,,HP,Windows 10,Intel,4.0,PCIE x 4,PC,15.6,1920,1080,8,DDR4,256,GB,5,14.13,9.68,0.67,,,,,1.6
-Intel,dedicated,2.0,,ASUS,Windows 10,Intel,6.0,Solid State,PC,15.6,1920,1080,16,DDR4,512,GB,4.61,14.2,10.6,0.6,,,,512,2.2
-,integrated,2.0,,Gigabyte,other,Intel,2.0,,PC,,,,4,,01,GB,3.1,4.5,4.24,2.21,,1 CR2 batteries required,,,1.58
-intel,integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,15.6,1920,1080,16,DDR,256,GB,5.18,14.9,10.25,0.95,,1 Lithium ion batteries required,,,2.7
-intel,Integrated,,,HP,Chrome OS,Intel,2.0,USB 3.0,,14,1920,1080,4,,32,GB,3,8.94,13.27,0.72,,1 Lithium ion batteries required,,32.00,1.1
-,Integrated,,,Apple,MacOS,Intel,2.0,Solid State,Mac,12,,,8,DDR3,256,GB,2.03,13.2,8.2,3.8,,1 Lithium ion batteries required,,256,1.1
-Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,13.3,1920,1080,8,DDR4,256,GB,4.64,8.16,12,0.66,,1 Lithium ion batteries required,,256,1.6
-Intel,"Dedicated, Integrated",1.0,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,Business 2-in-1 Laptop,17.3,1920,1080,16,DDR,512,GB,6.48,16.2,10.9,0.9,,1 Lithium ion batteries required,,512,1.8
-intel,,,,ASUS,Windows 10 Home,Intel Pentium N4200,4.0,,Windows,11.6,1366,768,4,DDR4,,,4.09,15.6,9.1,2.4,7,1 Lithium ion batteries required,,,1.1
-,,,,KuBi,,,,,PC,10,1920,1200,6,DDR3,64,GB,2.24,9.5,6.7,0.4,7,1 Lithium Polymer batteries required,,64,2.8
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,14,1366,768,16,SDRAM,512,GB,5.55,18.7,11.9,3.1,,,,512,2.5
-,integrated,,,Apple,Mac OS X,Intel,2.0,ATA,Mac,,,,4,DDR3,256,GB,3.7,7.7,1.4,7.7,,1 Lithium ion batteries required,,256,1.4
-,,,,Lenovo,,,4.0,,,14,,,4,DDR3,32,GB,4.6,12.8,9.1,0.8,,1 Lithium Polymer batteries required,,32,
-,,,,Google,Android 6.0 Marshmallow,nvidia,4.0,,Android,10.2,,,3,,32,GB,2.25,11.4,8.2,1.7,8,1 Lithium Polymer batteries required,,32,
-Intel,Integrated,,,Dell,Windows 10 Professional,Intel,1.0,Solid State,PC,0.0,,,8,DDR4,256,GB,6.45,7,1.4,7.2,,,,8,2
-AMD,Integrated,,,Apple,macOS 10.13 High Sierra,Intel,1.0,ATA-4,PC,13.3,2560,1600,8,DDR,256,GB,3,8.4,12,0.6,10,1 Lithium ion batteries required,64,32.00,2.3
-,,,,Samsung,,,8.0,,,10.5,2560,1600,4,DDR4,64,GB,14.1,9.65,6.3,0.22,15,1 AAA batteries required,,64,2
-intel,integrated,2.0,,Acer,Windows 8,Intel,2.0,,PC,11.6,1366,768,2,,320,GB,2.84,8.3,0.8,11.5,5,,,,2.16
-intel,,3.0,,Lenovo,Windows 10,Intel,2.0,Serial ATA-150,PC,15.6,1366,768,4,DDR4,500,GB,2.2,20.8,13.1,2.9,,1 Lithium Polymer batteries required,,,2.3
-intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,15.6,,,8,DDR3,1,TB,5.7,10.2,15,0.9,7,1 Lithium Polymer batteries required,,,2.4
-,Integrated,1.0,,Dell,Windows 10,Intel,2.0,,,15.6,,,8,DDR4,,,5.07,15,10.2,0.9,,1 Lithium Polymer batteries required,,256,
-AMD,Dedicated,,,Dell,,AMD,1.0,Solid State,,11.6,1366,768,,,32,GB,2.65,11.5,8,0.88,,2 C batteries required,,32,2.5
-Intel,Integrated,,,Apple,Mac OS X,Intel,2.0,Serial ATA,Mac,11.6,1366,768,4,DDR3,64,GB,2.38,0.68,7.56,11.8,5,1 Lithium Polymer batteries required,,64,1.7
-,,1.0,,Azpen,Android 8.1 Oreo,Rockchip,4.0,,Android 8.1 OS,10.1,1024,600,1,DDR3,8,GB,2.15,10.3,6.9,0.31,7,1 Lithium ion batteries required,1,8,1.3
-Intel,integrated,,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,14,1920,1080,8,SDRAM,256,GB,4.85,9.15,13.25,0.79,,1 Lithium Polymer batteries required,,,2.4
-,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,13.3,,,8,DDR4,256,GB,4.61,0.47,12.09,0.59,,1 Lithium Polymer batteries required,,256,3.4
-Intel,Integrated,1.0,,Dell,Windows 10 Pro (64-Bit),Intel,1.0,Solid State,PC,13.3,3200,1800,16,DDR3,512,GB,2.7,7.81,11.98,0.32,10,,,512,1.3
-Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Solid State,Windows,13.3,3840,2160,16,DDR3,512,GB,2.67,7.84,11.88,0.46,,1 Lithium ion batteries required,,512,1.8
-,,1.0,,Wecool,Android,MTK,4.0,USB,Android Go 8.1,10.1,1280,800,1,DDR3,16,GB,1.55,9.5,6.59,0.3,5,1 Lithium ion batteries required,,16,1.3
-AMD,,,,HP,Windows 10,AMD,2.0,Serial ATA,PC,14,1366,768,8,DDR3,128,GB,3.25,12.75,8.89,0.78,,1 Lithium ion batteries required,,128,2.6
-,,,,Libre Computer Project,"Android, Linux",ARM,4.0,USB 3.0,PC,,,,4,DDR,,,2.4,4.9,2.9,1.2,,,,,1.4
-NVIDIA,Dedicated,2.0,1.0,Acer,Windows 10,Intel,1.0,,,15.6,1920,1080,16,DDR3,256,GB,6,10.5,15.4,1,,,,256,2.8
-,Integrated,1.0,,Acer,Chrome OS,Intel,4.0,Solid State,Home and Education Chromebook,11.6,1366,768,4,DDR3,32,GB,11.5,11.6,8,0.76,10,1 Lithium Polymer batteries required,,32,1.6
-,Integrated,,,Samsung,Windows 10,Intel,2.0,,PC,13.3,,,8,DDR,256,GB,3.31,12.4,8.5,0.7,,1 Lithium Metal batteries required,,256,
-intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,USB 3.0,PC,13.3,3200,1800,16,DDR3,512,GB,2.9,11.98,7.88,0.33,12.5,1 Lithium ion batteries required,,512,2.4
-,,,,llltrade,Android 7.0 Nougat,,8.0,,Android,10.1,2560,1600,4,DDR3,64,GB,2.3,12,9,3,50000,1 Lithium Polymer batteries required,,64,
-intel,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,15.6,1920,1080,8,DDR4,256,GB,6.05,19.5,13,3,,1 Lithium ion batteries required,,,4
-Intel HD Graphics 515,Integrated,,1.0,Huawei,Windows 10,Intel,2.0,,PC,12,2160,1440,8,DDR3,256,GB,1.4,10.97,0.27,7.64,10,1 Lithium Polymer batteries required,,256,2.7
-intel,Integrated,,,Dell,Chrome OS,Intel,2.0,Solid State,PC,11.6,1366,768,4,DDR3,16,GB,4.64,17,11.1,2.9,,1 Lithium Polymer batteries required,,16,1.6
-,,,,llltrade,Android 7.0 Nougat,,8.0,,Android,10,2560,1600,4,,64,GB,1.84,10.5,8.4,2.2,,,,64,2.5
-AMD,Integrated,,,HP,,AMD,2.0,Solid State,,14,1920,1080,4,,128,GB,3.32,19.02,12,12,,1 Lithium ion batteries required,,128.00,3.1
-Intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR4,1,TB,4.41,14.9,9.5,0.8,,1 Lithium Polymer batteries required,,,2.2
-Intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1600,900,8,DDR4,2,TB,5.52,16.33,10.72,0.96,,,,,1.8
-Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,14,1920,1080,8,DDR4,256,GB,4.6,7.87,12.59,0.59,,1 Lithium ion batteries required,,256,1.6
-AMD,Dedicated,4.0,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,0.0,,,16,DIMM,1,TB,30.3,17.23,8.5,18.07,,1 Lithium ion batteries required,4,16.00,4.1
-intel,Integrated,,,ASUS,Windows 10,Intel,4.0,ATA,PC,15.6,1366,768,4,DDR3,500,GB,4.41,15,9.9,1.1,,1 Lithium Polymer batteries required,,,1.1
-,,4.0,,Dell,Windows 10,Intel,6.0,Serial ATA,PC,14.7,,,8,DDR3,1,TB,15,14.7,11.22,6.39,,,,,2.9
-,,,1.0,Azpen,Android 5.1 Lollipop,Intel,4.0,,Android,10.1,1024,600,1,DDR3,8,GB,1.4,10.3,6.9,0.31,6,1 Lithium ion batteries required,1,8,1.3
-intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,14,,,4,DDR3,32,GB,3,8.9,0.7,13.3,10,1 Lithium Metal batteries required,,32,2.48
-,,,,Tagital,,,4.0,,Android,7,1024,600,1,,16,GB,11,7.1,4.8,0.3,3,1 Lithium ion batteries required,,16,1.8
-intel,integrated,,,HP,Windows 10,Intel,2.0,,,17.3,,,8,DDR4,,,7,21.5,13.5,3,,1 Lithium ion batteries required,,,2.70
-nvidia,dedicated,,,Acer,Windows 10,Intel,6.0,Serial ATA,PC,15.6,1920,1080,32,DDR4,1,TB,7.95,15.02,10.35,0.94,,1 Lithium ion batteries required,,512,2.2
-,,,,HP,Windows 10,Intel,1.0,Serial ATA,PC,15.6,1366,768,12,DDR3,1,TB,4.85,22,12,2.5,,1 Lithium Polymer batteries required,,,2.7
-intel,Integrated,,,Apple,macOS 10.12 Sierra,Intel,2.0,,,12,,,8,,256,GB,4.4,13.2,9.7,3.7,,1 Lithium ion batteries required,,256,
-nvidia,dedicated,3.0,,Dell,Windows 10 Pro,Intel,4.0,Solid State,PC,15.6,1920,1080,32,DDR3,1,TB,3.93,14.06,9.27,0.45,,1 Lithium ion batteries required,,1,2.7
-intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,11.6,1366,768,4,DDR4,128,GB,2.67,11.6,7.9,0.8,,1 Lithium ion batteries required,,,1.1
-Intel,Integrated,,,HP,Windows 10 Pro,Intel,2.0,Solid State,Windows,13.3,1920,1080,8,DDR4,256,GB,2.82,12.5,8.6,0.6,,1 Lithium ion batteries required,,256.0,2.5
-NVIDIA,Dedicated,,,Lenovo,Windows 10 Home,Intel,1.0,Serial ATA,PC,15.6,,,8,GDDR5,1,TB,4.85,14.88,10.24,0.9,,1 Lithium Polymer batteries required,4,,2.3
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,Convertible 2-in-1 Business and school Laptop,13.3,1920,1080,8,DDR,256,GB,3.22,8.4,12.1,0.6,,1 Lithium ion batteries required,,256,1.6
-,integrated,2.0,,Nextbook,Windows 8.1,intel,4.0,,Windows,10.1,1280,800,2,DDR3,32,GB,3.45,9,6.8,0.36,6,1 Lithium Polymer batteries required,,32,
-,,,,RCA,Android 5.0 Lollipop,,4.0,,Android,7,1024,600,1,DDR,16,GB,1.65,9.7,3.05,6.8,10,1 Lithium Polymer batteries required,,16,1.3
-AMD,,2.0,,Dell,Windows 10 Home,AMD,2.0,Solid State,Home and Business 2-in-1 Convertible Laptop/Tablet,11.6,1366,768,8,DDR,256,GB,3.22,11.5,7.95,0.82,,1 Lithium ion batteries required,,256,2.6
-,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,15.6,,,8,DDR,256,GB,5.03,20.4,12.5,2.9,7,,,256,2
-,Integrated,1.0,,Samsung,AndroidTM 4.4 KitKat,Samsung,4.0,,Android,7,1024,600,1,DDR3,8,GB,10.9,4.58,0.38,7.61,,1 Lithium Polymer batteries required,,8,1.3
-Intel,Integrated,1.0,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,15.6,1366,768,16,DDR4,1,TB,4.7,9.92,14.53,0.78,12.23,1 Lithium ion batteries required,,1,1.6
-NVIDIA,dedicated,,,ASUS,Windows 10,AMD,4.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,256,GB,4.92,14.2,10.3,0.75,,,,,2.3
-amd,,2.0,,HP,Windows 10,AMD,4.0,,,15.6,1366,768,6,DDR4,1,TB,4.72,15.13,10.02,0.96,,1 Lithium ion batteries required,,,2.5
-,integrated,,,Fusion5,Windows 10,Intel,4.0,Solid State,Windows,12.5,,,4,DDR3,64,GB,4.23,21.2,13.5,6,,1 Lithium Polymer batteries required,,32,1.92
-amd,Dedicated,,,Lenovo,Windows 10,AMD,2.0,ATA,PC,15.6,1366,768,4,DDR4,500,GB,4.08,14.3,9.9,0.8,5.5,1 Lithium ion batteries required,,,2.6
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,17.3,1400,900,8,DDR4,128,GB,7,12.8,9.2,0.7,,1 Lithium Polymer batteries required,,,2.1
-Intel,"Dedicated, Integrated",,,ASUS,Windows 10,Intel,2.0,Solid State,PC,12.5,1920,1080,16,DDR3,512,GB,2.1,7.5,11.7,0.5,,1 Lithium Polymer batteries required,2,512.0,2.7
-,Integrated,,,Lenovo,Windows 10,Intel,1.0,Serial ATA-300,PC,14,1920,1080,16,DDR4,512,GB,3.7,12.91,9.02,0.69,7,1 Lithium ion batteries required,,256,1.6
-nvidia,dedicated,,,ASUS,Windows 10,AMD,4.0,PCIE x 4,PC,15.6,1920,1080,16,DDR4,512,GB,4.85,14.2,9.9,0.78,,1 Lithium ion batteries required,,512,2.3
-,Integrated,,,Samsung,,,8.0,,,10.1,,,,,,,1.14,10.6,6.5,2,12,1 Lithium Metal batteries required,,16,
-intel,Integrated,,,Samsung,Windows 10,Intel,2.0,USB,PC,15,1920,1080,8,DDR,256,GB,5.03,18.4,11.7,2.4,,1 Lithium Polymer batteries required,,256,3.5
-,Integrated,,,APPLE,apple iOS,Apple,1.0,,,12.9,2732,2048,0,,256,GB,1.95,11.43,1.95,8.81,10,1 Lithium ion batteries required,,256,0.1
-,Integrated,,,Acer,Chrome OS,Intel,2.0,Solid State,PC,14,1920,1080,4,DDR3,32,GB,6.55,9.31,13.43,0.93,,1 Lithium Polymer batteries required,,32,1.6
-intel,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR3,1,TB,4.27,15.06,9.56,0.89,7,1 Lithium Polymer batteries required,,,2.5
-,dedicated,7.0,2.0,Skytech Gaming,Windows 10 Home,AMD,8.0,Serial ATA-300,PC,,,,8,DDR3,1,TB,28,18.2,8.5,20.2,,,3,8,3.5
-NVIDIA,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,17.3,1920,1080,16,DDR,1,TB,6.14,15.94,10.47,0.88,,1 Lithium ion batteries required,,,1.8
-,,,,Smart-US,Windows 10,Intel,4.0,USB 3.0,PC,15.6,,,6,DDR,64,GB,4.85,16,13,13,,,,,2
-,Integrated,1.0,,Lenovo,,,1.0,Serial ATA,,0.1,,,4,,,,16.3,11.2,5.7,14.4,,,,128.00,
-AMD,Integrated,,3.0,Lenovo,,AMD,1.0,Solid State,,14,,,4,,,,5.15,20,13.25,3.5,,1 Lithium ion batteries required,,,2
-nvidia,Dedicated,1.0,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1920,1080,16,DDR4,2,TB,2.65,16.2,10.9,0.9,,1 Lithium Polymer batteries required,,,1.8
-,,,,HP,Chrome OS,Intel,1.0,Solid State,PC,13,,,16,DDR3,32,GB,2.69,12.6,8.6,1,,1 Lithium ion batteries required,,,1.2
-amd,AMD-RADEONRX580/8GB,,,HP,Windows 10 Home,Intel,4.0,,,17.3,,,12,,1,TB,8.22,24.2,13.6,3,,1 Lithium ion batteries required,,,2.8
-Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,14,1920,1080,8,DDR4,256,GB,3,8.42,12.65,0.75,,1 Lithium ion batteries required,,256,1.6
-amd,,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,17.3,1600,900,8,SDRAM,512,GB,7,20.1,13.6,2.7,,,,512,3.1
-Intel,Integrated,,,Lenovo,Windows 10 Home,Platinum Gray,4.0,Solid State,Business Laptop Computer,15.6,1366,768,12,DDR,512,GB,4.84,10.24,14.88,0.9,5,2 Lithium ion batteries required,,512,1.6
-intel,,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,8,SDRAM,128,GB,6.8,14.8,9.9,0.9,,1 Lithium ion batteries required,,,1.7
-NVIDIA,Dedicated,1.0,3.0,MSI,Windows 10 Pro,Intel,8.0,PCIE x 4,PC,17.3,1920,1080,32,SODIMM,,,4.14,15.08,10.24,0.69,,1 Lithium Polymer batteries required,,512,3.4
-nvidia,Dedicated,,,ASUS,Windows 10,Intel,6.0,Serial ATA,PC,17.3,,,16,SDRAM,512,GB,9.2,19.5,12,5,,,,512,2.2
-,,,,Haehne,Android 6.0 Marshmallow,AMD,4.0,USB,PC,7,,,1,,16,GB,10.6,7.48,3.15,0.31,2,1 Lithium ion batteries required,,16,1.2
-intel,integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,,,12,DDR4,1,TB,4.67,14.88,9.93,0.89,7,1 Lithium Polymer batteries required,,,3.5
-,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,0.0,,,4,,,,21.8,12.9,6.5,14.8,,,0,0.01,
-intel,,,,Dell,Windows 10,Intel,2.0,Solid State,PC,15.6,1920,1080,8,DDR,512,GB,6.01,19.4,13.1,3,,,,512,3.2
-,,,,LG,Android 4.4 KitKat,qualcomm,,,Android,8.3,,,16,,16,GB,1.18,10.2,6.6,2.2,33,1 Lithium ion batteries required,,16,
-AMD,Dedicated,,,Dell,Windows 10,AMD,1.0,Serial ATA,PC,15.6,1366,768,4,DDR4,500,GB,4.85,14.9,10.2,0.9,,1 Lithium Metal batteries required,,,2.5
-amd,Integrated,,,Dell,Windows 10,AMD,2.0,ATA,PC,11.6,1366,768,4,DDR4,64,GB,3,16,10.5,3.1,,,,32,1.6
-intel,Integrated,2.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,SDRAM,256,GB,4.41,15.12,10.02,0.95,10,1 Lithium Polymer batteries required,,256,2.7
-,Integrated,,,HP,Chrome OS,Intel,2.0,,,11.6,1366,768,4,,16,GB,2,8.18,12.04,0.76,11,1 Lithium Polymer batteries required,,0.00,1.1
-,integrated,,,Arxeel,Windows 10,Intel,,USB,PC,,,,4,DDR3,,,1.19,5.5,5.2,3.5,,,,,1.92
-,,1.0,,LANRUO,Android 7.0 Nougat,PowerVR GX6250,6.0,,Android,5,,,4,DDR2,32,GB,11.4,6.3,1.97,1.18,8,1 AAAA batteries required,,32,
-Intel,Dedicated,1.0,3.0,Acer,Windows 8,Intel,2.0,Serial ATA,PC,15.6,1920,1080,8,DDR3,1,TB,5.29,15.34,10.14,0.94,4,1 Lithium ion batteries required,4000,,2.6
-nvidia,Dedicated,,,GIGABYTE,Windows 10 Home,Intel Core i7,6.0,,,15.6,1920,1080,16,DDR4,,,4.41,14,9.8,1,10,1 Lithium ion batteries required,,512,
-,Integrated,,1.0,ASUS,Chrome OS,Rockchip,6.0,,Chrome,9.7,1536,2048,4,,,,1.1,9.41,6.77,0.39,9,1 Lithium Polymer batteries required,,32,2
-NVIDIA,Dedicated,,4.0,MSI,Windows 10,Intel,6.0,Solid State,,17.3,1920,1080,16,SODIMM,512,GB,9.35,15.59,10.22,0.75,,,,512,2.2
-Intel,,,,Acer,Windows 10 Home,Intel,6.0,Serial ATA,PC,,,,8,DDR4,512,GB,16.4,13.78,13.39,6.42,,,,,2.8
-intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,12,SDRAM,512,GB,6.4,14.2,9.8,0.7,,1 Lithium ion batteries required,,512,1.6
-Intel,dedicated,,,Dell,Windows 10 Home,Intel,1.0,Solid State,PC,,,,32,DDR,2512,GB,12.24,14.02,7.09,15.22,,,,32,
-intel,integrated,,,Oemgenuine,Windows 10,Intel,2.0,,PC,14,1920,1080,16,SODIMM,512,GB,3.6,13.3,0.8,9.2,,,,,2.4
-amd,Integrated,2.0,2.0,HP,,,1.0,Serial ATA,,15.6,1366,768,4,,,,5.65,10.1,14.4,0.8,,1 12V batteries required,,512.00,
-,integrated,,,Apple,,Intel,2.0,,,13.3,,,8,DDR3,,,3.46,8.6,12.3,0.71,,1 Lithium ion batteries required,,512,
-,dedicated,,,Apple,Mac OS X,Intel,,Serial ATA,Mac,,,,16,DDR2,1,TB,3,12,12,3,,,,,2.7
-Intel,Integrated,,2.0,AZULLE,Windows 10 Professional,Intel,4.0,Solid State,PC,0.0,,,4,DDR4,32,GB,14.4,5.2,2,0.75,,,4,32.00,1.1
-Intel,,1.0,,Acer,Chrome OS,Intel,1.0,,,11.6,1366,768,2,,16,GB,2.76,7.9,11.3,0.75,,,,16,1.4
-NVIDIA,Dedicated,1.0,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,15.6,3840,2160,,,,,8.5,14.9,9.9,1.2,,,4,,4.5
-intel,Integrated,1.0,,Dell,Windows 10,Intel i7-7200u,2.0,Solid State,PC,13.3,1920,1080,8,DDR3,256,GB,4.19,12.7,8.8,0.7,6,1 Lithium Polymer batteries required,,256,2.5
-amd,dedicated,2.0,,HP,Windows 10 Home,AMD,4.0,Serial ATA,PC,15.6,1366,768,4,DDR3,500,GB,4.83,15.13,10.02,0.96,5.5,1 Lithium Polymer batteries required,,,2
-intel,,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,15.6,1366,768,8,DDR4,128,GB,5.25,14.3,9.9,0.78,,,,128,1.8
-Intel,integrated,2.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,19.5,1366,768,8,GDDR3,1,TB,6,18.39,7.2,14.61,8,1 Lithium ion batteries required,,,2.4
-,,,,BENEVE,Android 7.0 Nougat,,4.0,,Android,10.1,1920,1200,2,,32,GB,2.55,13.3,8.7,1.6,3,1 Lithium Polymer batteries required,,32,
-,,,,Lenovo,Android 4.4 KitKat,intel,4.0,,Android,10.1,1920,1200,16,DDR3,16,GB,1.36,10.04,7.2,0.28,24,1 Lithium ion batteries required,,16,1.33
-,integrated,,,HP,Windows 10 Professional,,4.0,,,,,,,,,,2.67,6.97,1.35,6.89,,,,512,
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA-600,PC,15.6,1366,768,8,DDR4,1,TB,4.41,21,13,2.8,,1 Lithium ion batteries required,,,2.2
-PowerVR,Integrated,,1.0,Lenovo,Chrome OS,Qualcomm,2.0,Solid State,,11.6,1920,1080,4,DDR4,,,1,11.4,8,0.8,,1 Lithium ion batteries required,,32,2.1
-,,,,HP,Chrome OS,Intel,2.0,,,11.6,1366,768,4,,,,2.5,8,3,13,11,1 Lithium ion batteries required,,16,
-,,,,Dell,,,1.0,,,23.8,1920,1080,4,,,,23.7,26,9,21,,,,8,
-,,,,BENEVE,Android 7.0 Nougat,,4.0,,Android,8,1920,1080,2,,32,GB,9.6,9.4,6.6,0.15,,,,32,
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,14,1366,768,8,DDR4,256,GB,5.32,13.22,9.17,0.8,,,,,2.1
-amd,,,,HP,Windows 10,AMD,4.0,,,15.6,,,4,SDRAM,500,GB,5.73,20.2,12.2,3.1,,1 Lithium Polymer batteries required,,,2.2
-Intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,4,DDR4,500,GB,2.65,15,11,2,6,1 Lithium Polymer batteries required,,512,2.16
-amd,Integrated,1.0,,HP,Windows 10,AMD,4.0,Serial ATA,,15.6,1366,768,8,,1000,GB,2.7,9.99,14.96,0.94,6.75,1 Lithium Polymer batteries required,,,3.6
-intel,,,,Dell,Windows 10,Intel,1.0,,,156,1920,1080,4,,,,6.9,13.9,19.4,3,,1 Lithium ion batteries required,,,
-,Integrated,2.0,2.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,1920,1080,8,,500,GB,11.6,3.65,11.42,11.5,,,8,,3.2
-,,,,B.B.PAW,Android 6.0 Marshmallow,,,USB 2.0,PC,7,,,1,DDR3,8,GB,9.9,7.6,4.3,0.4,3,1 Lithium ion batteries required,,8,
-intel,,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,1,TB,4.83,14.96,10.16,0.89,,1 Lithium Polymer batteries required,,,2.6
-,Integrated,,,Dell,Windows 10,Intel,2.0,ATA,PC,15.6,,,12,DDR,1,TB,6.75,21.6,1.71,14.1,,1 Lithium Polymer batteries required,,,2.2
-,,,,BeyoundTab,Android 6.0 Marshmallow,,8.0,,Android,10,2560,1600,4,DDR3,64,GB,1.1,12.4,8,1.4,5,1 Lithium ion batteries required,,64,2.5
-,,,,Dell,Windows 10 Pro Ink,7th Gen Intel Core i7-7Y75 Processor,4.0,Solid State,Windows,,3200,1800,16,DDR3,512,GB,4.6,17,13,3,,,,,3.6
-intel,integrated,,,Apple,Mac OS,Intel,2.0,Solid State,Mac,13.3,,,8,DDR3,256,GB,2.96,12.8,8.94,0.68,,1 Lithium Polymer batteries required,,256,1.7
-,integrated,,,Lenovo,Windows 10,,2.0,,Windows,13.3,,,8,DDR4,,,3.75,12.2,8.4,0.6,,1 Lithium Polymer batteries required,,256,
-intel,Integrated,,,Dell,Windows 10 Home,AMD,2.0,Serial ATA,Home and Business/School 2-in-1 Touchscreen Laptop/Tablet,15.6,,,6,DDR3,500,GB,4.63,19.4,13.6,3,8,1 Lithium Polymer batteries required,,128,1.6
-intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,PC,17.3,1600,900,12,DDR4,256,GB,5.29,15.4,10.9,0.97,,1 Lithium ion batteries required,,256,2.7
-,,,,Padcod,Android 7.0 Nougat,,4.0,,Android,10.1,1280,800,2,,32,GB,1,12,10,2,3,,,32,1.3
-NVIDIA,Dedicated,2.0,2.0,ASUS,Windows 10,AMD,6.0,Solid State,PC,15.6,1920,1080,16,DDR,512,GB,4.4,9.9,14.2,0.7,,1 Lithium ion batteries required,,512.00,2.6
-intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,12.3,,,4,SDRAM,128,GB,1.72,17.8,12,2.7,,1 Lithium ion batteries required,,128,1.2
-,Integrated,2.0,2.0,Lenovo,,,1.0,Serial ATA,,1,,,,,,,15,12.9,6.5,14.8,,,1,512.00,
-NVIDIA,Dedicated,,,HP,Windows 10,Intel,4.0,Solid State,PC,15.6,3840,2160,16,DDR3,512,GB,12.3,14,9.9,0.7,13,1 Lithium ion batteries required,2,512,1.8
-,Integrated,2.0,1.0,Lenovo,Windows 8,Intel,1.0,,,15.6,1366,768,6,,1,TB,4.63,10.43,0.98,15.12,5,1 Lithium Metal batteries required,,,1.7
-,Integrated,,,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,PC,23.8,1920,1080,8,,500,GB,13.32,2.1,21.3,13.5,,,8,8,3.2
-Intel,Integrated,,,HP,Windows 10 Pro,Intel,4.0,Serial ATA,Windows,14,1920,1080,8,,256,GB,3.26,12.8,9.2,0.7,,1 Lithium Polymer batteries required,1,256.0,1.6
-Intel,Integrated,,2.0,ASUS,Windows 10,Intel,1.0,eSATA,PC,15.6,1920,1080,256,DDR4,256,GB,3.1,13.9,8.7,0.7,16,1 Lithium ion batteries required,,256.0,3.4
-,Integrated,,,Dell,Windows 10,Intel,1.0,Solid State,PC,13.3,,,8,DDR3,256,GB,2.7,16.5,14.6,4,,1 Lithium ion batteries required,,256,1.6
-,,,,RCA,,,4.0,,Android,10.1,1024,600,,,32,GB,2.4,12,8.3,3.1,6,1 Lithium ion batteries required,,32,1.3
-amd,,,,HP,Windows 10,AMD,2.0,,PC,15.6,,,8,SDRAM,1,TB,5.65,19,12.2,2.8,,1 Lithium ion batteries required,,1,2.6
-Intel,Integrated,,2.0,Google,Chrome OS,Intel,2.0,,Chrome,12.3,2400,1600,16,DDR,512,GB,2.45,11.43,8.69,0.44,10,1 Lithium Polymer batteries required,1,512,
-,,1.0,,Samsung,Android,,8.0,,Android,10.1,,,2,EPROM,16,GB,1.16,10.01,6.11,0.32,17,1 Lithium Polymer batteries required,,16,
-,Integrated,,,Acer,Windows 10,Intel,2.0,ATA,PC,15.6,,,4,DDR2,1,TB,4,3,19,10,,1 Lithium ion batteries required,,,2.3
-intel,,,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,15.6,1366,768,4,DDR4,128,GB,4.19,9.9,14.3,0.8,5.5,1 A batteries required,,,2.3
-amd,dedicated,,,Dell,,,1.0,,,15.6,3840,2160,,,,,5.4,9.3,13.9,3.25,,1 Lithium ion batteries required,,512,
-Intel,,4.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,27,,,16,SDRAM,1512,GB,30.9,6.4,12.4,12.1,,,,,2.9
-Intel,Integrated,1.0,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,14,1366,768,8,DDR4,512,GB,3.53,12.76,9.36,0.71,,1 Lithium ion batteries required,,512,1.6
-NVIDIA,Dedicated,,2.0,Lenovo,Windows 10,Intel,6.0,Solid State,,15.6,1920,1080,16,,512,GB,5.1,20,13,3,,1 Lithium ion batteries required,4,,2.6
-,,1.0,,BENEVE,Android 7.1 Nougat,,4.0,,Android,7,1024,600,1,,8,GB,8,7.76,4.92,0.45,3,1 Lithium Polymer batteries required,,8,1.2
-intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,PC,17.3,1600,900,8,DDR,256,GB,5.29,15.4,10.9,1,5,,,256,2.5
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,4,DDR3,1,TB,5.07,14.8,10.4,0.9,,1 Lithium Polymer batteries required,,,2.3
-,,1.0,,Victbing,Android,MTK,4.0,USB 2.0,Android Go 8.1,10.1,1280,800,1,DDR3,16,GB,1.5,9.45,6.6,0.3,5,1 Lithium ion batteries required,,16,1.5
-,Integrated,,,Lenovo,Windows 10 Home,Intel,4.0,Solid State,PC,13.9,1920,1080,8,DDR4,256,GB,3.02,12.7,8.8,0.5,15.5,1 Lithium Polymer batteries required,,256,1.8
-,,,,CZT,,,,,,2.5,,,,,,,3.68,5.91,2.76,0.87,2,,,,
-amd,integrated,,,Dell,Windows 10,AMD,1.0,Ethernet,PC,11.6,1366,768,4,DDR,64,GB,4.12,16,10.6,3,,,,64,1.6
-intel,Integrated,,,Panos,Chrome OS,Intel,2.0,SSA,PC,13.3,,,2,DDR,16,GB,3.31,12.9,8.9,0.8,9,1 Lithium ion batteries required,,16,1.44
-,Integrated,,,Dell,WINDOWS 10,INTEL,2.0,eSATA,PC,13.3,,,16,DDR,512,GB,2.84,21,12,2,22,,,1024,3.5
-,Dedicated,,,HP,Windows 10,AMD,2.0,,Windows,15.6,,,8,,1000,GB,4.74,14.2,9.8,0.8,8.25,1 Lithium Polymer batteries required,,8,2.7
-intel,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,17.3,1600,900,4,DDR4,2,TB,6.17,16.8,10.2,1.1,,1 Lithium ion batteries required,,,2.2
-Intel,Integrated,1.0,2.0,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR4,1,TB,11.5,14.96,10,0.94,,1 Lithium Polymer batteries required,1,8.00,2.4
-,,,,IVIEW,Android 6.0 Marshmallow,Allwinner,1.0,,Android,7,1024,600,1,,16,GB,10.6,7.57,4.57,0.5,8,1 Lithium Polymer batteries required,,16,1.2
-,Integrated,,,HP,Windows 10 Pro,Intel,1.0,Solid State,PC,14,1366,768,8,DDR3,256,GB,3.56,9.1,13.3,0.75,,1 Lithium ion batteries required,,128,1.8
-,,,,Acer,AndroidTM::Android 6.0 Marshmallow,,4.0,,,7,,,3,,,,8.8,4.02,7.6,0.35,,1 Lithium Polymer batteries required,,16,
-,,,,Dell,Windows 10,Intel,,Solid State,PC,,,,16,GDDR4,128,GB,13,14.71,6.3,11.61,,,,128,
-intel,integrated,,,Lenovo,Windows 10 Professional,Intel,4.0,,,14,1920,1080,16,DDR4,512,GB,3.41,12.95,12.95,0.7,,1 Lithium ion batteries required,,,1.9
-,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,14,,,8,DDR3,256,GB,3.55,20,14.9,3.5,,1 Lithium Polymer batteries required,,256,1.7
-Intel,integrated,2.0,,BMAX,Windows 10,Intel,2.0,Serial ATA-600,PC,,,,4,DDR3,64,GB,1.45,4.7,4.7,0.9,,,,,2.48
-Intel,dedicated,,,HP,Windows 10 Home,Intel,4.0,Serial ATA,PC,13.3,1920,1080,16,DDR4,1,TB,4.95,19,12,2.5,,1 Lithium Polymer batteries required,,,1.8
-,Integrated,,,Dell,Windows 8;,Intel,1.0,Solid State,PC,11.6,,,4,DDR3,128,GB,6,17,12,4,8,1 Lithium ion batteries required,,128,1.5
-,,,,UJoyFeel,,,4.0,,Android,7,1024,600,1,,16,GB,12.3,8.2,7.6,1.3,3,1 Lithium Polymer batteries required,,16,1.3
-Intel,"Dedicated, Integrated",,3.0,Lenovo,Windows 10,Intel,4.0,Solid State,PC,15.6,1920,1080,8,GDDR5,256,GB,4.39,14.4,0.8,9.95,,1 Lithium ion batteries required,,256.0,1.7
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,11.6,1366,768,4,DDR3,32,GB,3.19,11.91,8.19,0.78,,1 Lithium ion batteries required,,64,1.6
-,,,,BuzzTV,Android 6.0 Marshmallow,,4.0,,Android,,,,1,,8,GB,1.3,7.6,6.6,2.2,,2 AAA batteries required,,8,
-intel,Integrated,1.0,2.0,HP,Windows 10 Home,Intel,4.0,Solid State,,15.6,1366,768,12,SODIMM,256,GB,4.19,14.8,9.7,0.9,,1 Lithium ion batteries required,2,256.00,1.8
-Intel,Integrated,1.0,1.0,ASUS,Windows 10,Intel,1.0,,,11.6,1366,768,4,DDR3,,,2.8,11,7.87,0.7,8,1 Lithium ion batteries required,4,64.0,2.4
-Intel,integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,Business Laptop,14,1366,768,4,DDR,128,GB,4.45,9.8,12.8,0.8,,1 Lithium Polymer batteries required,,128,2.4
-NVIDIA,dedicated,,,PROSTAR,Windows 10,Intel,6.0,Serial ATA,PC,17.3,1920,1080,32,SDRAM,1,TB,5.51,10.55,15.96,0.78,,1 Lithium Polymer batteries required,,,2.6
-amd,,,,HP,Windows 10,AMD,4.0,Solid State,PC,15.6,1920,1080,16,DDR4,256,GB,4.48,14.1,9.7,0.7,,1 Lithium ion batteries required,,256,2.2
-AMD,Integrated,2.0,2.0,ASUS,Windows 10 Home,AMD,2.0,Serial ATA,PC,15.6,1920,1080,6,DDR4,1000,GB,3.5,14.2,9.6,0.7,6,1 Lithium Polymer batteries required,,8.0,3.4
-intel,Integrated,,,HP,Chrome OS,Intel,2.0,Serial ATA,PC,11.6,1366,768,4,DDR3,16,GB,4,17.2,10.3,2.8,,1 Lithium Polymer batteries required,,16,1.6
-,,,,ASUS,windows 8,NVIDIA,4.0,Serial ATA,Windows,10.1,1366,768,2,SDRAM,32,GB,1.16,8.5,4.5,0.1,9,1 Lithium ion batteries required,,32,1.3
-,Integrated,,7.0,HP,Windows 10 Professional,Intel,4.0,Serial ATA-600,PC,1,,,8,,,,2.67,1.35,6.97,6.88,,,,256.00,3.4
-intel,Integrated,,,Microsoft,Windows 10 Pro 64-bit,Intel,1.0,Serial ATA,PC,12.3,2736,1824,4,DDR,128,GB,5,15,12,8,,,,,2.6
-NVIDIA,Dedicated,,4.0,MSI,Windows 10 Pro,Intel,6.0,Solid State,,17.3,1920,1080,32,SODIMM,512,GB,5.03,15.59,10.22,0.75,,,,512,2.6
-nvidia,Dedicated,,,MSI,,Intel,1.0,Solid State,,15.6,1920,1080,8,,256,GB,8.8,20,14,4.2,,,,256,2.3
-intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,15.6,1920,1080,8,DDR4,1,TB,5,18,10,3,,,,,1.6
-intel,integrated,,,Dell,Windows 10 Pro,Intel,2.0,Solid State,PC,14,,,8,DDR3,256,GB,3.73,13.7,9,0.8,,,,256,2
-amd,,,,ASUS,Windows 10,AMD,4.0,Serial ATA,PC,14,1366,768,4,SDRAM,1032,GB,3.59,13.3,9.3,0.9,,1 Lithium ion batteries required,,,1.5
-,Integrated,,,Acer,Chrome OS,Intel,1.0,eSATA,PC,11.6,1366,768,4,DDR3,32,GB,3.53,15.3,9.4,3.2,,1 Lithium ion batteries required,,,1.6
-,integrated,2.0,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,11.6,1366,768,4,DDR4,500,GB,2.66,11,10.08,1.06,,1 Lithium Polymer batteries required,,,2.6
-intel,Integrated,,,Apple,Mac OS X,Intel,2.0,Serial ATA,Mac,13.3,,,4,DDR3,500,GB,4.5,16.2,14.3,4.3,7,1 Lithium Polymer batteries required,,,2.5
-Qualcomm,Integrated,1.0,2.0,ASUS,Windows 10 S,Qualcomm,2.0,Solid State,Windows,13.3,1920,1080,128,DDR,128,GB,3.1,12.4,8.7,0.6,,1 Lithium ion batteries required,,128.00,2.6
-Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,eSATA,Home and Business Full HD IPS Touchscreen Laptop,15.6,1920,1080,12,DDR,1,TB,4.21,14.88,9.93,0.78,9,1 Lithium ion batteries required,,,1.8
-,,,,HP,Windoes 10,Intel i5,6.0,eSATA,PC,23.8,,,16,GDDR4,1,TB,12.32,21.27,6.3,17.42,,1 Lithium ion batteries required,,,1.7
-Intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,15.6,4096,2304,8,DDR4,128,GB,5.29,14.1,9.6,0.7,8,1 Lithium ion batteries required,32,128,3.9
-,,1.0,,Dragon Touch,Android 8.1 Oreo,MTK,4.0,USB 2.0,Android,10.1,,,2,DDR3,16,GB,1.95,9.5,6.69,0.39,6,1 Lithium Polymer batteries required,,16,1.30
-intel,,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,16,DDR4,1,TB,5,12.8,9.2,0.7,,,,,1.6
-intel,integrated,,,ASUS,Windows 10,Intel,4.0,Solid State,PC,10.1,1366,768,2,DDR3,64,GB,2.4,10.4,6.7,0.9,11,1 Lithium ion batteries required,,64,1.33
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,PC,14,1366,768,16,DDR4,2,TB,3.84,13.22,9.17,0.8,,,,,1.6
-nvidia,Dedicated,,,Acer,Windows 10,Intel,4.0,Serial ATA,PC,17.3,,,16,DDR,,,15,23.5,17,5,,1 Lithium ion batteries required,,256,2.8
-,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Solid State,2 in 1 Full HD Business Laptop/Tablet,13.3,1920,1080,8,DDR3,256,GB,2,7.8,11.98,0.32,12,1 Lithium ion batteries required,,256,1.3
-intel,Integrated,,,Acer,Chrome OS,Intel,2.0,Solid State,PC,15.6,1920,1080,4,DDR4,32,GB,5.7,15.1,10.1,0.8,,1 Lithium ion batteries required,,,2.4
-Intel,Integrated,,3.0,Acer,Chrome OS,Intel,2.0,Solid State,,14,,,8,DDR4,64,GB,5.3,12.72,9.39,0.7,12,1 Lithium ion batteries required,,64,3.4
-Intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,4.0,Solid State,Windows,14,2560,1440,16,,,,2.91,13,8.9,0.7,6,1 Lithium ion batteries required,,512.0,1.9
-AMD Radeon R5 Graphics,Integrated,2.0,1.0,Lenovo,Windows 10,AMD,4.0,Serial ATA,PC,15.6,1366,768,12,SDRAM,1000,GB,4.84,14.92,0.9,10.24,5,1 Lithium Polymer batteries required,,,2.5
-intel,Integrated,,,Ematic,Windows 10,Intel,4.0,,,14.1,,,2,,,,1,13.77,0.59,9.13,,1 Lithium ion batteries required,,32.0,1.3
-Intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,13.3,1920,1080,8,DDR3,256,GB,2.9,7.88,11.98,0.6,,1 AAA batteries required,,256,2.5
-NVIDIA,dedicated,,,HP,Windows 10,Intel,6.0,Solid State,PC,15.6,3840,2160,16,DDR4,1,TB,4.83,14.22,9.84,0.76,,1 Lithium ion batteries required,,,2.6
-nvidia,dedicated,,,Lenovo,Windows 10,Intel,6.0,PCIE x 4,PC,15.6,1920,1080,8,DDR4,512,GB,9.09,14.37,10.24,1.02,5,1 Lithium ion batteries required,,512,2.6
-NVIDIA,Dedicated,,4.0,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,15.6,1920,1080,16,DDR4,1000,GB,5.29,14.21,10.31,1.03,,1 Lithium Polymer batteries required,6,256.00,3.9
-Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Serial ATA,PC,17.3,1600,900,8,DDR4,1,TB,5.52,16.33,10.72,0.96,,,,,2.2
-,,,,ASUS,windows 8,NVIDIA,4.0,Serial ATA,Windows,10.1,1366,768,2,SDRAM,32,GB,1,1,1,1,8,1 Lithium ion batteries required,,32,1.3
-intel,Integrated,,3.0,ASUS,Windows 10 Pro,Intel,6.0,Solid State,,13.3,1920,1080,8,,256,GB,2.31,12.24,8.39,0.51,9,1 Lithium ion batteries required,,256.0,1.8
-Intel,Integrated,,3.0,ASUS,Windows 10 S,Intel,2.0,Solid State,,11.6,1366,768,4,,64,GB,2.2,11.3,7.6,0.7,,1 Lithium ion batteries required,,64,2.4
-intel,integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,4,DDR3,500,GB,5,15,11,2,,1 Lithium ion batteries required,,512,2.16
-AMD,Dedicated,,4.0,Acer,Windows 10 Home,Intel,4.0,Solid State,,15.6,1920,1080,16,DDR4,512,GB,5.55,9.53,14.17,0.67,,1 Lithium ion batteries required,4,512.00,4.1
-NVIDIA®,Dedicated,,,Razer,Windows 10 Home,Intel,6.0,Solid State,PC,15.6,1920,1080,16,,,,4.63,9.25,13.98,0.7,,1 Lithium ion batteries required,8,256.0,4.1
-Intel,Integrated,,2.0,HP,Windows 10 Home,Intel,4.0,Serial ATA,Windows,15.6,1920,1080,8,DDR4,1,TB,5.4,19,3,12,,1 Lithium ion batteries required,0,,1.6
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR3,256,GB,4.52,15,10,0.9,,1 Lithium ion batteries required,,256,2.4
-,,,,BENEVE,Android 7.1 Nougat,,4.0,,Android,7,1024,600,1,,8,GB,2,12.2,6.5,1.9,,2 Lithium Polymer batteries required,,8,1.2
-Intel,Integrated,2.0,1.0,Dell,Windows 10,Intel,2.0,,,15.6,1366,768,8,DDR3,1,TB,5.4,10.25,14.9,0.95,,1 Lithium ion batteries required,,256,2.2
-,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,1,TB,5.06,15.04,9.84,0.94,8,1 Lithium ion batteries required,,1,2.7
-,integrated,,,KODLIX,Windows 10,Intel,,Ethernet 100Base-TX,PC,,,,4,DDR,64,GB,9.1,9.5,5.4,2.8,,,,,2.48
-nvidia,Dedicated,,3.0,Razer,Windows 10 Home,Intel,6.0,Solid State,,15.6,1920,1080,16,,256,GB,4.56,9.25,13.98,0.66,,1 Lithium ion batteries required,8,256.00,4.1
-NVIDIA,dedicated,,,Dell,Windows 10 Home,Intel,6.0,Serial ATA,PC,15.6,1920,1080,16,DDR4,128,GB,5.9,14.3,10.8,0.95,,1 Lithium ion batteries required,,128,2.6
-Nvidia,Dedicated,,,Acer,Windows 10,Intel,6.0,Serial ATA,PC,15.6,1920,1080,32,DDR3,512,GB,5.51,12.8,9.2,0.7,,,,512,2.2
-Intel,Dedicated,1.0,,Lenovo,Windows 10 Pro,Intel,1.0,Solid State,PC,15.6,1920,1080,,,,,5.51,14.9,9.9,1.2,,,,512.00,
-,,,,Azpen,Android 6.0 Marshmallow,,4.0,,Android,7,1280,800,32,DDR3,32,GB,2.45,11.6,6.1,4.1,5,,,8,1.3
-Allwinner,Integrated,1.0,1.0,DYNABOOK,Windows 10 Pro,,1.0,ATA-4,PC,15.6,1920,1080,,DDR4,,,4.85,16.7,13.9,2.4,,1 Lithium ion batteries required,1,512.00,
-intel,,,,,,,4.0,,,15.6,,,8,DDR4,,,6.55,15,10,1,,1 Lithium Polymer batteries required,,256,
-Intel,Integrated,,,ASUS,Windows 10 Home,Intel,4.0,Solid State,PC,14,1920,1080,8,DDR4,256,GB,3.1,12.9,8.9,0.5,,1 Lithium ion batteries required,8,256.00,3.9
-,,,,Dell,Windows 10 Professional,Intel,8.0,,PC,,,,8,DIMM,1,TB,25.9,18.8,18.3,14,,,,,
-NVIDIA,Dedicated,,5.0,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,17.3,1920,1080,16,DDR4,1000,GB,6.5,16.22,10.77,0.94,,1 Lithium Metal batteries required,6,256.0,2.2
-intel,Dedicated,,,HP,Windows 10 Pro 64-Bit,Intel,1.0,Serial ATA,PC,14,1366,768,8,DDR3L,256,GB,5.9,17.2,12.6,4.2,,1 Lithium ion batteries required,,,2.3
-intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,12,SDRAM,2,TB,5.82,14.96,9.99,0.94,,,,,2.5
-nvidia,Integrated,,,Dell,Windows 10 Pro,Intel,6.0,,PC,15.6,1920,1080,8,,,,4.26,9.9,14.8,0.8,,1 Lithium ion batteries required,2,256.0,2.6
-,Integrated,4.0,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,Windows,0.0,,,8,,500,GB,11.6,11.5,3.7,11.4,,,,,3
-AMD,Dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,,,,16,DIMM,256,GB,32,6.8,19.1,16.3,,,,,2.9
-intel,Dedicated,1.0,1.0,HP,,,1.0,ATA-4,,13.3,1280,800,,,,,4.5,9.1,12.1,0.7,,1 12V batteries required,1,256.00,
-,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,12,SDRAM,1,TB,4.8,14.96,9.84,0.74,10,1 Lithium ion batteries required,,,2.5
-Intel,Integrated,1.0,,ASUS,Windows 10 Home,Intel,2.0,Serial ATA,Home and Business PC,14,1366,768,4,DDR,500,GB,3.86,13.7,9.6,1,10,1 Lithium ion batteries required,,256,2.6
-amd,"Integrated, Dedicated",,,Lenovo,Windows 10 Home,AMD,2.0,Solid State,Business Laptop,15.6,1366,768,4,DDR,256,GB,4.63,10,14.8,0.9,5,,,256,2.6
-intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1600,900,16,SDRAM,16,GB,6.85,20.6,13.6,2.8,,1 Lithium ion batteries required,,1,1.8
-Intel,integrated,2.0,,Dell,Windows 10,Intel,4.0,Solid State,PC,11.6,1366,768,8,DDR3,128,GB,3.24,11.3,7.8,0.8,,1 Lithium ion batteries required,,128,1.6
-intel,Integrated,,,Google,Chrome OS,Intel,2.0,,,12.3,3000,2000,8,,,,1.59,11.45,7.95,0.28,,1 Lithium Polymer batteries required,,64,3.4
-Intel,Integrated,3.0,,Dell,Windows 10 Pro,Intel,1.0,Solid State,PC,14,1920,1080,16,DDR,512,GB,3.01,8.7,13.03,0.82,,1 Lithium ion batteries required,,512,2.6
-,Integrated,,2.0,Acer,Windows 10,Intel,1.0,,,14,1920,1080,8,,,,4.19,13.54,9.65,0.73,9,1 AA batteries required,,256.0,2.3
-intel,Integrated,1.0,,HP,Windows 10 Home,Intel,4.0,,,15.6,,,12,DDR,,,4.63,14.96,9.99,0.94,,1 Lithium ion batteries required,,,
-,"Intel HD Graphics 620, Integrated",,,HP,Windows 10 Pro,Intel,2.0,,,14,,,16,,512,GB,5.1,21,12,4,,,,,2.8
-,Integrated,,,Samsung,AndroidTM 5.1 Lollipop,Samsung,1.0,,Android,7,1280,800,1,,8,GB,9.8,4.27,0.34,7.35,5,1 Lithium Polymer batteries required,,8,1.3
-,,,,Samsung,Android,samsung,4.0,,Android,10.1,1280,800,1,,16,GB,1.08,6.94,0.31,9.58,,1 Lithium ion batteries required,,16,1.2
-,,,,FayshockUS,Android 6.0 Marshmallow,,4.0,,Android,10.1,1280,800,16,,16,GB,1.8,11.4,7.9,2.2,4,1 Lithium Polymer batteries required,,16,1.3
-,,,,AWOW,Windows 10 Home,Intel,4.0,Solid State,PC,,,,4,DDR,32,GB,2.24,4.8,1.45,0.47,,,,32,1.44
-,,,,Samsung,Android 5.0 Lollipop,Qualcomm,1.0,,PC,8,1280,800,2,DDR,16,GB,11,0.29,5.43,8.2,14,1 Lithium ion batteries required,,16,1.4
-NVIDIA,Dedicated,,4.0,Acer,Windows 10,Intel,1.0,Serial ATA,,15.6,1920,1080,16,,1000,GB,8.16,15.39,11.79,1.52,3,1 Lithium ion batteries required,8,256.0,2.8
-intel,Integrated,1.0,,Lenovo,,,1.0,Serial ATA,,13.3,1920,1080,,,,,4.4,17.1,11.3,3,,1 Lithium ion batteries required,,,
-,,,,Thinkpad_X1,Windows 10,Intel,1.0,Solid State,PC,14,,,8,DDR,512,GB,4.8,18.5,12,3,,1 Lithium ion batteries required,,512,3.4
-Intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,8,DDR4,128,GB,3.96,14.09,9.65,0.7,,1 Lithium ion batteries required,,,1.6
-,,,,Dell,Windows 10,Intel,1.0,Serial ATA,PC,,,,8,GDDR4,1,TB,23.6,19,18.2,14,,,,,4
-AMD,Integrated,2.0,,HP,Chrome OS,AMD,2.0,Solid State,,14,1366,768,4,,32,GB,3,8.93,13.27,0.72,,1 Lithium ion batteries required,,32.00,2.2
-,,,,ASUS,Windows 10,AMD,2.0,Solid State,PC,15.6,1920,1080,4,SODIMM,128,GB,4,9,14,0.8,5,1 Lithium ion batteries required,,128,2.6
-,Integrated,,,Dell,Windows 10,Intel i5-7200u,2.0,Solid State,PC,15.6,1920,1080,8,DDR3,256,GB,4.83,14.9,9.9,0.7,6,1 C batteries required,,256,2.5
-NVIDIA,Dedicated,,,HP,Windows 10,Intel,4.0,Solid State,,17.3,1920,1080,8,,256,GB,6.07,23.5,13.5,2.8,,1 Lithium ion batteries required,,256.00,4.1
-Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,Business and Home Laptop,15.6,1366,768,12,DDR,256,GB,3.88,9.7,14.8,0.89,10.25,1 Lithium ion batteries required,,256,1.8
-amd,integrated,1.0,,HP,Windows 10,AMD,4.0,Solid State,PC,15.6,1366,768,8,DDR4,128,GB,3.88,14.8,9.7,0.9,,1 Lithium Polymer batteries required,,128,2.1
-amd,dedicated,2.0,,HP,Windows 10,AMD A8-7410,4.0,Serial ATA,PC,15.6,1366,768,4,DDR3,1,TB,4.73,15.13,10,0.96,6,1 Lithium Polymer batteries required,,,2.2
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,Business Laptop,13.3,1920,1080,8,DDR3,512,GB,5.38,7.88,11.98,0.53,13,,,512,1.8
-Intel,Integrated,1.0,1.0,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,4,DDR3,500,GB,4.85,10.25,14.96,0.85,8,1 Lithium Polymer batteries required,,128,1.6
-amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1366,768,16,DDR4,512,GB,5.7,12.8,9.2,0.7,5,1 Lithium ion batteries required,,512,3.1
-intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1600,900,16,SDRAM,2512,GB,6.85,12.8,9.2,0.7,,1 Lithium ion batteries required,,512,1.8
-Intel,Integrated,,,HP,Windows 10,Intel,1.0,Serial ATA-600,PC,17.3,1600,900,8,DDR4,1000,GB,6.88,20.5,13.5,3,9.5,1 Lithium ion batteries required,,,2.9
-,,,,RCA,Android,mediatek,4.0,,Android,10,1280,800,1,DDR,32,GB,2.9,11.5,7.6,2.7,4,1 Lithium ion batteries required,,32,1.4
-,Integrated,,,HP,Windows 10 Pro,Intel,1.0,Serial ATA,PC,14,1300,768,8,DDR3,180,GB,3.6,9.1,13.3,0.7,,1 Lithium ion batteries required,,180,1.8
-,,,,Okian,Windows 10,Intel,4.0,USB,Mac,,,,4,DDR3,64,GB,1.94,8.8,6.1,2.7,,,,,2.3
-intel,Integrated,1.0,2.0,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,15,1920,1080,12,DDR4,512,GB,5.98,18.5,12,3.1,,1 Lithium ion batteries required,12,12.00,3.1
-amd,"Integrated, Dedicated",,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,11.6,,,4,DDR4,128,GB,4.72,16.3,10.4,3,,1 Lithium ion batteries required,,128,1.8
-,,1.0,,UJoyFeel,Android 6.0 Marshmallow,ARM,4.0,USB 2.0,Android,7,1024,600,1,DDR3,1,GB,1.06,7.15,4.7,0.4,4,1 Lithium Polymer batteries required,8,8,1.3
-intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,15.6,,,8,DDR4,256,GB,4.85,14.96,10.15,0.89,,1 Lithium ion batteries required,,128,2.5
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,14,1366,768,4,DDR4,256,GB,3.15,12.8,8.9,0.8,9,1 Lithium ion batteries required,,,2.4
-,,1.0,1.0,Microsoft,Windows 10 Professional,Intel,1.0,,Windows,12.3,2736,1824,16,,1,TB,1.7,1.58,15.17,9.21,13,1 Lithium ion batteries required,,1,3.4
-Intel,Integrated,2.0,2.0,Dell,Windows 10,Intel,1.0,Solid State,PC,15.6,,,8,DDR,,,5.51,19.4,13.2,2.8,,1 Lithium Metal batteries required,1,1.0,2.5
-,Integrated,4.0,,HP,Windows 10,Intel,6.0,Serial ATA,PC,0.0,,,8,,1000,GB,11,10.9,6.69,13.3,,,8,1.00,2.8
-,integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,Desktop Computer,,,,12,DDR,256,GB,12.4,12.4,6.42,12.09,,,,,2.9
-Intel,Integrated,4.0,,Dell,Windows 10 Professional,Intel,1.0,Serial ATA,PC,0.0,,,8,DDR4,1,TB,17.48,10.8,6.1,13.8,,,,8,3
-nvidia,Dedicated,,,MSI,Windows 10,Intel,6.0,,,15.6,,,8,,,,5.5,19.5,13,4.2,,1 Lithium ion batteries required,,128,
-nvidia,dedicated,3.0,,Dell,Windows 7;,Intel,2.0,Serial ATA,PC,14.1,1400,900,4,DDR3,160,GB,5.4,14,15,3,,1 Lithium ion batteries required,,,2.53
-,Integrated,1.0,1.0,HP,,,6.0,Solid State,,23.8,,,3,,,,19.69,21.24,7.09,18.41,,,,256.00,
-Intel,Integrated,1.0,1.0,HP,Windows 10,Intel,1.0,eSATA,PC,15.6,1366,768,8,DDR4,2,TB,3.9,14.8,9.69,0.89,,1 Lithium Metal batteries required,2,2,2.5
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,14,1366,768,4,DDR4,128,GB,5.63,9.2,13.2,0.8,,1 Lithium ion batteries required,,,2.1
-intel,Integrated,1.0,,ASUS,Windows 10,Intel,4.0,,Windows,13.3,,,8,DDR3,1,TB,4.19,12.7,8.9,0.7,10,1 Lithium Polymer batteries required,,,2.3
-Intel,Integrated,1.0,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,12,DDR4,1,TB,6.95,14.95,10.15,0.89,,1 Lithium Polymer batteries required,,,1.6
-,dedicated,,,Microsoft,Windows 10,intel,1.0,Solid State,Windows,28,,,2,,64,GB,32.8,35,23,10,20,,,1,2.6
-,Integrated,,,Lenovo,Windows 10,AMD,2.0,,,15.6,,,8,DDR4,,,6.1,14.8,10,0.9,,1 Lithium ion batteries required,,256,
-nvidia,Dedicated,,,Dell,Windows 10,Intel,4.0,Solid State,PC,15.6,,,16,DDR,512,GB,6,21,12,2,,1 Lithium ion batteries required,,512,3.8
-Intel,integrated,2.0,,Dell,Windows 10,,1.0,,PC,23.8,1920,1080,3,,,,18.2,18,16,12,,1 Lithium Polymer batteries required,,1,
-intel,"Shared, Integrated",,2.0,Lenovo,Windows 10 Home,Intel,4.0,Solid State,PC,14,1920,1080,8,DDR,128,GB,3.7,9,12.9,0.7,10,1 Lithium Polymer batteries required,2,128.00,1.8
-NVIDIA,Dedicated,1.0,,Alienware,Windows 10,Intel,4.0,,PC; Notebook,13.3,1920,1080,16,DDR,512,GB,5.8,10.59,12.99,9.44,,1 Lithium ion batteries required,,512.0,3.8
-Intel,integrated,2.0,1.0,Acer,Windows 10,Intel,1.0,,,15.6,1920,1080,12,DDR4,1000,TB,4.74,9.9,15,0.9,,,,,2.5
-intel,"Integrated, Dedicated",,,Apple,macOS 10.12 Sierra,Intel,1.0,Solid State,Mac,13.3,2560,1600,8,DDR3,512,GB,3,8.36,11.97,0.59,,1 Lithium ion batteries required,,256.0,2.9
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,14,1920,1080,12,DDR4,512,GB,3.16,12.76,8.89,0.78,7.5,1 Lithium ion batteries required,,,2.2
-,,,,Dell,Android 4.1,Intel,2.0,Solid State,Android,8,1280,800,2,DDR2,16,GB,11.8,8.5,5.12,0.35,8,1 Lithium ion batteries required,,16,2
-Intel,Integrated,,,Lenovo,Windows 10 Home,Intel,2.0,Solid State,Business and School Laptop,15.6,1366,768,8,DDR,256,GB,5.18,9.6,14.8,0.7,8.5,1 Lithium ion batteries required,,,2.1
-AMD,,,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,13.3,1920,1080,8,DDR3,256,GB,3.84,12.7,8.8,0.7,,1 Lithium ion batteries required,,256,2
-NVIDIA,dedicated,,,ASUS,Windows 10,Intel,6.0,Solid State,PC,15.6,1920,1080,32,DDR4,1024,GB,5.07,15.1,10.3,1,6,1 Lithium ion batteries required,,32,2.2
-,Integrated,,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,13.3,,,8,DDR4,256,GB,11.5,12.6,8.8,2.6,,1 Lithium Polymer batteries required,,256,3.4
-Nvidia,dedicated,,,Dell,Windows 10,Intel,6.0,Serial ATA,PC,,,,16,DDR4,256,GB,12.1,12.52,3.74,13.5,,,,256,3.2
-Intel,,,,Highwings,Windows 10,Intel,4.0,USB 3.0,PC,,,,8,DDR,64,GB,1.62,5.2,5.1,3,,,8,,2.2
-,,,,Acer,Chrome OS,Intel,2.0,,Chrome,13.3,,,6,DDR3,64,GB,3.28,12.83,8.98,0.61,,1 A batteries required,,32,
-Intel,Integrated,1.0,,HP,Windows 10 Home,Intel,2.0,Solid State,Business Laptop,14,1366,768,4,DDR3,64,GB,3.17,8.9,13.27,0.7,10,1 Lithium Polymer batteries required,,64,1.6
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,17.3,1600,900,12,DDR4,256,GB,4.98,10.9,15.3,1,,,,256,2.7
-intel,Integrated,,,Dell,Windows 10,Intel,1.0,,PC,13.3,,,8,DDR,256,GB,3.31,4,15,17,,1 Lithium ion batteries required,,,3.6
-NVIDIA,Dedicated,1.0,3.0,MSI,Windows 10 Pro,Intel,8.0,PCIE x 4,PC,17.3,1920,1080,32,SODIMM,,,5.73,15.63,10.57,1.08,,1 Lithium Polymer batteries required,,512,3.4
-NVIDIA,dedicated,,,Acer,Windows 10,Intel,6.0,Solid State,PC,15.6,1920,1080,32,DDR4,2,TB,5.07,14.23,10,0.9,,,,,2.6
-nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,15.6,1920,1080,16,DDR,512,GB,9,18.8,14.6,4.3,,1 Lithium ion batteries required,,512,2.6
-intel,Integrated,,,Apple,MAC OS,Intel,2.0,Ethernet,Mac,13,2560,1600,8,DDR3,512,GB,4,11,8,1,12,1 Lithium ion batteries required,,256,3.1
-,,,,Samsung,,qualcomm,4.0,Solid State,,10.5,2560,1600,4,,256,GB,11.5,6.5,0.3,9.8,16,1 Lithium Polymer batteries required,,256,2.45
-intel,Integrated,2.0,2.0,MISC,,,1.0,Solid State,,14,1920,1080,2,,,,3.27,9.2,12.8,0.7,,1 Lithium ion batteries required,,512.00,
-,Integrated,,,ASUS,Windows 8;,Intel,4.0,,PC,10,1366,768,2,SORIMM,,,3.45,11.7,8.5,3,11,1 Lithium ion batteries required,,64,
-,,1.0,,Lenovo,,,,,,10.1,,,2,,,,2.88,6.89,9.72,0.3,5,1 Lithium ion batteries required,,32,
-Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1920,1080,16,DDR3,1,TB,6.48,16.2,10.8,0.8,6,1 Lithium ion batteries required,,,1.8
-,,,,Samsung,Android 3.1 Honeycomb,,,,Android,10.1,,,16,,16,GB,1.9,10.9,7.2,2,9,1 Lithium ion batteries required,,16,
-,,,,HP,Windows 10,Intel,6.0,Serial ATA,PC,23.8,,,12,SDRAM,2,TB,19.84,27,21.5,8.8,,1 Lithium ion batteries required,,,1.7
-intel,Integrated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,,,8,DDR3,1,TB,4.85,19.5,13.5,3,,1 Lithium Polymer batteries required,,,1.6
-,,,,Polaroid,,ARM,,,Android,7,,,4,,,,1.25,12.5,8.1,2,3,,,4,1
-intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,12,DDR4,1,TB,3.97,20.3,12.1,2.6,,1 Lithium Polymer batteries required,,,1.8
-,,1.0,,RCA,Android,,1.0,,Android,7,1024,600,1,DDR3,16,GB,1.1,7.3,4.9,0.45,4,1 Lithium Polymer batteries required,,16,1.2
-,,,,Mirzebo,,,4.0,USB,MT6580,10.1,1920,1200,1,DDR2,16,GB,2.3,9.45,6.3,0.28,3,,,16,1.6
-,integrated,,,Dell,Windows 10,AMD,2.0,,PC,11.6,1366,768,4,DDR4,64,GB,1.2,11.48,7.95,0.82,,1 Lithium ion batteries required,,,1.6
-,integrated,2.0,,COOFUN,Windows 10 Professional,Intel,4.0,USB 2.0,PC,,3840,2160,4,DDR3,64,GB,1.1,9.7,5.2,1.9,,,,,1.92
-AMD,,1.0,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,14,1920,1080,4,DDR4,64,GB,5.3,12.91,8.85,0.69,,1 Lithium Polymer batteries required,,64,1.8
-intel,Integrated,,,Dell,Windows 10,Intel,4.0,,,15.6,,,8,DDR3,,,1,1,1,1,,1 Lithium ion batteries required,,,
-nvidia,Dedicated,,,Alienware,Windows 8,Intel,2.0,,PC,13,1920,1080,8,DDR3,1,TB,4.54,1.1,12.91,9.25,,1 Lithium ion batteries required,2048,,1.7
-,integrated,,,,Windows 10,Intel,2.0,Serial ATA,PC,23.8,,,8,DDR,1,TB,14.21,23,16.74,7.75,,1 Lithium ion batteries required,,,2.5
-NVIDIA,dedicated,1.0,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,15.6,1920,1080,3,,,,5.51,14.9,9.9,1.2,,1 Lithium ion batteries required,,,
-,,,,TenYiDe,Android 7.0 Nougat,,8.0,,Android,10.1,1920,1080,2,DDR3,64,GB,1.76,9.45,6.69,0.31,5,1 Lithium Polymer batteries required,,2,1.5
-intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,,,15.6,,,12,DDR4,,,4.63,14.96,9.99,0.94,,1 Lithium ion batteries required,,12,
-Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,15.6,1920,1080,8,DDR4,256,GB,4.37,10.05,14.91,0.71,,1 Lithium ion batteries required,,256,1.8
-amd,,2.0,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,Home and Business Laptop,15.6,1920,1080,16,DDR3,1,TB,5.51,16.69,11,1.06,,1 Lithium ion batteries required,,1,2.7
-,,,,PROSCAN,Android 7.1 Nougat,,4.0,,Android,9,1024,600,8,DDR,8,GB,2.6,10.9,7.8,3.5,5,,,8,1.2
-,Dedicated,,1.0,Dell,Windows 10 Pro,Intel,4.0,Serial ATA,,15.6,1920,1080,8,DDR4,500,GB,4.45,10.2,15,0.9,7,1 Lithium ion batteries required,,,1.8
-nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,PCIE x 4,PC,15.6,1920,1080,16,DDR4,512,GB,7,14.29,10.02,0.94,9,1 Lithium ion batteries required,,,2.4
-Intel,Integrated,3.0,,Dell,Windows 10 Home,Intel,1.0,Serial ATA,PC,17.3,1920,1080,8,DDR,2,TB,6.2,11,16.4,1,,1 Lithium ion batteries required,,,1.8
-,Integrated,1.0,1.0,Samsung,Android 4.4 KitKat,Marvell,1.0,,Android,7,1280,800,1,,8,GB,9.8,0.35,7.36,4.25,10,1 Lithium ion batteries required,,8,1.2
-,Integrated,,,ASUS,Windows 10 Home,Intel,2.0,,Windows,11.6,,,2,,,,2.6,7.9,0.7,11.7,,,,32,1.6
-Intel,Dedicated,,4.0,ASUS,Windows 10,Intel,4.0,Serial ATA,,17.3,1920,1080,16,,1000,GB,6.7,16.5,11,1,,1 Lithium ion batteries required,6,256.0,2.8
-intel,integrated,1.0,2.0,Dell,Windows 8,Intel,1.0,,,14,1366,768,2,,500,GB,4.44,1,9.7,13.6,,1 Lithium ion batteries required,,,2.16
-,integrated,,,HP,Windows 10,Intel,4.0,Solid State,PC,,,,32,DDR,2,TB,12.35,6.42,12.4,12.09,,,,,2400
-Intel,,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,8,DDR3,512,GB,4.3,15,10,0.9,,1 Lithium ion batteries required,,512,1.1
-amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1366,768,8,DDR4,128,GB,5.7,20.4,12,2.6,5,,,128,3.1
-,,2.0,,HP,Windows 10,AMD,2.0,USB,PC,23.8,1920,1080,8,DDR,1,TB,13.05,21.3,0.64,16.52,,,,,3.1
-intel,integrated,,,Dell,Windows 10,Intel,4.0,,Windows,15.6,,,8,DDR,2000,GB,3,13,3,15,,1 Lithium Polymer batteries required,,,
-AMD,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,15.6,1366,768,16,DDR4,512,GB,5.71,14.8,10,4.63,5,1 Lithium ion batteries required,,512,3.7
-AMD,,,,Acer,Windows 10 Home,AMD,2.0,Serial ATA,PC,14,1366,768,8,DDR4,512,GB,3.64,13.5,9.6,0.8,,1 Lithium ion batteries required,,,1.8
-,Integrated,2.0,1.0,Dell,Windows 10,Intel,2.0,,PC,11.6,1366,768,4,DDR4,32,GB,4.41,11.48,7.95,0.8,3,1 Lithium Polymer batteries required,,32,2.4
-,integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,PC,10.1,1280,800,2,DDR,32,GB,2.4,10.43,6.81,0.64,10,1 Lithium Polymer batteries required,,32,1.44
-,,,,Samsung,Android 4.1 Jelly Bean,,4.0,,Android,8,1280,800,16,,16,GB,1,3.84,0.72,1.99,,1 Lithium ion batteries required,,16,1.6
-intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,15.6,,,8,DDR,250,GB,4.1,14.96,9.99,0.94,9,1 Lithium ion batteries required,,256,1.8
-NVIDIA,Dedicated,,,MSI,Windows 10,Intel,6.0,Solid State,PC,15.6,1920,1080,16,GDDR5,256,GB,3.97,14.08,9.75,0.7,,1 Lithium ion batteries required,6,256,2.6
-intel,Integrated,,,Dell,Windows 10,Intel,1.0,PCIE x 16,PC,13.3,,,16,DDR3,1,TB,5.3,17.4,11.4,3.3,,1 Lithium ion batteries required,,1,4
-intel,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,13.3,1920,1080,8,DDR3,256,GB,7,18,12,3,,,,,1.6
-intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1366,768,12,DDR4,1,TB,5.6,15,11,1,,1 Lithium ion batteries required,,,1.8
-Intel,Integrated,1.0,,ASUS,Windows 10 Home,Intel,4.0,Solid State,PC,14,1920,1080,8,DDR3,512,GB,3.2,12.7,8.3,0.6,10,1 Lithium ion batteries required,8,512.00,
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,,,15.6,1366,768,4,,500,GB,5.95,14.9,0.9,10.4,,1 Lithium Polymer batteries required,,,1.6
-Intel,Integrated,1.0,,AWOW,Windows 10,Intel,4.0,Solid State,PC,10.1,1280,800,4,SODIMM,64,GB,1.2,9.8,6.5,0.3,6,1 Lithium Polymer batteries required,,4,1.92
-amd,Dedicated,,,Dell,Windows 10 Home,AMD,2.0,Solid State,PC,15.6,1366,768,8,DDR,256,GB,5,15,10.2,0.9,,1 Lithium ion batteries required,,256,2
-,Dedicated,1.0,1.0,HP,,,6.0,ATA-4,,21.5,,,4,,,,12.74,19.26,8.21,14.32,,,1,256.00,
-intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,15.6,,,8,SDRAM,1,TB,7,20,14,4,,1 Lithium ion batteries required,,,2.7
-,integrated,2.0,,HP,Windows 10,Intel,4.0,Solid State,PC,,,,16,DDR,512,GB,14.05,12.09,6.4,12.04,,,,,2.9
-,Dedicated,4.0,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,Windows,0.0,,,16,,,,17.48,10.8,6.1,13.8,,,4,256.00,3.2
-nvidia,Dedicated,1.0,,ASUS,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,8,DDR3,1,TB,5.4,15,10,0.9,6,1 Lithium Polymer batteries required,,128,2.5
-NVIDIA,Dedicated,,4.0,Lenovo,Windows 10 Pro,Intel,6.0,Solid State,,17.3,1920,1080,16,,512,GB,7.5,22.5,13.5,4.5,8,1 Lithium ion batteries required,4,,2.2
-AMD,,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR,128,GB,5.85,14.9,10.2,0.9,4.5,1 Lithium ion batteries required,,128,3
-Intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,15.6,,,8,DDR4,128,GB,3.96,20.2,12.2,2.9,,1 Lithium ion batteries required,,128,3.5
-Intel,,,,Dell,Windows 10 Professional,Intel,4.0,Serial ATA,PC,,,,8,DDR,1000,GB,11,11.5,3.64,11.42,,,,,2.8
-intel,integrated,,,HP,Chrome OS,Intel,2.0,Solid State,PC,11.6,1366,768,4,DDR3,16,GB,3.92,11,8,0.7,,1 Lithium ion batteries required,,,2.48
-intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,14,1366,768,8,SDRAM,128,GB,4.25,17.8,12.2,2.9,,,,,2.1
-intel,,1.0,,HP,Windows 10,Intel,4.0,,,15.6,,,12,DDR4,,,4.3,10,14.9,1.1,,1 A batteries required,,,
-intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,2.0,,,15.6,1920,1080,4,,,,4.34,20,13,3,,1 Lithium ion batteries required,,500.0,3.1
-amd,,,,Dell,Windows 10 Pro,AMD,4.0,Serial ATA,PC,15.6,,,8,DDR4,1,TB,7.45,19.6,13.3,2.2,,1 Lithium ion batteries required,,,3.4
-intel,Integrated,,,HP,Windows 10,Intel,2.0,,,14,1366,768,4,DDR4,128,GB,3.42,12.76,8.86,0.71,,1 Lithium Polymer batteries required,,128,
-intel,,,,Lenovo,Windows 10 Pro,Intel,4.0,eSATA,PC,14,,,8,DDR3,512,GB,5.6,18.7,11.9,3.2,,1 9V batteries required,,512,1.7
-intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,13.9,3840,2160,16,DDR4,512,GB,3.04,12.6,8.93,0.57,10,1 Lithium Polymer batteries required,,,4
-,,,,CTL,Chrome OS,Intel,4.0,Ethernet 100Base-TX,PC,11.6,,,4,DDR4,32,GB,2.8,8.3,12.1,0.8,12,1 Lithium ion batteries required,,32,2.2
-Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,14,1366,768,8,DDR3,512,GB,3.15,12.8,8.9,0.8,,1 Lithium ion batteries required,,512,2.4
-amd,dedicated,,,Lenovo,Windows 10,,2.0,,,11.6,,,4,DIMM,120,GB,10.6,0.39,0.39,0.39,,100 Lithium ion batteries required,,120,1.8
-intel,Integrated,,,Best Notebook,Windows 10 Pro,10th Gen Intel Comet Lake Core i7-10510,4.0,Solid State,PC,13.3,3840,2400,16,SODIMM,1,TB,5.37,7.88,11.98,0.6,,1 Lithium ion batteries required,,,
-Nvidia,dedicated,,,Apple,macOS 10.12 Sierra,Intel,4.0,Solid State,Mac,15.4,2880,1800,16,DDR3,1,TB,4.45,14.13,9.73,0.71,,1 Lithium Polymer batteries required,,1,2.5
-,,2.0,,Lenovo,,,4.0,,,11.6,,,4,,,,3.2,11.83,8.37,0.92,,100 Lithium ion batteries required,,64,
-,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1920,1080,12,SDRAM,1,TB,7.4,14.96,9.84,0.74,10,1 Lithium ion batteries required,,,2.5
-Intel,dedicated,,,Dell,Windows 10 Professional,Intel,8.0,Serial ATA,PC,,,,32,DDR,3000,GB,22,14.02,7.09,15.22,,,,,3.6
-NVIDIA,dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,17.3,1920,1080,8,DDR4,1,TB,7.2,16.4,11,1,6.5,1 Lithium ion batteries required,,,2.3
-,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,14,4096,2304,20,DDR4,512,GB,5,13.2,9.2,0.8,,,,,3.9
-intel,,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,11.6,1366,768,8,SDRAM,1000,GB,4.27,16.5,12.2,2.8,,,,,1.1
-nvidia,Dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,15.6,,,8,SDRAM,1512,GB,8.9,15.1,10.4,1,,,,512,2.5
-intel,Integrated,,,Oemgenuine,Windows 10 Pro,Intel,4.0,Serial ATA,PC,14,1366,768,16,DIMM,500,GB,3.5,13.25,0.79,9.15,,,,500,1.6
-NVIDIA,dedicated,,,HP,Windows 10,Intel,6.0,Solid State,PC,15.6,3840,2160,16,DDR4,512,GB,4.83,14.22,9.84,0.76,,1 Lithium ion batteries required,4,512,2.6
-AMD,dedicated,2.0,1.0,HP,Windows 8;,AMD E-series,2.0,Serial ATA,PC,15.6,1366,768,4,DDR3,500,GB,4.92,14.88,10.24,0.98,6,1 Lithium ion batteries required,,,1
-,Integrated,,,Dell,Windows 10,Intel,2.0,ATA,PC,15.6,,,8,DDR,1,TB,6.43,19.5,13.9,2.9,,,,,2.5
-Intel,Integrated,,,HP,Windows 10,Intel,1.0,Serial ATA,PC,15.6,1366,768,4,DDR4,500,GB,6.15,19.1,11.9,2.7,6,1 Lithium ion batteries required,,,2.3
-amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,15.6,1366,768,4,DDR4,1,TB,4.19,14.88,10.24,0.9,,1 Lithium Polymer batteries required,,,2.9
-,,,,Lenovo,Android 4.2 Jelly Bean,MediaTek,4.0,Serial ATA,Android,10.1,1280,800,1,DDR2,16,GB,1.34,10.2,7.01,0.31,18,1 Lithium ion batteries required,,16,1.2
-nvidia,Dedicated,,,Lenovo,Windows 10 Pro,Intel,4.0,eSATA,PC,14,,,16,DDR3,512,GB,5.9,18.7,11.9,3.2,,1 9V batteries required,,1,3
-,Integrated,,,Lenovo,Windows 10,Intel,4.0,,Windows,14,1920,1080,8,DDR3,256,GB,3.09,12.7,8.8,0.6,,1 C batteries required,,256,2.7
-Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,2 in 1 Business Laptop,14,1920,1080,12,DDR,128,GB,5.85,9.2,13,0.8,10.5,4 Lithium ion batteries required,,128,1.6
-,,,,Dell,,,1.0,,,15.6,1920,1080,4,,,,6,9.3,14.1,0.8,,1 Lithium ion batteries required,,256,
-Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Serial ATA,PC,14,1366,768,8,DDR3,256,GB,3.15,12.8,8.9,0.8,,,,256,2.4
-,,,,IVIEW,Windows 10,Intel,4.0,Solid State,PC,21.5,1920,1080,4,DDR3,64,GB,15.15,24,17,6,,2 Lithium Polymer batteries required,,,1.1
-Intel,Integrated,,,HP,Windows 10,Intel,4.0,,PC,13.3,,,8,,,,4.38,17.7,11.3,3.4,,1 Lithium ion batteries required,,128,1.6
-,,,,Samsung,Android 6.0 Marshmallow,,1.0,,Android,8,800,1280,2,,16,GB,1.25,8.7,5.3,1.9,,1 Lithium ion batteries required,,16,1.4
-intel,,,,Apple,macOS 10.12 Sierra,Intel,1.0,,Mac,13.3,,,8,DDR3,256,GB,2.2,3.8,14.5,10.4,,1 Lithium ion batteries required,,256,3.1
-intel,,,,Dell,Windows XP;,Intel,2.0,Serial ATA-150,PC,14.1,,,2,DDR2,160,GB,4.55,12,9.6,2.9,,1 Lithium ion batteries required,,,2
-AMD,"Integrated, Dedicated",2.0,2.0,ASUS,Windows 10 Home,AMD,4.0,Solid State,PC,15.6,1920,1080,8,DDR4,256,GB,3.7,14.2,9.6,0.76,,1 Lithium Polymer batteries required,8,256,3.6
-amd,integrated,,,Dell,Windows 10,AMD,2.0,Solid State,PC,11.6,,,4,DDR4,32,GB,2.65,16.1,10.6,2.9,,1 A batteries required,,32,1.6
-,Dedicated,4.0,1.0,HP,,,6.0,ATA-4,,1,,,4,,,,9.92,3.74,10.63,11.65,,,1,256.00,
-,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,1920,1080,16,SDRAM,512,GB,6.2,14.2,9.8,0.7,,,,1,1.8
-,integrated,2.0,,KINGDEL,Windows 10 Professional,Intel,2.0,Solid State,PC,,,,16,DDR3,256,GB,2.76,77.56,14.57,77.56,,1 Lithium Metal batteries required,,,1.6
-Intel,Integrated,,,HP,Windows 10 Pro,Intel,4.0,Serial ATA-600,Windows,15.6,1920,1080,8,,256,GB,3.92,14.6,9.9,0.7,,1 Lithium ion batteries required,,256.0,1.7
-AMD,dedicated,2.0,1.0,Acer,Windows 10 Home,AMD,1.0,ATA,PC,15.6,1920,1080,8,DDR4,1000,TB,5.95,10.5,15.4,1.1,,1 Lithium ion batteries required,,,2
-intel,integrated,1.0,1.0,Acer,Windows 10,Intel,2.0,,,14,1366,768,2,DDR3,32,GB,3.53,13.36,9.25,0.7,12,1 Lithium Polymer batteries required,,32.0,1.6
-intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,13.3,,,8192,DDR3,128,GB,2.65,11.98,7.88,0.53,,1 Lithium ion batteries required,,128,3
-amd,Dedicated,,,ASUS,Windows 10,Intel,4.0,Solid State,PC,15.6,1920,1080,12,DDR4,128,GB,4.41,14.2,10.1,0.8,,1 Lithium ion batteries required,,128,2.7
-,,,,APPLE,iOS 9,,2.0,,Mac,7.9,2048,1536,128,DDR3,128,GB,1,5.31,0.24,8,10,1 A batteries required,,128,2.4
-nvidia,Dedicated,1.0,,ASUS,Windows 10,Intel,4.0,Solid State,PC,14,1920,1080,16,DDR3,512,GB,4.41,12.76,8.86,0.63,,1 Lithium ion batteries required,,,1.8
-,,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,23.8,,,8,SDRAM,1,TB,14.99,25.5,19.5,9,,1 Lithium ion batteries required,,,1.6
-AMD Radeon R7 M445 Graphics with 4G GDDR5 graphics memory,Dedicated,,2.0,Dell,Windows 10,AMD,4.0,,,15.6,1920,1080,16,,1000,GB,5.13,10.19,15.35,0.91,,1 Lithium ion batteries required,,1,2.7
-NVIDIA,Dedicated,,4.0,MSI,,Intel,6.0,Serial ATA,,15.6,1920,1080,16,,1024,GB,9.5,15.07,10.23,1.16,,,6,256,2.6
-,,,,Samsung,,Samsung,8.0,Solid State,PC,10.1,1920,1200,3,,128,GB,1.4,9.7,0.3,5.9,15,1 Lithium Polymer batteries required,,128,1.8
-Intel,Integrated,1.0,2.0,Dell,Windows 10 Home,Intel,4.0,Serial ATA,PC,15.6,1920,1080,8,,1000,GB,3.43,8.85,12.76,0.77,,1 Lithium ion batteries required,,,4
-intel,integrated,1.0,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,14,1366,768,2,DDR3,64,GB,3.31,13.96,9.96,0.8,9,,,64,2.16
-,Integrated,1.0,,HP,Windows 10,Intel,2.0,,,11.6,,,4,DDR3,,,2.6,11.81,8.1,0.72,,1 C batteries required,,32,1.6
-Intel,Integrated,2.0,2.0,HP,,,4.0,Serial ATA,,14,1920,1080,8,,,,4.3,13.4,9.5,0.87,,1 Lithium ion batteries required,,256.00,
-Intel,Integrated,4.0,,Dell,Windows 10 Professional,Intel,1.0,Serial ATA,PC,0.0,,,8,DDR4,500,GB,11.6,11.5,3.7,11.4,,,,8,3
-intel,Integrated,1.0,,HP,Windows 10,Intel,1.0,,PC,14,1366,768,4,,32,GB,4.55,13.27,8.9,0.7,10,1 Lithium Polymer batteries required,,32,1.6
-Intel,integrated,,,Lenovo,Windows 10,Intel,4.0,ATA,PC,15.6,1360,768,8,DDR4,256,GB,5.8,14.9,10.2,0.9,5,1 Lithium ion batteries required,,,1.1
-intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,14,1366,768,8,DDR4,128,GB,5.65,15.6,13.9,3.1,,1 Lithium ion batteries required,,,2.3
-amd,,,,Dell,Windows 10,AMD,4.0,Serial ATA-300,PC,15.6,,,4,DDR4,1,TB,6.55,19.3,13.6,3,,1 A batteries required,,,3.6
-nvidia,Dedicated,2.0,,Acer,Windows 10,Intel,4.0,,,15.6,1920,1080,8,DDR4,1,TB,5.95,10.47,15.39,1.06,,2 D batteries required,,,
-,Integrated,,,Dell,,,1.0,,,15.6,1920,1080,16,,,,6.8,20.3,3.2,13,,1 Lithium ion batteries required,,512,
-Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,2-in-1 Business Laptop/Tablet,14,1366,768,512,DDR,512,GB,5.12,8.8,12.7,0.8,,3 Lithium ion batteries required,,512,
-NVIDIA,dedicated,,,ASUS,Windows 10 Home,Intel,6.0,Solid State,PC,17.3,1920,1080,16,,512,GB,6.28,15.7,11.5,1,,1 Lithium Polymer batteries required,,512,2.6
-,Integrated,6.0,4.0,HP,,Intel,2.0,Serial ATA,,1,,,4,,500,GB,10,3.74,10.63,11.65,,,1,,
-nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,15.6,,,16,SODIMM,256,GB,9,19.5,15,4,,1 Lithium ion batteries required,,256,2.6
-,,,,Samsung,Android 4.4 KitKat,,4.0,,Android,7,,,8,,8,GB,1.1,7.9,4.9,1.9,12,1 Lithium ion batteries required,,8,
-intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,15.6,1366,768,4,DDR4,1,TB,5.71,14.88,10.24,0.9,5,,,,2.2
-Intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,14,1920,1080,8,DDR4,1,TB,4.48,14.1,9.7,0.7,12,1 Lithium Polymer batteries required,,256,2
-Intel,Integrated,1.0,,Acer,Windows 10,Intel,2.0,Solid State,PC,15.6,1920,1080,12,DDR4,480,GB,5.27,15,10.2,1.2,,,,,2.2
-,integrated,,,HP,Windows 10 Pro (64-Bit),,4.0,,,,,,8,,,,2.67,1,1,1,,,,256.0,
-,Dedicated,,,Dell,Windows 10,AMD,2.0,Solid State,PC,11.6,1366,768,4,DDR4,32,GB,3.31,11.4,8,1.02,,1 Lithium Polymer batteries required,,32,2.5
-Intel HD Graphics,Integrated,2.0,3.0,Lenovo,Windows 7 Professional,Intel,2.0,Serial ATA-600,PC,15.6,1366,768,4,DDR3,500,GB,5.4,19.2,13,3.6,9,1 Lithium Metal batteries required,,,2.3
-,,,,AOC,,,,,,22,,,,,,,6,22,14,5,,,,,
-,,,,Microsoft,,Intel,,Solid State,PC,12.3,2736,1824,8,,128,GB,5.4,16.1,9.7,3.8,9,1 Lithium Polymer batteries required,,128,
-,Dedicated,,,Dell,Windows 10,AMD,1.0,Serial ATA,PC,11.6,,,4,DDR4,32,GB,2.65,11.4,8,1.02,,1 Lithium ion batteries required,,32,1.6
-intel,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,14,1920,1080,4,,,,4.63,13,8.9,0.7,,1 Lithium ion batteries required,,256.00,
-,Integrated,2.0,4.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,,,4,,500,GB,2.6,7,1.4,7.2,,,4,,2.1
-,Integrated,1.0,,Dell,Windows 10,Intel,4.0,Solid State,PC,13.3,1920,1080,8,DDR,512,GB,3.97,12.76,8.85,0.77,8,1 Lithium ion batteries required,,512,1.8
-Intel,"Shared, Integrated",1.0,2.0,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,15.6,1366,768,8,DDR4,1,TB,4.85,14.96,0.89,10.15,,1 Lithium Polymer batteries required,1,,2.7
-Intel,Integrated,,,Microsoft,Windows 10,Intel,2.0,Solid State,PC,13.5,3000,2000,8,DDR3,128,GB,7.15,12.3,51,9.14,17,2 Lithium Polymer batteries required,,128,3.5
-amd,integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,15.6,1366,768,8,DDR4,256,GB,4.85,14.9,10.2,0.9,,1 Lithium ion batteries required,,256,2.7
-intel,integrated,,,Dell,Windows 10 Pro,Intel,4.0,,,14.1,1366,768,16,DDR3,240,GB,7.2,17,4,12,,,,,
+ChipsetBrand,CardDescription,NumberOfUSB2.0Ports,NumberOfUSB3.0Ports,BrandName,OperatingSystem,ProcessorBrand,ProcessorCount,HardDriveInterface,HardwarePlatform,Price_pcs,ScreenSize_pcs,MaxScreenResolution_width_pcs,MaxScreenResolution_height_pcs,RAM_capacity_pcs,RAM_type_pcs,HardDrive_capacity_pcs,HardDrive_measure_pcs,ItemWeight_pcs,ItemDimensions_L_pcs,ItemDimensions_W_pcs,ItemDimensions_H_pcs,AverageBatteryLife_pcs,Batteries_pcs,GraphicsCardRamSize_pcs,FlashMemorySize_pcs,Processor_ghz_pcs
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,12,DDR3,1,TB,4,15.1,10.2,1,5.5,,,,2.4
+amd,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,0.0,15.6,1366,768,8,DDR4,256,GB,3.5,14.3,9.9,0.8,8,1 Lithium ion batteries required,,,2.6
+intel,Integrated,2.0,,Lenovo,Windows 10,Intel N3060,2.0,Solid State,PC,0.0,11.6,1366,768,2,DDR3,64,GB,3.09,11.8,0.9,8.2,6,1 Lithium Polymer batteries required,,64,1.6
+Intel,dedicated,2.0,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,512,GB,4.6,14.53,9.92,0.78,13,1 Lithium ion batteries required,,,2.5
+amd,"Integrated, Dedicated",,,HP,Windows 8 Pro,AMD,2.0,ATA,PC,0.0,15.6,1366,768,4,DDR4,500,GB,4.52,15,10,0.9,6.25,1 Lithium ion batteries required,,,2.5
+NVIDIA,Integrated,2.0,,Dell,Windows 10 Home,Intel,6.0,Serial ATA,PC,0.0,,,,8,DDR4,1000,GB,28.7,13.3,7,15.1,,1 Lithium ion batteries required,6,16.0,
+amd,integrated,,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,0.0,11.6,1366,768,4,DDR4,1,TB,4.64,7,5,1.5,,1 Lithium ion batteries required,,,2.5
+,Integrated,,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,0.0,,,8,,500,GB,2.6,7,1.4,7.2,,,8,256.00,2.1
+Intel,,,,Acer,Chrome OS,Intel,1.0,,,0.0,11.6,1366,768,4,,32,GB,5,8.1,11.7,0.8,,1 Lithium ion batteries required,,32,1.1
+amd,integrated,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,0.0,15.6,1366,768,8,DDR4,512,GB,5.69,14.8,10,0.9,,1 Lithium ion batteries required,,512,3.1
+amd,,,,Acer,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,1,TB,5.4,10.2,15,0.8,,1 Lithium ion batteries required,,,3
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA-600,PC,0.0,14,1366,768,8,DDR4,128,GB,4.24,12.76,8.86,0.71,,1 Lithium Polymer batteries required,,,3.9
+,Dedicated,2.0,2.0,iBUYPOWER,Windows 10 Home,Intel,,Serial ATA,PC,0.0,1,,,16,DDR4,1,TB,32,22,20.5,12.8,,,6,240.00,3
+NVIDIA GeForce,Dedicated,1.0,2.0,ASUS,Windows 10,Intel,4.0,Serial ATA-600,PC,1.0,15,1920,1080,16,GDDR3,1,TB,5.6,10.1,15.1,1.3,7,1 Lithium ion batteries required,2048,16,2.6
+Intel,Integrated,,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,13.3,1920,1080,8,DDR4,256,GB,5.05,12.09,8.35,0.59,14,1 Lithium Polymer batteries required,,,1.6
+nvidia,Dedicated,,4.0,ASUS,Windows 10 Pro,Intel,4.0,,,1.0,15.6,1920,1080,16,DDR4,256,GB,4.9,15.6,10.3,0.7,,1 Lithium Polymer batteries required,8,256.0,2.8
+intel,Integrated,2.0,1.0,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,SDRAM,1000,GB,4.85,14.96,0.9,10,6,1 Lithium Metal batteries required,8,4.00,2.2
+NVIDIA,Dedicated,,,Dell,,,1.0,,,0.0,15.6,1920,1080,16,,,,8.05,19.5,13.2,2.5,,1 Lithium ion batteries required,4,256,
+intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,12,DDR4,1,TB,5.91,14.88,10.24,0.9,5,,,,1.8
+Intel,Integrated,,,ASUS,Chrome OS,Intel,4.0,Solid State,PC,0.0,15.6,1920,1080,4,DDR4,32,GB,3.97,14,9.8,0.6,,1 Lithium Polymer batteries required,,64,1.1
+,,,,HP,Windows 10,AMD,,Solid State,PC,0.0,,,,16,DDR,128,GB,11.46,19.4,15.3,10.9,,,,,4.1
+Intel,integrated,1.0,,HP,Windows 10,Intel,1.0,Solid State,PC,0.0,14,1366,768,4,DDR3,32,GB,3.17,8.9,13.27,0.7,,1 Lithium Metal batteries required,,32,1.6
+intel,,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,16,DDR4,512,GB,6.21,14.3,9.9,0.8,,1 Lithium ion batteries required,,512,2.6
+amd,,1.0,,Dell,Windows 10 Pro,Intel,4.0,Solid State,PC,0.0,17.3,1920,1080,16,DDR3,1,TB,6.15,10.99,16.35,0.98,,1 Lithium ion batteries required,,1,4
+amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,1,TB,5.9,20.6,11.9,3,5,,,,3.1
+intel,integrated,,,HP,Windows 10,Intel,2.0,,PC,0.0,14,1366,768,4,DDR4,128,GB,3.09,17.6,12,2.8,,1 Lithium ion batteries required,,128,2.3
+,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,1.0,15.6,1920,1080,16,DDR4,512,GB,4.71,20.6,12.1,2.6,8,1 Lithium ion batteries required,,,1.8
+intel,Integrated,,,Acer,Chrome OS,Intel,2.0,Serial ATA,PC,0.0,15.6,,,2,DDR3,16,GB,4.19,14.88,9.99,0.9,12,1 Lithium Polymer batteries required,,16,1.6
+amd,Integrated,,,HP,Windows 10,,1.0,Serial ATA,,0.0,14,1920,1080,8,DDR,,,4.85,9.2,12.8,0.7,,1 Lithium ion batteries required,8,1.00,
+NVIDIA,Dedicated,,,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,5.1,15.1,10.3,1,,1 Lithium ion batteries required,,256,2.2
+intel,Integrated,,,HP,,,1.0,Ethernet,,2.0,17.3,1920,1080,,,,,10.4,11.3,16.4,1.3,,1 12V batteries required,,512.00,
+,,,,HUAWEI,Android 8.0 Oreo,,8.0,,Android,0.0,10.1,1920,1200,2,,16,GB,1.01,9.56,6.45,0.3,10,1 Lithium ion batteries required,,16,
+,Integrated,,,XIDU,Windows 10,Intel,4.0,USB 3.0,PC,0.0,11.6,1920,1080,4,DDR3,64,GB,2.2,10.9,7.4,0.6,7,1 Lithium ion batteries required,,64,1.44
+intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA-600,PC,0.0,15.6,,,8,DDR4,1,TB,4.23,14.24,9.51,0.7,,1 Lithium Polymer batteries required,,,1.6
+,,,,HP,Windows 10,AMD,4.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,4.52,14.1,9.7,0.7,,1 Lithium ion batteries required,,256,2.1
+,integrated,,,Lenovo,Windows 10,Intel,4.0,eSATA,PC,2.0,27,,,8,GDDR4,1,TB,18,24.6,18.9,2.7,,,,,4
+,,,,Dell,Windows 10,Intel,,Serial ATA,PC,0.0,23.8,1920,1080,12,GDDR4,512,GB,10.18,21.61,14.1,1.63,,,,,3.9
+,Integrated,2.0,1.0,Acer,Windows 10 Home,Intel,1.0,,,0.0,11.6,1920,1080,4,,,,3.31,11.73,8.27,0.8,9,1 Lithium Polymer batteries required,,32.0,1.1
+intel,integrated,1.0,,HP,Windows 10,Intel,4.0,,,0.0,15.6,,,4,DDR3,500,GB,4.81,15.18,10.16,0.89,,1 Lithium Polymer batteries required,,,2.16
+NVIDIA,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,1.0,17.3,1920,1080,16,DDR4,1,TB,6.14,15.94,10.47,0.88,10,1 Lithium ion batteries required,4,64,1.8
+intel,,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,12,DDR4,1,TB,4.41,15,11,2,,1 Lithium Polymer batteries required,,,1.6
+Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,Serial ATA,PC,1.0,17.3,1600,900,32,DDR4,512,GB,5.71,12.8,9.2,0.7,,1 Lithium ion batteries required,,,1.8
+Intel,Integrated,,1.0,Lenovo,Chrome OS,Mediatek,4.0,Solid State,Chrome,0.0,14,1920,1080,4,,64,GB,3.3,12.82,0.82,9.15,,1 Lithium Polymer batteries required,,64.00,2.1
+amd,Integrated,2.0,2.0,HP,,AMD,4.0,Serial ATA,,0.0,15.6,1920,1080,8,,256,GB,3.95,14.6,9.91,0.72,,1 12V batteries required,1,256.00,
+Intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,4.0,ATA100,Windows,0.0,14,1920,1080,8,,,,3.64,13.3,9.2,0.8,10,2 Lithium ion batteries required,,256.0,1.6
+Intel,Dedicated,1.0,1.0,Acer,Windows 10 Home,,2.0,ATA-4,,0.0,15.6,1280,800,4,,,,4.63,15,10.3,0.8,,100 Lithium ion batteries required,1,1.00,
+,,,,Highwings,Windows 10,Intel,4.0,Ethernet 100Base-TX,PC,0.0,,,,8,DDR,128,GB,,,,,,,,,2.2
+,dedicated,1.0,2.0,Lenovo,,,1.0,Solid State,,1.0,14,1920,1080,3,,,,5.3,13,8.9,0.7,,1 Lithium ion batteries required,2,256.00,
+intel,Integrated,,,Smart-US,Windows 10,Intel,4.0,ATA,PC,0.0,11.6,1366,768,2,DDR3,32,GB,3.1,16.3,10.2,2,1,,,64,1.3
+Samsung,Dedicated,1.0,1.0,Samsung,Chrome OS,Intel,4.0,eSATA,PC,0.0,11.6,1366,768,2,DDR3,16,GB,2.6,11.4,8.1,0.7,,1 A batteries required,,12.00,1.04
+,Integrated,,5.0,AWOW,Windows 10,Intel,4.0,Serial ATA-600,PC,0.0,100,,,6,DDR,128,GB,2.03,10,5.8,2.6,,1 Lithium Metal batteries required,6,128.00,2.2
+intel,integrated,1.0,,HP,other,Intel,2.0,,,0.0,15.6,1366,768,6,DDR3,1,TB,5.05,15.14,10.24,0.94,,,,,2.2
+intel,,3.0,,Dell,Windows 10,Intel,1.0,,,0.0,15.6,,,12,DDR,1,TB,5.2,10.2,15,0.8,,1 Lithium ion batteries required,,,3
+nvidia,GTX 1050 4GB,1.0,2.0,ASUS,Windows 10,Intel,4.0,Serial ATA,,0.0,15.6,1920,1080,8,,1000,GB,5.1,15.1,10.3,1,,1 Lithium Polymer batteries required,4,128.00,3.7
+,,,,PROSCAN,Android 7.1 Nougat,,4.0,,Android,0.0,10.1,1024,600,8,DDR,8,GB,2.87,11.9,7.7,3.4,5,,,8,1.2
+AMD,,,,Dell,Windows 10 Home,AMD,2.0,Serial ATA,PC,0.0,11.6,1366,768,8,DDR4,128,TB,2.57,11.31,7.79,0.75,,1 Lithium ion batteries required,,128,1.8
+Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Ethernet 100Base-T,PC,0.0,15.6,1366,768,4,DDR4,500,GB,5.07,15,10.2,0.9,,1 Lithium ion batteries required,,,1.1
+intel,Integrated,,2.0,Lenovo,,,1.0,Solid State,,0.0,14,1920,1080,3,,,,5.85,17.5,11.5,3,,1 Lithium ion batteries required,,256.00,
+Intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,14,1920,1080,4,DDR4,128,GB,4.37,12.76,8.86,0.71,5,1 Lithium Polymer batteries required,,,1.1
+,Dedicated,2.0,8.0,HP,Windows 10,Intel,6.0,Serial ATA,PC,2.0,,,,16,,2000,GB,36.7,17.41,7.56,16.43,,,11,512.0,3.7
+NVIDIA,Dedicated,,2.0,Lenovo,,Intel,1.0,Solid State,,1.0,15.6,,,16,,512,GB,6.35,19.75,12.75,3.2,8,1 Lithium Polymer batteries required,4,16,2.6
+intel,Integrated,,,Samsung,Chrome OS,Intel,2.0,Solid State,PC,0.0,11.6,1366,768,4,SDRAM,32,GB,2.54,11.4,8.1,0.7,,1 Lithium Polymer batteries required,,32,1.6
+,,,,Lenovo,Windows 10,Intel,2.0,ATA,PC,0.0,15.6,,,4,DDR,1,TB,4.84,10.2,1,14,,1 Lithium Polymer batteries required,,,1.1
+AMD,Integrated,1.0,,ASUS,Windows 10 Home,AMD,4.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,3.5,14.1,9.1,0.75,,1 Lithium ion batteries required,8,256.00,3.6
+,,,,Dell,Windows 10,AMD,8.0,Serial ATA,PC,1.0,,,,16,SDRAM,1,TB,33.2,18.1,17.2,8.5,,,,,3.6
+NVIDIA,Dedicated,2.0,6.0,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,,,,12,,1000,GB,19.8,6.5,14.8,12.78,,3 AAA batteries required,12,128.0,3.6
+Intel,,,,HP,Windows 10 Home,Intel,4.0,Solid State,2-in-1 Laptop/tablet,0.0,15.6,1920,1080,8,DDR,256,GB,4.41,9.8,14.16,0.77,10,1 Lithium ion batteries required,,256,1.8
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,16,DDR4,512,GB,4.48,14.96,10.16,0.78,,,,,2.1
+nvidia,Dedicated,,,ASUS,Windows 10 64-Bit,,4.0,,,1.0,17.3,1920,1080,,GDDR5,,,6.39,18.8,17.4,5.5,,,,,
+,,,,Haehne,Android 6.0 Marshmallow,AMD,4.0,USB,PC,0.0,7.8,1024,768,1,,32,GB,1.25,9,6.5,1.5,36,1 Lithium ion batteries required,,32,1.4
+Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,1.0,15.6,1920,1080,8,DDR4,256,GB,4.34,9.3,14.14,0.86,,1 Lithium ion batteries required,,256,2.5
+NVIDIA,Dedicated,4.0,4.0,MSI,Windows 10 Home,Intel,8.0,Solid State,PC,1.0,15.6,,,16,DDR4,1,TB,6.99,23.86,8.9,12.44,,,6,16,3
+Intel,,2.0,,CHUWI,,Intel,4.0,Serial ATA-300,PC,0.0,10.1,1920,1080,4,DDR3,64,GB,1.15,12.7,8.4,2.3,5,,4,64,2.4
+Intel,integrated,2.0,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,,,,16,DDR,1,TB,11.4,12.09,6.4,12.4,,,,256,2.9
+,dedicated,,,Dell,Windows 10,Intel,,Solid State,PC,0.0,,,,12,GDDR4,128,GB,14.1,11.61,6.3,14.71,,,,,4
+NVIDIA,Dedicated,1.0,,Alienware,Windows 10 Home,Intel,4.0,Solid State,PC; Notebook,1.0,15.6,1920,1080,16,DDR4,1000,GB,7.69,12,15.31,1,,1 Lithium Polymer batteries required,,128.0,3.8
+,Integrated,,7.0,HP,,,4.0,Solid State,,0.0,0.1,,,4,,,,2.78,6.97,6.89,1.34,,,2,256.00,3.2
+NVIDIA,Dedicated,1.0,3.0,Acer,Windows 10 Home,Intel,4.0,Solid State,,0.0,15.6,1920,1080,8,DDR4,512,GB,5.9,14.31,9.88,0.71,,1 Lithium Polymer batteries required,2,512.00,3.9
+intel,integrated,,,Acer,Google Chrome,,1.0,,,0.0,11.6,,,4,,,,2.76,11.7,8.1,0.8,10,1 Lithium ion batteries required,,32,
+amd,,,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,1,TB,5,15,11,4,,1 Lithium Polymer batteries required,,,2
+amd,Dedicated,,,Lenovo,Windows 10,AMD,1.0,IDE,PC,0.0,15.6,,,8,DDR3,1,TB,5.07,14.84,10.2,0.39,,1 Lithium Metal batteries required,,,2.7
+Intel,Integrated,,,HP,Windows 10 Profesinal 64-Bit,Intel,2.0,Serial ATA,PC,0.0,11.6,1366,768,4,DDR3,64,GB,2.65,11.91,8.19,0.78,11,1 Lithium ion batteries required,,64,1.1
+Intel,Integrated,1.0,,Lenovo,Windows 10 Home,Intel,2.0,eSATA,Home and Business Laptop,0.0,15.6,1366,768,8,DDR3,1,TB,6.35,14.88,10.24,0.9,8.5,1 Lithium ion batteries required,,,1.1
+AMD,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,128,GB,4.63,14.8,10,0.9,,,,128,2.6
+intel,integrated,,,HP,Windows 10,Intel,2.0,,Mac,0.0,14,1366,768,4,DDR4,128,GB,4.41,17.6,11.8,2.8,,1 Lithium ion batteries required,,,2.3
+,,,,Visual Land,Android 5.1 Lollipop,Rockchip,1.0,,Android,0.0,13.3,1920,1080,2,DDR3,64,GB,5,15.5,9.5,2.25,6,1 Lithium Polymer batteries required,,64,1.6
+intel,Integrated,2.0,2.0,Lenovo,,,1.0,Solid State,,0.0,14,1366,768,3,,,,5.75,17.5,11.9,3.2,,1 12V batteries required,,128.00,
+,integrated,2.0,,Toshiba,,,2.0,,Windows,0.0,15.6,,,8,DDR3,1,TB,6.25,17.2,13.7,1.9,,,,,
+,,3.0,,zoomtablet,,,4.0,,Android,0.0,10.1,1920,1200,2,EDO,,,2.1,11.4,7.9,2.3,1,,16,,
+Intel,,,,HP,Windows 10 S,Intel,2.0,Solid State,Business Laptop,0.0,14,1366,768,8,DDR,512,GB,4.45,8.89,12.76,0.78,,,,512,2.2
+intel,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,0.0,14,1920,1080,4,,,,3.24,13,8.9,0.7,,1 Lithium Polymer batteries required,,0.01,
+amd,Dedicated,,,Lenovo,Windows 10,AMD,4.0,Serial ATA,PC,0.0,15.6,,,8,DDR4,1,TB,6.07,14.88,10.24,0.91,,1 Lithium ion batteries required,,,2.7
+,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA-600,PC,0.0,15.6,1366,768,8,DDR4,1,TB,4.85,20.8,12.8,2.9,,1 Lithium Polymer batteries required,,,2.2
+intel,Integrated,,,HP,Windows 10,Intel,4.0,PCIE x 4,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,5,14.13,9.68,0.67,,,,,1.6
+Intel,dedicated,2.0,,ASUS,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,1920,1080,16,DDR4,512,GB,4.61,14.2,10.6,0.6,,,,512,2.2
+,integrated,2.0,,Gigabyte,other,Intel,2.0,,PC,0.0,,,,4,,01,GB,3.1,4.5,4.24,2.21,,1 CR2 batteries required,,,1.58
+intel,integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,1920,1080,16,DDR,256,GB,5.18,14.9,10.25,0.95,,1 Lithium ion batteries required,,,2.7
+intel,Integrated,,,HP,Chrome OS,Intel,2.0,USB 3.0,,0.0,14,1920,1080,4,,32,GB,3,8.94,13.27,0.72,,1 Lithium ion batteries required,,32.00,1.1
+,Integrated,,,Apple,MacOS,Intel,2.0,Solid State,Mac,0.0,12,,,8,DDR3,256,GB,2.03,13.2,8.2,3.8,,1 Lithium ion batteries required,,256,1.1
+Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,1.0,13.3,1920,1080,8,DDR4,256,GB,4.64,8.16,12,0.66,,1 Lithium ion batteries required,,256,1.6
+Intel,"Dedicated, Integrated",1.0,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,Business 2-in-1 Laptop,0.0,17.3,1920,1080,16,DDR,512,GB,6.48,16.2,10.9,0.9,,1 Lithium ion batteries required,,512,1.8
+intel,,,,ASUS,Windows 10 Home,Intel Pentium N4200,4.0,,Windows,0.0,11.6,1366,768,4,DDR4,,,4.09,15.6,9.1,2.4,7,1 Lithium ion batteries required,,,1.1
+,,,,KuBi,,,,,PC,0.0,10,1920,1200,6,DDR3,64,GB,2.24,9.5,6.7,0.4,7,1 Lithium Polymer batteries required,,64,2.8
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,16,SDRAM,512,GB,5.55,18.7,11.9,3.1,,,,512,2.5
+,integrated,,,Apple,Mac OS X,Intel,2.0,ATA,Mac,0.0,,,,4,DDR3,256,GB,3.7,7.7,1.4,7.7,,1 Lithium ion batteries required,,256,1.4
+,,,,Lenovo,,,4.0,,,0.0,14,,,4,DDR3,32,GB,4.6,12.8,9.1,0.8,,1 Lithium Polymer batteries required,,32,
+,,,,Google,Android 6.0 Marshmallow,nvidia,4.0,,Android,0.0,10.2,,,3,,32,GB,2.25,11.4,8.2,1.7,8,1 Lithium Polymer batteries required,,32,
+Intel,Integrated,,,Dell,Windows 10 Professional,Intel,1.0,Solid State,PC,0.0,0.0,,,8,DDR4,256,GB,6.45,7,1.4,7.2,,,,8,2
+AMD,Integrated,,,Apple,macOS 10.13 High Sierra,Intel,1.0,ATA-4,PC,1.0,13.3,2560,1600,8,DDR,256,GB,3,8.4,12,0.6,10,1 Lithium ion batteries required,64,32.00,2.3
+,,,,Samsung,,,8.0,,,0.0,10.5,2560,1600,4,DDR4,64,GB,14.1,9.65,6.3,0.22,15,1 AAA batteries required,,64,2
+intel,integrated,2.0,,Acer,Windows 8,Intel,2.0,,PC,0.0,11.6,1366,768,2,,320,GB,2.84,8.3,0.8,11.5,5,,,,2.16
+intel,,3.0,,Lenovo,Windows 10,Intel,2.0,Serial ATA-150,PC,0.0,15.6,1366,768,4,DDR4,500,GB,2.2,20.8,13.1,2.9,,1 Lithium Polymer batteries required,,,2.3
+intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,,,8,DDR3,1,TB,5.7,10.2,15,0.9,7,1 Lithium Polymer batteries required,,,2.4
+,Integrated,1.0,,Dell,Windows 10,Intel,2.0,,,0.0,15.6,,,8,DDR4,,,5.07,15,10.2,0.9,,1 Lithium Polymer batteries required,,256,
+AMD,Dedicated,,,Dell,,AMD,1.0,Solid State,,0.0,11.6,1366,768,,,32,GB,2.65,11.5,8,0.88,,2 C batteries required,,32,2.5
+Intel,Integrated,,,Apple,Mac OS X,Intel,2.0,Serial ATA,Mac,0.0,11.6,1366,768,4,DDR3,64,GB,2.38,0.68,7.56,11.8,5,1 Lithium Polymer batteries required,,64,1.7
+,,1.0,,Azpen,Android 8.1 Oreo,Rockchip,4.0,,Android 8.1 OS,0.0,10.1,1024,600,1,DDR3,8,GB,2.15,10.3,6.9,0.31,7,1 Lithium ion batteries required,1,8,1.3
+Intel,integrated,,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,0.0,14,1920,1080,8,SDRAM,256,GB,4.85,9.15,13.25,0.79,,1 Lithium Polymer batteries required,,,2.4
+,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,0.0,13.3,,,8,DDR4,256,GB,4.61,0.47,12.09,0.59,,1 Lithium Polymer batteries required,,256,3.4
+Intel,Integrated,1.0,,Dell,Windows 10 Pro (64-Bit),Intel,1.0,Solid State,PC,0.0,13.3,3200,1800,16,DDR3,512,GB,2.7,7.81,11.98,0.32,10,,,512,1.3
+Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Solid State,Windows,1.0,13.3,3840,2160,16,DDR3,512,GB,2.67,7.84,11.88,0.46,,1 Lithium ion batteries required,,512,1.8
+,,1.0,,Wecool,Android,MTK,4.0,USB,Android Go 8.1,0.0,10.1,1280,800,1,DDR3,16,GB,1.55,9.5,6.59,0.3,5,1 Lithium ion batteries required,,16,1.3
+AMD,,,,HP,Windows 10,AMD,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR3,128,GB,3.25,12.75,8.89,0.78,,1 Lithium ion batteries required,,128,2.6
+,,,,Libre Computer Project,"Android, Linux",ARM,4.0,USB 3.0,PC,0.0,,,,4,DDR,,,2.4,4.9,2.9,1.2,,,,,1.4
+NVIDIA,Dedicated,2.0,1.0,Acer,Windows 10,Intel,1.0,,,0.0,15.6,1920,1080,16,DDR3,256,GB,6,10.5,15.4,1,,,,256,2.8
+,Integrated,1.0,,Acer,Chrome OS,Intel,4.0,Solid State,Home and Education Chromebook,0.0,11.6,1366,768,4,DDR3,32,GB,11.5,11.6,8,0.76,10,1 Lithium Polymer batteries required,,32,1.6
+,Integrated,,,Samsung,Windows 10,Intel,2.0,,PC,0.0,13.3,,,8,DDR,256,GB,3.31,12.4,8.5,0.7,,1 Lithium Metal batteries required,,256,
+intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,USB 3.0,PC,1.0,13.3,3200,1800,16,DDR3,512,GB,2.9,11.98,7.88,0.33,12.5,1 Lithium ion batteries required,,512,2.4
+,,,,llltrade,Android 7.0 Nougat,,8.0,,Android,0.0,10.1,2560,1600,4,DDR3,64,GB,2.3,12,9,3,50000,1 Lithium Polymer batteries required,,64,
+intel,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,6.05,19.5,13,3,,1 Lithium ion batteries required,,,4
+Intel HD Graphics 515,Integrated,,1.0,Huawei,Windows 10,Intel,2.0,,PC,0.0,12,2160,1440,8,DDR3,256,GB,1.4,10.97,0.27,7.64,10,1 Lithium Polymer batteries required,,256,2.7
+intel,Integrated,,,Dell,Chrome OS,Intel,2.0,Solid State,PC,0.0,11.6,1366,768,4,DDR3,16,GB,4.64,17,11.1,2.9,,1 Lithium Polymer batteries required,,16,1.6
+,,,,llltrade,Android 7.0 Nougat,,8.0,,Android,0.0,10,2560,1600,4,,64,GB,1.84,10.5,8.4,2.2,,,,64,2.5
+AMD,Integrated,,,HP,,AMD,2.0,Solid State,,0.0,14,1920,1080,4,,128,GB,3.32,19.02,12,12,,1 Lithium ion batteries required,,128.00,3.1
+Intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,1,TB,4.41,14.9,9.5,0.8,,1 Lithium Polymer batteries required,,,2.2
+Intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,17.3,1600,900,8,DDR4,2,TB,5.52,16.33,10.72,0.96,,,,,1.8
+Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,1.0,14,1920,1080,8,DDR4,256,GB,4.6,7.87,12.59,0.59,,1 Lithium ion batteries required,,256,1.6
+AMD,Dedicated,4.0,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,0.0,0.0,,,16,DIMM,1,TB,30.3,17.23,8.5,18.07,,1 Lithium ion batteries required,4,16.00,4.1
+intel,Integrated,,,ASUS,Windows 10,Intel,4.0,ATA,PC,0.0,15.6,1366,768,4,DDR3,500,GB,4.41,15,9.9,1.1,,1 Lithium Polymer batteries required,,,1.1
+,,4.0,,Dell,Windows 10,Intel,6.0,Serial ATA,PC,0.0,14.7,,,8,DDR3,1,TB,15,14.7,11.22,6.39,,,,,2.9
+,,,1.0,Azpen,Android 5.1 Lollipop,Intel,4.0,,Android,0.0,10.1,1024,600,1,DDR3,8,GB,1.4,10.3,6.9,0.31,6,1 Lithium ion batteries required,1,8,1.3
+intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,14,,,4,DDR3,32,GB,3,8.9,0.7,13.3,10,1 Lithium Metal batteries required,,32,2.48
+,,,,Tagital,,,4.0,,Android,0.0,7,1024,600,1,,16,GB,11,7.1,4.8,0.3,3,1 Lithium ion batteries required,,16,1.8
+intel,integrated,,,HP,Windows 10,Intel,2.0,,,0.0,17.3,,,8,DDR4,,,7,21.5,13.5,3,,1 Lithium ion batteries required,,,2.70
+nvidia,dedicated,,,Acer,Windows 10,Intel,6.0,Serial ATA,PC,0.0,15.6,1920,1080,32,DDR4,1,TB,7.95,15.02,10.35,0.94,,1 Lithium ion batteries required,,512,2.2
+,,,,HP,Windows 10,Intel,1.0,Serial ATA,PC,0.0,15.6,1366,768,12,DDR3,1,TB,4.85,22,12,2.5,,1 Lithium Polymer batteries required,,,2.7
+intel,Integrated,,,Apple,macOS 10.12 Sierra,Intel,2.0,,,0.0,12,,,8,,256,GB,4.4,13.2,9.7,3.7,,1 Lithium ion batteries required,,256,
+nvidia,dedicated,3.0,,Dell,Windows 10 Pro,Intel,4.0,Solid State,PC,1.0,15.6,1920,1080,32,DDR3,1,TB,3.93,14.06,9.27,0.45,,1 Lithium ion batteries required,,1,2.7
+intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,11.6,1366,768,4,DDR4,128,GB,2.67,11.6,7.9,0.8,,1 Lithium ion batteries required,,,1.1
+Intel,Integrated,,,HP,Windows 10 Pro,Intel,2.0,Solid State,Windows,0.0,13.3,1920,1080,8,DDR4,256,GB,2.82,12.5,8.6,0.6,,1 Lithium ion batteries required,,256.0,2.5
+NVIDIA,Dedicated,,,Lenovo,Windows 10 Home,Intel,1.0,Serial ATA,PC,0.0,15.6,,,8,GDDR5,1,TB,4.85,14.88,10.24,0.9,,1 Lithium Polymer batteries required,4,,2.3
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,Convertible 2-in-1 Business and school Laptop,0.0,13.3,1920,1080,8,DDR,256,GB,3.22,8.4,12.1,0.6,,1 Lithium ion batteries required,,256,1.6
+,integrated,2.0,,Nextbook,Windows 8.1,intel,4.0,,Windows,0.0,10.1,1280,800,2,DDR3,32,GB,3.45,9,6.8,0.36,6,1 Lithium Polymer batteries required,,32,
+,,,,RCA,Android 5.0 Lollipop,,4.0,,Android,0.0,7,1024,600,1,DDR,16,GB,1.65,9.7,3.05,6.8,10,1 Lithium Polymer batteries required,,16,1.3
+AMD,,2.0,,Dell,Windows 10 Home,AMD,2.0,Solid State,Home and Business 2-in-1 Convertible Laptop/Tablet,0.0,11.6,1366,768,8,DDR,256,GB,3.22,11.5,7.95,0.82,,1 Lithium ion batteries required,,256,2.6
+,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,0.0,15.6,,,8,DDR,256,GB,5.03,20.4,12.5,2.9,7,,,256,2
+,Integrated,1.0,,Samsung,AndroidTM 4.4 KitKat,Samsung,4.0,,Android,0.0,7,1024,600,1,DDR3,8,GB,10.9,4.58,0.38,7.61,,1 Lithium Polymer batteries required,,8,1.3
+Intel,Integrated,1.0,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,0.0,15.6,1366,768,16,DDR4,1,TB,4.7,9.92,14.53,0.78,12.23,1 Lithium ion batteries required,,1,1.6
+NVIDIA,dedicated,,,ASUS,Windows 10,AMD,4.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,4.92,14.2,10.3,0.75,,,,,2.3
+amd,,2.0,,HP,Windows 10,AMD,4.0,,,0.0,15.6,1366,768,6,DDR4,1,TB,4.72,15.13,10.02,0.96,,1 Lithium ion batteries required,,,2.5
+,integrated,,,Fusion5,Windows 10,Intel,4.0,Solid State,Windows,0.0,12.5,,,4,DDR3,64,GB,4.23,21.2,13.5,6,,1 Lithium Polymer batteries required,,32,1.92
+amd,Dedicated,,,Lenovo,Windows 10,AMD,2.0,ATA,PC,0.0,15.6,1366,768,4,DDR4,500,GB,4.08,14.3,9.9,0.8,5.5,1 Lithium ion batteries required,,,2.6
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,0.0,17.3,1400,900,8,DDR4,128,GB,7,12.8,9.2,0.7,,1 Lithium Polymer batteries required,,,2.1
+Intel,"Dedicated, Integrated",,,ASUS,Windows 10,Intel,2.0,Solid State,PC,1.0,12.5,1920,1080,16,DDR3,512,GB,2.1,7.5,11.7,0.5,,1 Lithium Polymer batteries required,2,512.0,2.7
+,Integrated,,,Lenovo,Windows 10,Intel,1.0,Serial ATA-300,PC,0.0,14,1920,1080,16,DDR4,512,GB,3.7,12.91,9.02,0.69,7,1 Lithium ion batteries required,,256,1.6
+nvidia,dedicated,,,ASUS,Windows 10,AMD,4.0,PCIE x 4,PC,1.0,15.6,1920,1080,16,DDR4,512,GB,4.85,14.2,9.9,0.78,,1 Lithium ion batteries required,,512,2.3
+,Integrated,,,Samsung,,,8.0,,,0.0,10.1,,,,,,,1.14,10.6,6.5,2,12,1 Lithium Metal batteries required,,16,
+intel,Integrated,,,Samsung,Windows 10,Intel,2.0,USB,PC,0.0,15,1920,1080,8,DDR,256,GB,5.03,18.4,11.7,2.4,,1 Lithium Polymer batteries required,,256,3.5
+,Integrated,,,APPLE,apple iOS,Apple,1.0,,,0.0,12.9,2732,2048,0,,256,GB,1.95,11.43,1.95,8.81,10,1 Lithium ion batteries required,,256,0.1
+,Integrated,,,Acer,Chrome OS,Intel,2.0,Solid State,PC,0.0,14,1920,1080,4,DDR3,32,GB,6.55,9.31,13.43,0.93,,1 Lithium Polymer batteries required,,32,1.6
+intel,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,1.0,15.6,1366,768,8,DDR3,1,TB,4.27,15.06,9.56,0.89,7,1 Lithium Polymer batteries required,,,2.5
+,dedicated,7.0,2.0,Skytech Gaming,Windows 10 Home,AMD,8.0,Serial ATA-300,PC,0.0,,,,8,DDR3,1,TB,28,18.2,8.5,20.2,,,3,8,3.5
+NVIDIA,dedicated,,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,1.0,17.3,1920,1080,16,DDR,1,TB,6.14,15.94,10.47,0.88,,1 Lithium ion batteries required,,,1.8
+,,,,Smart-US,Windows 10,Intel,4.0,USB 3.0,PC,0.0,15.6,,,6,DDR,64,GB,4.85,16,13,13,,,,,2
+,Integrated,1.0,,Lenovo,,,1.0,Serial ATA,,0.0,0.1,,,4,,,,16.3,11.2,5.7,14.4,,,,128.00,
+AMD,Integrated,,3.0,Lenovo,,AMD,1.0,Solid State,,0.0,14,,,4,,,,5.15,20,13.25,3.5,,1 Lithium ion batteries required,,,2
+nvidia,Dedicated,1.0,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,17.3,1920,1080,16,DDR4,2,TB,2.65,16.2,10.9,0.9,,1 Lithium Polymer batteries required,,,1.8
+,,,,HP,Chrome OS,Intel,1.0,Solid State,PC,0.0,13,,,16,DDR3,32,GB,2.69,12.6,8.6,1,,1 Lithium ion batteries required,,,1.2
+amd,AMD-RADEONRX580/8GB,,,HP,Windows 10 Home,Intel,4.0,,,0.0,17.3,,,12,,1,TB,8.22,24.2,13.6,3,,1 Lithium ion batteries required,,,2.8
+Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,1.0,14,1920,1080,8,DDR4,256,GB,3,8.42,12.65,0.75,,1 Lithium ion batteries required,,256,1.6
+amd,,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,17.3,1600,900,8,SDRAM,512,GB,7,20.1,13.6,2.7,,,,512,3.1
+Intel,Integrated,,,Lenovo,Windows 10 Home,Platinum Gray,4.0,Solid State,Business Laptop Computer,0.0,15.6,1366,768,12,DDR,512,GB,4.84,10.24,14.88,0.9,5,2 Lithium ion batteries required,,512,1.6
+intel,,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,8,SDRAM,128,GB,6.8,14.8,9.9,0.9,,1 Lithium ion batteries required,,,1.7
+NVIDIA,Dedicated,1.0,3.0,MSI,Windows 10 Pro,Intel,8.0,PCIE x 4,PC,2.0,17.3,1920,1080,32,SODIMM,,,4.14,15.08,10.24,0.69,,1 Lithium Polymer batteries required,,512,3.4
+nvidia,Dedicated,,,ASUS,Windows 10,Intel,6.0,Serial ATA,PC,1.0,17.3,,,16,SDRAM,512,GB,9.2,19.5,12,5,,,,512,2.2
+,,,,Haehne,Android 6.0 Marshmallow,AMD,4.0,USB,PC,0.0,7,,,1,,16,GB,10.6,7.48,3.15,0.31,2,1 Lithium ion batteries required,,16,1.2
+intel,integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,,,12,DDR4,1,TB,4.67,14.88,9.93,0.89,7,1 Lithium Polymer batteries required,,,3.5
+,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,1.0,0.0,,,4,,,,21.8,12.9,6.5,14.8,,,0,0.01,
+intel,,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR,512,GB,6.01,19.4,13.1,3,,,,512,3.2
+,,,,LG,Android 4.4 KitKat,qualcomm,,,Android,0.0,8.3,,,16,,16,GB,1.18,10.2,6.6,2.2,33,1 Lithium ion batteries required,,16,
+AMD,Dedicated,,,Dell,Windows 10,AMD,1.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR4,500,GB,4.85,14.9,10.2,0.9,,1 Lithium Metal batteries required,,,2.5
+amd,Integrated,,,Dell,Windows 10,AMD,2.0,ATA,PC,0.0,11.6,1366,768,4,DDR4,64,GB,3,16,10.5,3.1,,,,32,1.6
+intel,Integrated,2.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,SDRAM,256,GB,4.41,15.12,10.02,0.95,10,1 Lithium Polymer batteries required,,256,2.7
+,Integrated,,,HP,Chrome OS,Intel,2.0,,,0.0,11.6,1366,768,4,,16,GB,2,8.18,12.04,0.76,11,1 Lithium Polymer batteries required,,0.00,1.1
+,integrated,,,Arxeel,Windows 10,Intel,,USB,PC,0.0,,,,4,DDR3,,,1.19,5.5,5.2,3.5,,,,,1.92
+,,1.0,,LANRUO,Android 7.0 Nougat,PowerVR GX6250,6.0,,Android,0.0,5,,,4,DDR2,32,GB,11.4,6.3,1.97,1.18,8,1 AAAA batteries required,,32,
+Intel,Dedicated,1.0,3.0,Acer,Windows 8,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR3,1,TB,5.29,15.34,10.14,0.94,4,1 Lithium ion batteries required,4000,,2.6
+nvidia,Dedicated,,,GIGABYTE,Windows 10 Home,Intel Core i7,6.0,,,1.0,15.6,1920,1080,16,DDR4,,,4.41,14,9.8,1,10,1 Lithium ion batteries required,,512,
+,Integrated,,1.0,ASUS,Chrome OS,Rockchip,6.0,,Chrome,0.0,9.7,1536,2048,4,,,,1.1,9.41,6.77,0.39,9,1 Lithium Polymer batteries required,,32,2
+NVIDIA,Dedicated,,4.0,MSI,Windows 10,Intel,6.0,Solid State,,1.0,17.3,1920,1080,16,SODIMM,512,GB,9.35,15.59,10.22,0.75,,,,512,2.2
+Intel,,,,Acer,Windows 10 Home,Intel,6.0,Serial ATA,PC,0.0,,,,8,DDR4,512,GB,16.4,13.78,13.39,6.42,,,,,2.8
+intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,12,SDRAM,512,GB,6.4,14.2,9.8,0.7,,1 Lithium ion batteries required,,512,1.6
+Intel,dedicated,,,Dell,Windows 10 Home,Intel,1.0,Solid State,PC,1.0,,,,32,DDR,2512,GB,12.24,14.02,7.09,15.22,,,,32,
+intel,integrated,,,Oemgenuine,Windows 10,Intel,2.0,,PC,0.0,14,1920,1080,16,SODIMM,512,GB,3.6,13.3,0.8,9.2,,,,,2.4
+amd,Integrated,2.0,2.0,HP,,,1.0,Serial ATA,,0.0,15.6,1366,768,4,,,,5.65,10.1,14.4,0.8,,1 12V batteries required,,512.00,
+,integrated,,,Apple,,Intel,2.0,,,0.0,13.3,,,8,DDR3,,,3.46,8.6,12.3,0.71,,1 Lithium ion batteries required,,512,
+,dedicated,,,Apple,Mac OS X,Intel,,Serial ATA,Mac,0.0,,,,16,DDR2,1,TB,3,12,12,3,,,,,2.7
+Intel,Integrated,,2.0,AZULLE,Windows 10 Professional,Intel,4.0,Solid State,PC,0.0,0.0,,,4,DDR4,32,GB,14.4,5.2,2,0.75,,,4,32.00,1.1
+Intel,,1.0,,Acer,Chrome OS,Intel,1.0,,,0.0,11.6,1366,768,2,,16,GB,2.76,7.9,11.3,0.75,,,,16,1.4
+NVIDIA,Dedicated,1.0,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,1.0,15.6,3840,2160,,,,,8.5,14.9,9.9,1.2,,,4,,4.5
+intel,Integrated,1.0,,Dell,Windows 10,Intel i7-7200u,2.0,Solid State,PC,0.0,13.3,1920,1080,8,DDR3,256,GB,4.19,12.7,8.8,0.7,6,1 Lithium Polymer batteries required,,256,2.5
+amd,dedicated,2.0,,HP,Windows 10 Home,AMD,4.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,500,GB,4.83,15.13,10.02,0.96,5.5,1 Lithium Polymer batteries required,,,2
+intel,,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,1366,768,8,DDR4,128,GB,5.25,14.3,9.9,0.78,,,,128,1.8
+Intel,integrated,2.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,19.5,1366,768,8,GDDR3,1,TB,6,18.39,7.2,14.61,8,1 Lithium ion batteries required,,,2.4
+,,,,BENEVE,Android 7.0 Nougat,,4.0,,Android,0.0,10.1,1920,1200,2,,32,GB,2.55,13.3,8.7,1.6,3,1 Lithium Polymer batteries required,,32,
+,,,,Lenovo,Android 4.4 KitKat,intel,4.0,,Android,0.0,10.1,1920,1200,16,DDR3,16,GB,1.36,10.04,7.2,0.28,24,1 Lithium ion batteries required,,16,1.33
+,integrated,,,HP,Windows 10 Professional,,4.0,,,0.0,,,,,,,,2.67,6.97,1.35,6.89,,,,512,
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA-600,PC,0.0,15.6,1366,768,8,DDR4,1,TB,4.41,21,13,2.8,,1 Lithium ion batteries required,,,2.2
+PowerVR,Integrated,,1.0,Lenovo,Chrome OS,Qualcomm,2.0,Solid State,,0.0,11.6,1920,1080,4,DDR4,,,1,11.4,8,0.8,,1 Lithium ion batteries required,,32,2.1
+,,,,HP,Chrome OS,Intel,2.0,,,0.0,11.6,1366,768,4,,,,2.5,8,3,13,11,1 Lithium ion batteries required,,16,
+,,,,Dell,,,1.0,,,0.0,23.8,1920,1080,4,,,,23.7,26,9,21,,,,8,
+,,,,BENEVE,Android 7.0 Nougat,,4.0,,Android,0.0,8,1920,1080,2,,32,GB,9.6,9.4,6.6,0.15,,,,32,
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR4,256,GB,5.32,13.22,9.17,0.8,,,,,2.1
+amd,,,,HP,Windows 10,AMD,4.0,,,0.0,15.6,,,4,SDRAM,500,GB,5.73,20.2,12.2,3.1,,1 Lithium Polymer batteries required,,,2.2
+Intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR4,500,GB,2.65,15,11,2,6,1 Lithium Polymer batteries required,,512,2.16
+amd,Integrated,1.0,,HP,Windows 10,AMD,4.0,Serial ATA,,0.0,15.6,1366,768,8,,1000,GB,2.7,9.99,14.96,0.94,6.75,1 Lithium Polymer batteries required,,,3.6
+intel,,,,Dell,Windows 10,Intel,1.0,,,0.0,156,1920,1080,4,,,,6.9,13.9,19.4,3,,1 Lithium ion batteries required,,,
+,Integrated,2.0,2.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,0.0,1920,1080,8,,500,GB,11.6,3.65,11.42,11.5,,,8,,3.2
+,,,,B.B.PAW,Android 6.0 Marshmallow,,,USB 2.0,PC,0.0,7,,,1,DDR3,8,GB,9.9,7.6,4.3,0.4,3,1 Lithium ion batteries required,,8,
+intel,,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,1,TB,4.83,14.96,10.16,0.89,,1 Lithium Polymer batteries required,,,2.6
+,Integrated,,,Dell,Windows 10,Intel,2.0,ATA,PC,0.0,15.6,,,12,DDR,1,TB,6.75,21.6,1.71,14.1,,1 Lithium Polymer batteries required,,,2.2
+,,,,BeyoundTab,Android 6.0 Marshmallow,,8.0,,Android,0.0,10,2560,1600,4,DDR3,64,GB,1.1,12.4,8,1.4,5,1 Lithium ion batteries required,,64,2.5
+,,,,Dell,Windows 10 Pro Ink,7th Gen Intel Core i7-7Y75 Processor,4.0,Solid State,Windows,0.0,,3200,1800,16,DDR3,512,GB,4.6,17,13,3,,,,,3.6
+intel,integrated,,,Apple,Mac OS,Intel,2.0,Solid State,Mac,0.0,13.3,,,8,DDR3,256,GB,2.96,12.8,8.94,0.68,,1 Lithium Polymer batteries required,,256,1.7
+,integrated,,,Lenovo,Windows 10,,2.0,,Windows,0.0,13.3,,,8,DDR4,,,3.75,12.2,8.4,0.6,,1 Lithium Polymer batteries required,,256,
+intel,Integrated,,,Dell,Windows 10 Home,AMD,2.0,Serial ATA,Home and Business/School 2-in-1 Touchscreen Laptop/Tablet,0.0,15.6,,,6,DDR3,500,GB,4.63,19.4,13.6,3,8,1 Lithium Polymer batteries required,,128,1.6
+intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,PC,0.0,17.3,1600,900,12,DDR4,256,GB,5.29,15.4,10.9,0.97,,1 Lithium ion batteries required,,256,2.7
+,,,,Padcod,Android 7.0 Nougat,,4.0,,Android,0.0,10.1,1280,800,2,,32,GB,1,12,10,2,3,,,32,1.3
+NVIDIA,Dedicated,2.0,2.0,ASUS,Windows 10,AMD,6.0,Solid State,PC,1.0,15.6,1920,1080,16,DDR,512,GB,4.4,9.9,14.2,0.7,,1 Lithium ion batteries required,,512.00,2.6
+intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,12.3,,,4,SDRAM,128,GB,1.72,17.8,12,2.7,,1 Lithium ion batteries required,,128,1.2
+,Integrated,2.0,2.0,Lenovo,,,1.0,Serial ATA,,1.0,1,,,,,,,15,12.9,6.5,14.8,,,1,512.00,
+NVIDIA,Dedicated,,,HP,Windows 10,Intel,4.0,Solid State,PC,1.0,15.6,3840,2160,16,DDR3,512,GB,12.3,14,9.9,0.7,13,1 Lithium ion batteries required,2,512,1.8
+,Integrated,2.0,1.0,Lenovo,Windows 8,Intel,1.0,,,0.0,15.6,1366,768,6,,1,TB,4.63,10.43,0.98,15.12,5,1 Lithium Metal batteries required,,,1.7
+,Integrated,,,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,PC,1.0,23.8,1920,1080,8,,500,GB,13.32,2.1,21.3,13.5,,,8,8,3.2
+Intel,Integrated,,,HP,Windows 10 Pro,Intel,4.0,Serial ATA,Windows,0.0,14,1920,1080,8,,256,GB,3.26,12.8,9.2,0.7,,1 Lithium Polymer batteries required,1,256.0,1.6
+Intel,Integrated,,2.0,ASUS,Windows 10,Intel,1.0,eSATA,PC,0.0,15.6,1920,1080,256,DDR4,256,GB,3.1,13.9,8.7,0.7,16,1 Lithium ion batteries required,,256.0,3.4
+,Integrated,,,Dell,Windows 10,Intel,1.0,Solid State,PC,0.0,13.3,,,8,DDR3,256,GB,2.7,16.5,14.6,4,,1 Lithium ion batteries required,,256,1.6
+,,,,RCA,,,4.0,,Android,0.0,10.1,1024,600,,,32,GB,2.4,12,8.3,3.1,6,1 Lithium ion batteries required,,32,1.3
+amd,,,,HP,Windows 10,AMD,2.0,,PC,0.0,15.6,,,8,SDRAM,1,TB,5.65,19,12.2,2.8,,1 Lithium ion batteries required,,1,2.6
+Intel,Integrated,,2.0,Google,Chrome OS,Intel,2.0,,Chrome,0.0,12.3,2400,1600,16,DDR,512,GB,2.45,11.43,8.69,0.44,10,1 Lithium Polymer batteries required,1,512,
+,,1.0,,Samsung,Android,,8.0,,Android,0.0,10.1,,,2,EPROM,16,GB,1.16,10.01,6.11,0.32,17,1 Lithium Polymer batteries required,,16,
+,Integrated,,,Acer,Windows 10,Intel,2.0,ATA,PC,0.0,15.6,,,4,DDR2,1,TB,4,3,19,10,,1 Lithium ion batteries required,,,2.3
+intel,,,,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,0.0,15.6,1366,768,4,DDR4,128,GB,4.19,9.9,14.3,0.8,5.5,1 A batteries required,,,2.3
+amd,dedicated,,,Dell,,,1.0,,,2.0,15.6,3840,2160,,,,,5.4,9.3,13.9,3.25,,1 Lithium ion batteries required,,512,
+Intel,,4.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,27,,,16,SDRAM,1512,GB,30.9,6.4,12.4,12.1,,,,,2.9
+Intel,Integrated,1.0,,HP,Windows 10 Pro,Intel,4.0,Solid State,PC,0.0,14,1366,768,8,DDR4,512,GB,3.53,12.76,9.36,0.71,,1 Lithium ion batteries required,,512,1.6
+NVIDIA,Dedicated,,2.0,Lenovo,Windows 10,Intel,6.0,Solid State,,2.0,15.6,1920,1080,16,,512,GB,5.1,20,13,3,,1 Lithium ion batteries required,4,,2.6
+,,1.0,,BENEVE,Android 7.1 Nougat,,4.0,,Android,0.0,7,1024,600,1,,8,GB,8,7.76,4.92,0.45,3,1 Lithium Polymer batteries required,,8,1.2
+intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,PC,0.0,17.3,1600,900,8,DDR,256,GB,5.29,15.4,10.9,1,5,,,256,2.5
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,1,TB,5.07,14.8,10.4,0.9,,1 Lithium Polymer batteries required,,,2.3
+,,1.0,,Victbing,Android,MTK,4.0,USB 2.0,Android Go 8.1,0.0,10.1,1280,800,1,DDR3,16,GB,1.5,9.45,6.6,0.3,5,1 Lithium ion batteries required,,16,1.5
+,Integrated,,,Lenovo,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,13.9,1920,1080,8,DDR4,256,GB,3.02,12.7,8.8,0.5,15.5,1 Lithium Polymer batteries required,,256,1.8
+,,,,CZT,,,,,,0.0,2.5,,,,,,,3.68,5.91,2.76,0.87,2,,,,
+amd,integrated,,,Dell,Windows 10,AMD,1.0,Ethernet,PC,0.0,11.6,1366,768,4,DDR,64,GB,4.12,16,10.6,3,,,,64,1.6
+intel,Integrated,,,Panos,Chrome OS,Intel,2.0,SSA,PC,0.0,13.3,,,2,DDR,16,GB,3.31,12.9,8.9,0.8,9,1 Lithium ion batteries required,,16,1.44
+,Integrated,,,Dell,WINDOWS 10,INTEL,2.0,eSATA,PC,1.0,13.3,,,16,DDR,512,GB,2.84,21,12,2,22,,,1024,3.5
+,Dedicated,,,HP,Windows 10,AMD,2.0,,Windows,0.0,15.6,,,8,,1000,GB,4.74,14.2,9.8,0.8,8.25,1 Lithium Polymer batteries required,,8,2.7
+intel,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,17.3,1600,900,4,DDR4,2,TB,6.17,16.8,10.2,1.1,,1 Lithium ion batteries required,,,2.2
+Intel,Integrated,1.0,2.0,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,1,TB,11.5,14.96,10,0.94,,1 Lithium Polymer batteries required,1,8.00,2.4
+,,,,IVIEW,Android 6.0 Marshmallow,Allwinner,1.0,,Android,0.0,7,1024,600,1,,16,GB,10.6,7.57,4.57,0.5,8,1 Lithium Polymer batteries required,,16,1.2
+,Integrated,,,HP,Windows 10 Pro,Intel,1.0,Solid State,PC,0.0,14,1366,768,8,DDR3,256,GB,3.56,9.1,13.3,0.75,,1 Lithium ion batteries required,,128,1.8
+,,,,Acer,AndroidTM::Android 6.0 Marshmallow,,4.0,,,0.0,7,,,3,,,,8.8,4.02,7.6,0.35,,1 Lithium Polymer batteries required,,16,
+,,,,Dell,Windows 10,Intel,,Solid State,PC,0.0,,,,16,GDDR4,128,GB,13,14.71,6.3,11.61,,,,128,
+intel,integrated,,,Lenovo,Windows 10 Professional,Intel,4.0,,,0.0,14,1920,1080,16,DDR4,512,GB,3.41,12.95,12.95,0.7,,1 Lithium ion batteries required,,,1.9
+,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,14,,,8,DDR3,256,GB,3.55,20,14.9,3.5,,1 Lithium Polymer batteries required,,256,1.7
+Intel,integrated,2.0,,BMAX,Windows 10,Intel,2.0,Serial ATA-600,PC,0.0,,,,4,DDR3,64,GB,1.45,4.7,4.7,0.9,,,,,2.48
+Intel,dedicated,,,HP,Windows 10 Home,Intel,4.0,Serial ATA,PC,1.0,13.3,1920,1080,16,DDR4,1,TB,4.95,19,12,2.5,,1 Lithium Polymer batteries required,,,1.8
+,Integrated,,,Dell,Windows 8;,Intel,1.0,Solid State,PC,0.0,11.6,,,4,DDR3,128,GB,6,17,12,4,8,1 Lithium ion batteries required,,128,1.5
+,,,,UJoyFeel,,,4.0,,Android,0.0,7,1024,600,1,,16,GB,12.3,8.2,7.6,1.3,3,1 Lithium Polymer batteries required,,16,1.3
+Intel,"Dedicated, Integrated",,3.0,Lenovo,Windows 10,Intel,4.0,Solid State,PC,1.0,15.6,1920,1080,8,GDDR5,256,GB,4.39,14.4,0.8,9.95,,1 Lithium ion batteries required,,256.0,1.7
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,11.6,1366,768,4,DDR3,32,GB,3.19,11.91,8.19,0.78,,1 Lithium ion batteries required,,64,1.6
+,,,,BuzzTV,Android 6.0 Marshmallow,,4.0,,Android,0.0,,,,1,,8,GB,1.3,7.6,6.6,2.2,,2 AAA batteries required,,8,
+intel,Integrated,1.0,2.0,HP,Windows 10 Home,Intel,4.0,Solid State,,0.0,15.6,1366,768,12,SODIMM,256,GB,4.19,14.8,9.7,0.9,,1 Lithium ion batteries required,2,256.00,1.8
+Intel,Integrated,1.0,1.0,ASUS,Windows 10,Intel,1.0,,,0.0,11.6,1366,768,4,DDR3,,,2.8,11,7.87,0.7,8,1 Lithium ion batteries required,4,64.0,2.4
+Intel,integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,Business Laptop,0.0,14,1366,768,4,DDR,128,GB,4.45,9.8,12.8,0.8,,1 Lithium Polymer batteries required,,128,2.4
+NVIDIA,dedicated,,,PROSTAR,Windows 10,Intel,6.0,Serial ATA,PC,1.0,17.3,1920,1080,32,SDRAM,1,TB,5.51,10.55,15.96,0.78,,1 Lithium Polymer batteries required,,,2.6
+amd,,,,HP,Windows 10,AMD,4.0,Solid State,PC,0.0,15.6,1920,1080,16,DDR4,256,GB,4.48,14.1,9.7,0.7,,1 Lithium ion batteries required,,256,2.2
+AMD,Integrated,2.0,2.0,ASUS,Windows 10 Home,AMD,2.0,Serial ATA,PC,0.0,15.6,1920,1080,6,DDR4,1000,GB,3.5,14.2,9.6,0.7,6,1 Lithium Polymer batteries required,,8.0,3.4
+intel,Integrated,,,HP,Chrome OS,Intel,2.0,Serial ATA,PC,0.0,11.6,1366,768,4,DDR3,16,GB,4,17.2,10.3,2.8,,1 Lithium Polymer batteries required,,16,1.6
+,,,,ASUS,windows 8,NVIDIA,4.0,Serial ATA,Windows,0.0,10.1,1366,768,2,SDRAM,32,GB,1.16,8.5,4.5,0.1,9,1 Lithium ion batteries required,,32,1.3
+,Integrated,,7.0,HP,Windows 10 Professional,Intel,4.0,Serial ATA-600,PC,0.0,1,,,8,,,,2.67,1.35,6.97,6.88,,,,256.00,3.4
+intel,Integrated,,,Microsoft,Windows 10 Pro 64-bit,Intel,1.0,Serial ATA,PC,0.0,12.3,2736,1824,4,DDR,128,GB,5,15,12,8,,,,,2.6
+NVIDIA,Dedicated,,4.0,MSI,Windows 10 Pro,Intel,6.0,Solid State,,2.0,17.3,1920,1080,32,SODIMM,512,GB,5.03,15.59,10.22,0.75,,,,512,2.6
+nvidia,Dedicated,,,MSI,,Intel,1.0,Solid State,,0.0,15.6,1920,1080,8,,256,GB,8.8,20,14,4.2,,,,256,2.3
+intel,,,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,1,TB,5,18,10,3,,,,,1.6
+intel,integrated,,,Dell,Windows 10 Pro,Intel,2.0,Solid State,PC,0.0,14,,,8,DDR3,256,GB,3.73,13.7,9,0.8,,,,256,2
+amd,,,,ASUS,Windows 10,AMD,4.0,Serial ATA,PC,0.0,14,1366,768,4,SDRAM,1032,GB,3.59,13.3,9.3,0.9,,1 Lithium ion batteries required,,,1.5
+,Integrated,,,Acer,Chrome OS,Intel,1.0,eSATA,PC,0.0,11.6,1366,768,4,DDR3,32,GB,3.53,15.3,9.4,3.2,,1 Lithium ion batteries required,,,1.6
+,integrated,2.0,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,0.0,11.6,1366,768,4,DDR4,500,GB,2.66,11,10.08,1.06,,1 Lithium Polymer batteries required,,,2.6
+intel,Integrated,,,Apple,Mac OS X,Intel,2.0,Serial ATA,Mac,0.0,13.3,,,4,DDR3,500,GB,4.5,16.2,14.3,4.3,7,1 Lithium Polymer batteries required,,,2.5
+Qualcomm,Integrated,1.0,2.0,ASUS,Windows 10 S,Qualcomm,2.0,Solid State,Windows,0.0,13.3,1920,1080,128,DDR,128,GB,3.1,12.4,8.7,0.6,,1 Lithium ion batteries required,,128.00,2.6
+Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,eSATA,Home and Business Full HD IPS Touchscreen Laptop,0.0,15.6,1920,1080,12,DDR,1,TB,4.21,14.88,9.93,0.78,9,1 Lithium ion batteries required,,,1.8
+,,,,HP,Windoes 10,Intel i5,6.0,eSATA,PC,0.0,23.8,,,16,GDDR4,1,TB,12.32,21.27,6.3,17.42,,1 Lithium ion batteries required,,,1.7
+Intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,4096,2304,8,DDR4,128,GB,5.29,14.1,9.6,0.7,8,1 Lithium ion batteries required,32,128,3.9
+,,1.0,,Dragon Touch,Android 8.1 Oreo,MTK,4.0,USB 2.0,Android,0.0,10.1,,,2,DDR3,16,GB,1.95,9.5,6.69,0.39,6,1 Lithium Polymer batteries required,,16,1.30
+intel,,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,16,DDR4,1,TB,5,12.8,9.2,0.7,,,,,1.6
+intel,integrated,,,ASUS,Windows 10,Intel,4.0,Solid State,PC,0.0,10.1,1366,768,2,DDR3,64,GB,2.4,10.4,6.7,0.9,11,1 Lithium ion batteries required,,64,1.33
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,PC,0.0,14,1366,768,16,DDR4,2,TB,3.84,13.22,9.17,0.8,,,,,1.6
+nvidia,Dedicated,,,Acer,Windows 10,Intel,4.0,Serial ATA,PC,1.0,17.3,,,16,DDR,,,15,23.5,17,5,,1 Lithium ion batteries required,,256,2.8
+,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Solid State,2 in 1 Full HD Business Laptop/Tablet,0.0,13.3,1920,1080,8,DDR3,256,GB,2,7.8,11.98,0.32,12,1 Lithium ion batteries required,,256,1.3
+intel,Integrated,,,Acer,Chrome OS,Intel,2.0,Solid State,PC,0.0,15.6,1920,1080,4,DDR4,32,GB,5.7,15.1,10.1,0.8,,1 Lithium ion batteries required,,,2.4
+Intel,Integrated,,3.0,Acer,Chrome OS,Intel,2.0,Solid State,,0.0,14,,,8,DDR4,64,GB,5.3,12.72,9.39,0.7,12,1 Lithium ion batteries required,,64,3.4
+Intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,4.0,Solid State,Windows,1.0,14,2560,1440,16,,,,2.91,13,8.9,0.7,6,1 Lithium ion batteries required,,512.0,1.9
+AMD Radeon R5 Graphics,Integrated,2.0,1.0,Lenovo,Windows 10,AMD,4.0,Serial ATA,PC,0.0,15.6,1366,768,12,SDRAM,1000,GB,4.84,14.92,0.9,10.24,5,1 Lithium Polymer batteries required,,,2.5
+intel,Integrated,,,Ematic,Windows 10,Intel,4.0,,,0.0,14.1,,,2,,,,1,13.77,0.59,9.13,,1 Lithium ion batteries required,,32.0,1.3
+Intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,13.3,1920,1080,8,DDR3,256,GB,2.9,7.88,11.98,0.6,,1 AAA batteries required,,256,2.5
+NVIDIA,dedicated,,,HP,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,3840,2160,16,DDR4,1,TB,4.83,14.22,9.84,0.76,,1 Lithium ion batteries required,,,2.6
+nvidia,dedicated,,,Lenovo,Windows 10,Intel,6.0,PCIE x 4,PC,1.0,15.6,1920,1080,8,DDR4,512,GB,9.09,14.37,10.24,1.02,5,1 Lithium ion batteries required,,512,2.6
+NVIDIA,Dedicated,,4.0,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,1.0,15.6,1920,1080,16,DDR4,1000,GB,5.29,14.21,10.31,1.03,,1 Lithium Polymer batteries required,6,256.00,3.9
+Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,17.3,1600,900,8,DDR4,1,TB,5.52,16.33,10.72,0.96,,,,,2.2
+,,,,ASUS,windows 8,NVIDIA,4.0,Serial ATA,Windows,0.0,10.1,1366,768,2,SDRAM,32,GB,1,1,1,1,8,1 Lithium ion batteries required,,32,1.3
+intel,Integrated,,3.0,ASUS,Windows 10 Pro,Intel,6.0,Solid State,,0.0,13.3,1920,1080,8,,256,GB,2.31,12.24,8.39,0.51,9,1 Lithium ion batteries required,,256.0,1.8
+Intel,Integrated,,3.0,ASUS,Windows 10 S,Intel,2.0,Solid State,,0.0,11.6,1366,768,4,,64,GB,2.2,11.3,7.6,0.7,,1 Lithium ion batteries required,,64,2.4
+intel,integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,500,GB,5,15,11,2,,1 Lithium ion batteries required,,512,2.16
+AMD,Dedicated,,4.0,Acer,Windows 10 Home,Intel,4.0,Solid State,,1.0,15.6,1920,1080,16,DDR4,512,GB,5.55,9.53,14.17,0.67,,1 Lithium ion batteries required,4,512.00,4.1
+NVIDIA®,Dedicated,,,Razer,Windows 10 Home,Intel,6.0,Solid State,PC,1.0,15.6,1920,1080,16,,,,4.63,9.25,13.98,0.7,,1 Lithium ion batteries required,8,256.0,4.1
+Intel,Integrated,,2.0,HP,Windows 10 Home,Intel,4.0,Serial ATA,Windows,0.0,15.6,1920,1080,8,DDR4,1,TB,5.4,19,3,12,,1 Lithium ion batteries required,0,,1.6
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR3,256,GB,4.52,15,10,0.9,,1 Lithium ion batteries required,,256,2.4
+,,,,BENEVE,Android 7.1 Nougat,,4.0,,Android,0.0,7,1024,600,1,,8,GB,2,12.2,6.5,1.9,,2 Lithium Polymer batteries required,,8,1.2
+Intel,Integrated,2.0,1.0,Dell,Windows 10,Intel,2.0,,,0.0,15.6,1366,768,8,DDR3,1,TB,5.4,10.25,14.9,0.95,,1 Lithium ion batteries required,,256,2.2
+,Integrated,1.0,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,1,TB,5.06,15.04,9.84,0.94,8,1 Lithium ion batteries required,,1,2.7
+,integrated,,,KODLIX,Windows 10,Intel,,Ethernet 100Base-TX,PC,0.0,,,,4,DDR,64,GB,9.1,9.5,5.4,2.8,,,,,2.48
+nvidia,Dedicated,,3.0,Razer,Windows 10 Home,Intel,6.0,Solid State,,1.0,15.6,1920,1080,16,,256,GB,4.56,9.25,13.98,0.66,,1 Lithium ion batteries required,8,256.00,4.1
+NVIDIA,dedicated,,,Dell,Windows 10 Home,Intel,6.0,Serial ATA,PC,1.0,15.6,1920,1080,16,DDR4,128,GB,5.9,14.3,10.8,0.95,,1 Lithium ion batteries required,,128,2.6
+Nvidia,Dedicated,,,Acer,Windows 10,Intel,6.0,Serial ATA,PC,1.0,15.6,1920,1080,32,DDR3,512,GB,5.51,12.8,9.2,0.7,,,,512,2.2
+Intel,Dedicated,1.0,,Lenovo,Windows 10 Pro,Intel,1.0,Solid State,PC,2.0,15.6,1920,1080,,,,,5.51,14.9,9.9,1.2,,,,512.00,
+,,,,Azpen,Android 6.0 Marshmallow,,4.0,,Android,0.0,7,1280,800,32,DDR3,32,GB,2.45,11.6,6.1,4.1,5,,,8,1.3
+Allwinner,Integrated,1.0,1.0,DYNABOOK,Windows 10 Pro,,1.0,ATA-4,PC,1.0,15.6,1920,1080,,DDR4,,,4.85,16.7,13.9,2.4,,1 Lithium ion batteries required,1,512.00,
+intel,,,,,,,4.0,,,0.0,15.6,,,8,DDR4,,,6.55,15,10,1,,1 Lithium Polymer batteries required,,256,
+Intel,Integrated,,,ASUS,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,14,1920,1080,8,DDR4,256,GB,3.1,12.9,8.9,0.5,,1 Lithium ion batteries required,8,256.00,3.9
+,,,,Dell,Windows 10 Professional,Intel,8.0,,PC,0.0,,,,8,DIMM,1,TB,25.9,18.8,18.3,14,,,,,
+NVIDIA,Dedicated,,5.0,ASUS,Windows 10 Home,Intel,6.0,Serial ATA,PC,1.0,17.3,1920,1080,16,DDR4,1000,GB,6.5,16.22,10.77,0.94,,1 Lithium Metal batteries required,6,256.0,2.2
+intel,Dedicated,,,HP,Windows 10 Pro 64-Bit,Intel,1.0,Serial ATA,PC,0.0,14,1366,768,8,DDR3L,256,GB,5.9,17.2,12.6,4.2,,1 Lithium ion batteries required,,,2.3
+intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,12,SDRAM,2,TB,5.82,14.96,9.99,0.94,,,,,2.5
+nvidia,Integrated,,,Dell,Windows 10 Pro,Intel,6.0,,PC,0.0,15.6,1920,1080,8,,,,4.26,9.9,14.8,0.8,,1 Lithium ion batteries required,2,256.0,2.6
+,Integrated,4.0,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,Windows,0.0,0.0,,,8,,500,GB,11.6,11.5,3.7,11.4,,,,,3
+AMD,Dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,1.0,,,,16,DIMM,256,GB,32,6.8,19.1,16.3,,,,,2.9
+intel,Dedicated,1.0,1.0,HP,,,1.0,ATA-4,,0.0,13.3,1280,800,,,,,4.5,9.1,12.1,0.7,,1 12V batteries required,1,256.00,
+,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,12,SDRAM,1,TB,4.8,14.96,9.84,0.74,10,1 Lithium ion batteries required,,,2.5
+Intel,Integrated,1.0,,ASUS,Windows 10 Home,Intel,2.0,Serial ATA,Home and Business PC,0.0,14,1366,768,4,DDR,500,GB,3.86,13.7,9.6,1,10,1 Lithium ion batteries required,,256,2.6
+amd,"Integrated, Dedicated",,,Lenovo,Windows 10 Home,AMD,2.0,Solid State,Business Laptop,0.0,15.6,1366,768,4,DDR,256,GB,4.63,10,14.8,0.9,5,,,256,2.6
+intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,17.3,1600,900,16,SDRAM,16,GB,6.85,20.6,13.6,2.8,,1 Lithium ion batteries required,,1,1.8
+Intel,integrated,2.0,,Dell,Windows 10,Intel,4.0,Solid State,PC,0.0,11.6,1366,768,8,DDR3,128,GB,3.24,11.3,7.8,0.8,,1 Lithium ion batteries required,,128,1.6
+intel,Integrated,,,Google,Chrome OS,Intel,2.0,,,0.0,12.3,3000,2000,8,,,,1.59,11.45,7.95,0.28,,1 Lithium Polymer batteries required,,64,3.4
+Intel,Integrated,3.0,,Dell,Windows 10 Pro,Intel,1.0,Solid State,PC,0.0,14,1920,1080,16,DDR,512,GB,3.01,8.7,13.03,0.82,,1 Lithium ion batteries required,,512,2.6
+,Integrated,,2.0,Acer,Windows 10,Intel,1.0,,,0.0,14,1920,1080,8,,,,4.19,13.54,9.65,0.73,9,1 AA batteries required,,256.0,2.3
+intel,Integrated,1.0,,HP,Windows 10 Home,Intel,4.0,,,0.0,15.6,,,12,DDR,,,4.63,14.96,9.99,0.94,,1 Lithium ion batteries required,,,
+,"Intel HD Graphics 620, Integrated",,,HP,Windows 10 Pro,Intel,2.0,,,0.0,14,,,16,,512,GB,5.1,21,12,4,,,,,2.8
+,Integrated,,,Samsung,AndroidTM 5.1 Lollipop,Samsung,1.0,,Android,0.0,7,1280,800,1,,8,GB,9.8,4.27,0.34,7.35,5,1 Lithium Polymer batteries required,,8,1.3
+,,,,Samsung,Android,samsung,4.0,,Android,0.0,10.1,1280,800,1,,16,GB,1.08,6.94,0.31,9.58,,1 Lithium ion batteries required,,16,1.2
+,,,,FayshockUS,Android 6.0 Marshmallow,,4.0,,Android,0.0,10.1,1280,800,16,,16,GB,1.8,11.4,7.9,2.2,4,1 Lithium Polymer batteries required,,16,1.3
+,,,,AWOW,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,,,,4,DDR,32,GB,2.24,4.8,1.45,0.47,,,,32,1.44
+,,,,Samsung,Android 5.0 Lollipop,Qualcomm,1.0,,PC,0.0,8,1280,800,2,DDR,16,GB,11,0.29,5.43,8.2,14,1 Lithium ion batteries required,,16,1.4
+NVIDIA,Dedicated,,4.0,Acer,Windows 10,Intel,1.0,Serial ATA,,1.0,15.6,1920,1080,16,,1000,GB,8.16,15.39,11.79,1.52,3,1 Lithium ion batteries required,8,256.0,2.8
+intel,Integrated,1.0,,Lenovo,,,1.0,Serial ATA,,1.0,13.3,1920,1080,,,,,4.4,17.1,11.3,3,,1 Lithium ion batteries required,,,
+,,,,Thinkpad_X1,Windows 10,Intel,1.0,Solid State,PC,1.0,14,,,8,DDR,512,GB,4.8,18.5,12,3,,1 Lithium ion batteries required,,512,3.4
+Intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,128,GB,3.96,14.09,9.65,0.7,,1 Lithium ion batteries required,,,1.6
+,,,,Dell,Windows 10,Intel,1.0,Serial ATA,PC,0.0,,,,8,GDDR4,1,TB,23.6,19,18.2,14,,,,,4
+AMD,Integrated,2.0,,HP,Chrome OS,AMD,2.0,Solid State,,0.0,14,1366,768,4,,32,GB,3,8.93,13.27,0.72,,1 Lithium ion batteries required,,32.00,2.2
+,,,,ASUS,Windows 10,AMD,2.0,Solid State,PC,0.0,15.6,1920,1080,4,SODIMM,128,GB,4,9,14,0.8,5,1 Lithium ion batteries required,,128,2.6
+,Integrated,,,Dell,Windows 10,Intel i5-7200u,2.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR3,256,GB,4.83,14.9,9.9,0.7,6,1 C batteries required,,256,2.5
+NVIDIA,Dedicated,,,HP,Windows 10,Intel,4.0,Solid State,,0.0,17.3,1920,1080,8,,256,GB,6.07,23.5,13.5,2.8,,1 Lithium ion batteries required,,256.00,4.1
+Intel,Integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,Business and Home Laptop,0.0,15.6,1366,768,12,DDR,256,GB,3.88,9.7,14.8,0.89,10.25,1 Lithium ion batteries required,,256,1.8
+amd,integrated,1.0,,HP,Windows 10,AMD,4.0,Solid State,PC,0.0,15.6,1366,768,8,DDR4,128,GB,3.88,14.8,9.7,0.9,,1 Lithium Polymer batteries required,,128,2.1
+amd,dedicated,2.0,,HP,Windows 10,AMD A8-7410,4.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,1,TB,4.73,15.13,10,0.96,6,1 Lithium Polymer batteries required,,,2.2
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,Business Laptop,1.0,13.3,1920,1080,8,DDR3,512,GB,5.38,7.88,11.98,0.53,13,,,512,1.8
+Intel,Integrated,1.0,1.0,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,500,GB,4.85,10.25,14.96,0.85,8,1 Lithium Polymer batteries required,,128,1.6
+amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1366,768,16,DDR4,512,GB,5.7,12.8,9.2,0.7,5,1 Lithium ion batteries required,,512,3.1
+intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,17.3,1600,900,16,SDRAM,2512,GB,6.85,12.8,9.2,0.7,,1 Lithium ion batteries required,,512,1.8
+Intel,Integrated,,,HP,Windows 10,Intel,1.0,Serial ATA-600,PC,0.0,17.3,1600,900,8,DDR4,1000,GB,6.88,20.5,13.5,3,9.5,1 Lithium ion batteries required,,,2.9
+,,,,RCA,Android,mediatek,4.0,,Android,0.0,10,1280,800,1,DDR,32,GB,2.9,11.5,7.6,2.7,4,1 Lithium ion batteries required,,32,1.4
+,Integrated,,,HP,Windows 10 Pro,Intel,1.0,Serial ATA,PC,0.0,14,1300,768,8,DDR3,180,GB,3.6,9.1,13.3,0.7,,1 Lithium ion batteries required,,180,1.8
+,,,,Okian,Windows 10,Intel,4.0,USB,Mac,0.0,,,,4,DDR3,64,GB,1.94,8.8,6.1,2.7,,,,,2.3
+intel,Integrated,1.0,2.0,Lenovo,Windows 10 Pro,Intel,2.0,Solid State,PC,0.0,15,1920,1080,12,DDR4,512,GB,5.98,18.5,12,3.1,,1 Lithium ion batteries required,12,12.00,3.1
+amd,"Integrated, Dedicated",,,Dell,Windows 10,AMD,2.0,Serial ATA,PC,0.0,11.6,,,4,DDR4,128,GB,4.72,16.3,10.4,3,,1 Lithium ion batteries required,,128,1.8
+,,1.0,,UJoyFeel,Android 6.0 Marshmallow,ARM,4.0,USB 2.0,Android,0.0,7,1024,600,1,DDR3,1,GB,1.06,7.15,4.7,0.4,4,1 Lithium Polymer batteries required,8,8,1.3
+intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,,,8,DDR4,256,GB,4.85,14.96,10.15,0.89,,1 Lithium ion batteries required,,128,2.5
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,14,1366,768,4,DDR4,256,GB,3.15,12.8,8.9,0.8,9,1 Lithium ion batteries required,,,2.4
+,,1.0,1.0,Microsoft,Windows 10 Professional,Intel,1.0,,Windows,0.0,12.3,2736,1824,16,,1,TB,1.7,1.58,15.17,9.21,13,1 Lithium ion batteries required,,1,3.4
+Intel,Integrated,2.0,2.0,Dell,Windows 10,Intel,1.0,Solid State,PC,0.0,15.6,,,8,DDR,,,5.51,19.4,13.2,2.8,,1 Lithium Metal batteries required,1,1.0,2.5
+,Integrated,4.0,,HP,Windows 10,Intel,6.0,Serial ATA,PC,0.0,0.0,,,8,,1000,GB,11,10.9,6.69,13.3,,,8,1.00,2.8
+,integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,Desktop Computer,0.0,,,,12,DDR,256,GB,12.4,12.4,6.42,12.09,,,,,2.9
+Intel,Integrated,4.0,,Dell,Windows 10 Professional,Intel,1.0,Serial ATA,PC,0.0,0.0,,,8,DDR4,1,TB,17.48,10.8,6.1,13.8,,,,8,3
+nvidia,Dedicated,,,MSI,Windows 10,Intel,6.0,,,0.0,15.6,,,8,,,,5.5,19.5,13,4.2,,1 Lithium ion batteries required,,128,
+nvidia,dedicated,3.0,,Dell,Windows 7;,Intel,2.0,Serial ATA,PC,0.0,14.1,1400,900,4,DDR3,160,GB,5.4,14,15,3,,1 Lithium ion batteries required,,,2.53
+,Integrated,1.0,1.0,HP,,,6.0,Solid State,,1.0,23.8,,,3,,,,19.69,21.24,7.09,18.41,,,,256.00,
+Intel,Integrated,1.0,1.0,HP,Windows 10,Intel,1.0,eSATA,PC,0.0,15.6,1366,768,8,DDR4,2,TB,3.9,14.8,9.69,0.89,,1 Lithium Metal batteries required,2,2,2.5
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,4,DDR4,128,GB,5.63,9.2,13.2,0.8,,1 Lithium ion batteries required,,,2.1
+intel,Integrated,1.0,,ASUS,Windows 10,Intel,4.0,,Windows,0.0,13.3,,,8,DDR3,1,TB,4.19,12.7,8.9,0.7,10,1 Lithium Polymer batteries required,,,2.3
+Intel,Integrated,1.0,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,12,DDR4,1,TB,6.95,14.95,10.15,0.89,,1 Lithium Polymer batteries required,,,1.6
+,dedicated,,,Microsoft,Windows 10,intel,1.0,Solid State,Windows,1.0,28,,,2,,64,GB,32.8,35,23,10,20,,,1,2.6
+,Integrated,,,Lenovo,Windows 10,AMD,2.0,,,0.0,15.6,,,8,DDR4,,,6.1,14.8,10,0.9,,1 Lithium ion batteries required,,256,
+nvidia,Dedicated,,,Dell,Windows 10,Intel,4.0,Solid State,PC,1.0,15.6,,,16,DDR,512,GB,6,21,12,2,,1 Lithium ion batteries required,,512,3.8
+Intel,integrated,2.0,,Dell,Windows 10,,1.0,,PC,0.0,23.8,1920,1080,3,,,,18.2,18,16,12,,1 Lithium Polymer batteries required,,1,
+intel,"Shared, Integrated",,2.0,Lenovo,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,14,1920,1080,8,DDR,128,GB,3.7,9,12.9,0.7,10,1 Lithium Polymer batteries required,2,128.00,1.8
+NVIDIA,Dedicated,1.0,,Alienware,Windows 10,Intel,4.0,,PC; Notebook,1.0,13.3,1920,1080,16,DDR,512,GB,5.8,10.59,12.99,9.44,,1 Lithium ion batteries required,,512.0,3.8
+Intel,integrated,2.0,1.0,Acer,Windows 10,Intel,1.0,,,0.0,15.6,1920,1080,12,DDR4,1000,TB,4.74,9.9,15,0.9,,,,,2.5
+intel,"Integrated, Dedicated",,,Apple,macOS 10.12 Sierra,Intel,1.0,Solid State,Mac,1.0,13.3,2560,1600,8,DDR3,512,GB,3,8.36,11.97,0.59,,1 Lithium ion batteries required,,256.0,2.9
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Solid State,PC,0.0,14,1920,1080,12,DDR4,512,GB,3.16,12.76,8.89,0.78,7.5,1 Lithium ion batteries required,,,2.2
+,,,,Dell,Android 4.1,Intel,2.0,Solid State,Android,0.0,8,1280,800,2,DDR2,16,GB,11.8,8.5,5.12,0.35,8,1 Lithium ion batteries required,,16,2
+Intel,Integrated,,,Lenovo,Windows 10 Home,Intel,2.0,Solid State,Business and School Laptop,0.0,15.6,1366,768,8,DDR,256,GB,5.18,9.6,14.8,0.7,8.5,1 Lithium ion batteries required,,,2.1
+AMD,,,,Dell,Windows 10,AMD,4.0,Serial ATA,PC,0.0,13.3,1920,1080,8,DDR3,256,GB,3.84,12.7,8.8,0.7,,1 Lithium ion batteries required,,256,2
+NVIDIA,dedicated,,,ASUS,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,1920,1080,32,DDR4,1024,GB,5.07,15.1,10.3,1,6,1 Lithium ion batteries required,,32,2.2
+,Integrated,,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,0.0,13.3,,,8,DDR4,256,GB,11.5,12.6,8.8,2.6,,1 Lithium Polymer batteries required,,256,3.4
+Nvidia,dedicated,,,Dell,Windows 10,Intel,6.0,Serial ATA,PC,1.0,,,,16,DDR4,256,GB,12.1,12.52,3.74,13.5,,,,256,3.2
+Intel,,,,Highwings,Windows 10,Intel,4.0,USB 3.0,PC,0.0,,,,8,DDR,64,GB,1.62,5.2,5.1,3,,,8,,2.2
+,,,,Acer,Chrome OS,Intel,2.0,,Chrome,0.0,13.3,,,6,DDR3,64,GB,3.28,12.83,8.98,0.61,,1 A batteries required,,32,
+Intel,Integrated,1.0,,HP,Windows 10 Home,Intel,2.0,Solid State,Business Laptop,0.0,14,1366,768,4,DDR3,64,GB,3.17,8.9,13.27,0.7,10,1 Lithium Polymer batteries required,,64,1.6
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,17.3,1600,900,12,DDR4,256,GB,4.98,10.9,15.3,1,,,,256,2.7
+intel,Integrated,,,Dell,Windows 10,Intel,1.0,,PC,0.0,13.3,,,8,DDR,256,GB,3.31,4,15,17,,1 Lithium ion batteries required,,,3.6
+NVIDIA,Dedicated,1.0,3.0,MSI,Windows 10 Pro,Intel,8.0,PCIE x 4,PC,1.0,17.3,1920,1080,32,SODIMM,,,5.73,15.63,10.57,1.08,,1 Lithium Polymer batteries required,,512,3.4
+NVIDIA,dedicated,,,Acer,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,1920,1080,32,DDR4,2,TB,5.07,14.23,10,0.9,,,,,2.6
+nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,1920,1080,16,DDR,512,GB,9,18.8,14.6,4.3,,1 Lithium ion batteries required,,512,2.6
+intel,Integrated,,,Apple,MAC OS,Intel,2.0,Ethernet,Mac,0.0,13,2560,1600,8,DDR3,512,GB,4,11,8,1,12,1 Lithium ion batteries required,,256,3.1
+,,,,Samsung,,qualcomm,4.0,Solid State,,0.0,10.5,2560,1600,4,,256,GB,11.5,6.5,0.3,9.8,16,1 Lithium Polymer batteries required,,256,2.45
+intel,Integrated,2.0,2.0,MISC,,,1.0,Solid State,,1.0,14,1920,1080,2,,,,3.27,9.2,12.8,0.7,,1 Lithium ion batteries required,,512.00,
+,Integrated,,,ASUS,Windows 8;,Intel,4.0,,PC,0.0,10,1366,768,2,SORIMM,,,3.45,11.7,8.5,3,11,1 Lithium ion batteries required,,64,
+,,1.0,,Lenovo,,,,,,0.0,10.1,,,2,,,,2.88,6.89,9.72,0.3,5,1 Lithium ion batteries required,,32,
+Intel,Integrated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,1.0,17.3,1920,1080,16,DDR3,1,TB,6.48,16.2,10.8,0.8,6,1 Lithium ion batteries required,,,1.8
+,,,,Samsung,Android 3.1 Honeycomb,,,,Android,0.0,10.1,,,16,,16,GB,1.9,10.9,7.2,2,9,1 Lithium ion batteries required,,16,
+,,,,HP,Windows 10,Intel,6.0,Serial ATA,PC,0.0,23.8,,,12,SDRAM,2,TB,19.84,27,21.5,8.8,,1 Lithium ion batteries required,,,1.7
+intel,Integrated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,,,8,DDR3,1,TB,4.85,19.5,13.5,3,,1 Lithium Polymer batteries required,,,1.6
+,,,,Polaroid,,ARM,,,Android,0.0,7,,,4,,,,1.25,12.5,8.1,2,3,,,4,1
+intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,12,DDR4,1,TB,3.97,20.3,12.1,2.6,,1 Lithium Polymer batteries required,,,1.8
+,,1.0,,RCA,Android,,1.0,,Android,0.0,7,1024,600,1,DDR3,16,GB,1.1,7.3,4.9,0.45,4,1 Lithium Polymer batteries required,,16,1.2
+,,,,Mirzebo,,,4.0,USB,MT6580,0.0,10.1,1920,1200,1,DDR2,16,GB,2.3,9.45,6.3,0.28,3,,,16,1.6
+,integrated,,,Dell,Windows 10,AMD,2.0,,PC,0.0,11.6,1366,768,4,DDR4,64,GB,1.2,11.48,7.95,0.82,,1 Lithium ion batteries required,,,1.6
+,integrated,2.0,,COOFUN,Windows 10 Professional,Intel,4.0,USB 2.0,PC,0.0,,3840,2160,4,DDR3,64,GB,1.1,9.7,5.2,1.9,,,,,1.92
+AMD,,1.0,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,0.0,14,1920,1080,4,DDR4,64,GB,5.3,12.91,8.85,0.69,,1 Lithium Polymer batteries required,,64,1.8
+intel,Integrated,,,Dell,Windows 10,Intel,4.0,,,0.0,15.6,,,8,DDR3,,,1,1,1,1,,1 Lithium ion batteries required,,,
+nvidia,Dedicated,,,Alienware,Windows 8,Intel,2.0,,PC,0.0,13,1920,1080,8,DDR3,1,TB,4.54,1.1,12.91,9.25,,1 Lithium ion batteries required,2048,,1.7
+,integrated,,,,Windows 10,Intel,2.0,Serial ATA,PC,0.0,23.8,,,8,DDR,1,TB,14.21,23,16.74,7.75,,1 Lithium ion batteries required,,,2.5
+NVIDIA,dedicated,1.0,,Lenovo,Windows 10,Intel,1.0,Solid State,PC,1.0,15.6,1920,1080,3,,,,5.51,14.9,9.9,1.2,,1 Lithium ion batteries required,,,
+,,,,TenYiDe,Android 7.0 Nougat,,8.0,,Android,0.0,10.1,1920,1080,2,DDR3,64,GB,1.76,9.45,6.69,0.31,5,1 Lithium Polymer batteries required,,2,1.5
+intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,,,0.0,15.6,,,12,DDR4,,,4.63,14.96,9.99,0.94,,1 Lithium ion batteries required,,12,
+Intel,Integrated,,,Dell,Windows 10 Pro,Intel,1.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,4.37,10.05,14.91,0.71,,1 Lithium ion batteries required,,256,1.8
+amd,,2.0,,Dell,Windows 10 Home,Intel,4.0,Serial ATA,Home and Business Laptop,1.0,15.6,1920,1080,16,DDR3,1,TB,5.51,16.69,11,1.06,,1 Lithium ion batteries required,,1,2.7
+,,,,PROSCAN,Android 7.1 Nougat,,4.0,,Android,0.0,9,1024,600,8,DDR,8,GB,2.6,10.9,7.8,3.5,5,,,8,1.2
+,Dedicated,,1.0,Dell,Windows 10 Pro,Intel,4.0,Serial ATA,,0.0,15.6,1920,1080,8,DDR4,500,GB,4.45,10.2,15,0.9,7,1 Lithium ion batteries required,,,1.8
+nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,PCIE x 4,PC,0.0,15.6,1920,1080,16,DDR4,512,GB,7,14.29,10.02,0.94,9,1 Lithium ion batteries required,,,2.4
+Intel,Integrated,3.0,,Dell,Windows 10 Home,Intel,1.0,Serial ATA,PC,0.0,17.3,1920,1080,8,DDR,2,TB,6.2,11,16.4,1,,1 Lithium ion batteries required,,,1.8
+,Integrated,1.0,1.0,Samsung,Android 4.4 KitKat,Marvell,1.0,,Android,0.0,7,1280,800,1,,8,GB,9.8,0.35,7.36,4.25,10,1 Lithium ion batteries required,,8,1.2
+,Integrated,,,ASUS,Windows 10 Home,Intel,2.0,,Windows,0.0,11.6,,,2,,,,2.6,7.9,0.7,11.7,,,,32,1.6
+Intel,Dedicated,,4.0,ASUS,Windows 10,Intel,4.0,Serial ATA,,1.0,17.3,1920,1080,16,,1000,GB,6.7,16.5,11,1,,1 Lithium ion batteries required,6,256.0,2.8
+intel,integrated,1.0,2.0,Dell,Windows 8,Intel,1.0,,,0.0,14,1366,768,2,,500,GB,4.44,1,9.7,13.6,,1 Lithium ion batteries required,,,2.16
+,integrated,,,HP,Windows 10,Intel,4.0,Solid State,PC,1.0,,,,32,DDR,2,TB,12.35,6.42,12.4,12.09,,,,,2400
+Intel,,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR3,512,GB,4.3,15,10,0.9,,1 Lithium ion batteries required,,512,1.1
+amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,128,GB,5.7,20.4,12,2.6,5,,,128,3.1
+,,2.0,,HP,Windows 10,AMD,2.0,USB,PC,0.0,23.8,1920,1080,8,DDR,1,TB,13.05,21.3,0.64,16.52,,,,,3.1
+intel,integrated,,,Dell,Windows 10,Intel,4.0,,Windows,0.0,15.6,,,8,DDR,2000,GB,3,13,3,15,,1 Lithium Polymer batteries required,,,
+AMD,,,,Lenovo,Windows 10,AMD,2.0,Solid State,PC,0.0,15.6,1366,768,16,DDR4,512,GB,5.71,14.8,10,4.63,5,1 Lithium ion batteries required,,512,3.7
+AMD,,,,Acer,Windows 10 Home,AMD,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR4,512,GB,3.64,13.5,9.6,0.8,,1 Lithium ion batteries required,,,1.8
+,Integrated,2.0,1.0,Dell,Windows 10,Intel,2.0,,PC,0.0,11.6,1366,768,4,DDR4,32,GB,4.41,11.48,7.95,0.8,3,1 Lithium Polymer batteries required,,32,2.4
+,integrated,,,HP,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,10.1,1280,800,2,DDR,32,GB,2.4,10.43,6.81,0.64,10,1 Lithium Polymer batteries required,,32,1.44
+,,,,Samsung,Android 4.1 Jelly Bean,,4.0,,Android,0.0,8,1280,800,16,,16,GB,1,3.84,0.72,1.99,,1 Lithium ion batteries required,,16,1.6
+intel,Integrated,1.0,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,,,8,DDR,250,GB,4.1,14.96,9.99,0.94,9,1 Lithium ion batteries required,,256,1.8
+NVIDIA,Dedicated,,,MSI,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,1920,1080,16,GDDR5,256,GB,3.97,14.08,9.75,0.7,,1 Lithium ion batteries required,6,256,2.6
+intel,Integrated,,,Dell,Windows 10,Intel,1.0,PCIE x 16,PC,1.0,13.3,,,16,DDR3,1,TB,5.3,17.4,11.4,3.3,,1 Lithium ion batteries required,,1,4
+intel,,,,Dell,Windows 10,Intel,4.0,Solid State,PC,1.0,13.3,1920,1080,8,DDR3,256,GB,7,18,12,3,,,,,1.6
+intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1366,768,12,DDR4,1,TB,5.6,15,11,1,,1 Lithium ion batteries required,,,1.8
+Intel,Integrated,1.0,,ASUS,Windows 10 Home,Intel,4.0,Solid State,PC,0.0,14,1920,1080,8,DDR3,512,GB,3.2,12.7,8.3,0.6,10,1 Lithium ion batteries required,8,512.00,
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,,,0.0,15.6,1366,768,4,,500,GB,5.95,14.9,0.9,10.4,,1 Lithium Polymer batteries required,,,1.6
+Intel,Integrated,1.0,,AWOW,Windows 10,Intel,4.0,Solid State,PC,0.0,10.1,1280,800,4,SODIMM,64,GB,1.2,9.8,6.5,0.3,6,1 Lithium Polymer batteries required,,4,1.92
+amd,Dedicated,,,Dell,Windows 10 Home,AMD,2.0,Solid State,PC,0.0,15.6,1366,768,8,DDR,256,GB,5,15,10.2,0.9,,1 Lithium ion batteries required,,256,2
+,Dedicated,1.0,1.0,HP,,,6.0,ATA-4,,0.0,21.5,,,4,,,,12.74,19.26,8.21,14.32,,,1,256.00,
+intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,,,8,SDRAM,1,TB,7,20,14,4,,1 Lithium ion batteries required,,,2.7
+,integrated,2.0,,HP,Windows 10,Intel,4.0,Solid State,PC,0.0,,,,16,DDR,512,GB,14.05,12.09,6.4,12.04,,,,,2.9
+,Dedicated,4.0,5.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,Windows,1.0,0.0,,,16,,,,17.48,10.8,6.1,13.8,,,4,256.00,3.2
+nvidia,Dedicated,1.0,,ASUS,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,8,DDR3,1,TB,5.4,15,10,0.9,6,1 Lithium Polymer batteries required,,128,2.5
+NVIDIA,Dedicated,,4.0,Lenovo,Windows 10 Pro,Intel,6.0,Solid State,,1.0,17.3,1920,1080,16,,512,GB,7.5,22.5,13.5,4.5,8,1 Lithium ion batteries required,4,,2.2
+AMD,,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR,128,GB,5.85,14.9,10.2,0.9,4.5,1 Lithium ion batteries required,,128,3
+Intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,,,8,DDR4,128,GB,3.96,20.2,12.2,2.9,,1 Lithium ion batteries required,,128,3.5
+Intel,,,,Dell,Windows 10 Professional,Intel,4.0,Serial ATA,PC,0.0,,,,8,DDR,1000,GB,11,11.5,3.64,11.42,,,,,2.8
+intel,integrated,,,HP,Chrome OS,Intel,2.0,Solid State,PC,0.0,11.6,1366,768,4,DDR3,16,GB,3.92,11,8,0.7,,1 Lithium ion batteries required,,,2.48
+intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,8,SDRAM,128,GB,4.25,17.8,12.2,2.9,,,,,2.1
+intel,,1.0,,HP,Windows 10,Intel,4.0,,,0.0,15.6,,,12,DDR4,,,4.3,10,14.9,1.1,,1 A batteries required,,,
+intel,Integrated,,,Lenovo,Windows 10 Pro,Intel,2.0,,,0.0,15.6,1920,1080,4,,,,4.34,20,13,3,,1 Lithium ion batteries required,,500.0,3.1
+amd,,,,Dell,Windows 10 Pro,AMD,4.0,Serial ATA,PC,0.0,15.6,,,8,DDR4,1,TB,7.45,19.6,13.3,2.2,,1 Lithium ion batteries required,,,3.4
+intel,Integrated,,,HP,Windows 10,Intel,2.0,,,0.0,14,1366,768,4,DDR4,128,GB,3.42,12.76,8.86,0.71,,1 Lithium Polymer batteries required,,128,
+intel,,,,Lenovo,Windows 10 Pro,Intel,4.0,eSATA,PC,0.0,14,,,8,DDR3,512,GB,5.6,18.7,11.9,3.2,,1 9V batteries required,,512,1.7
+intel,Integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,1.0,13.9,3840,2160,16,DDR4,512,GB,3.04,12.6,8.93,0.57,10,1 Lithium Polymer batteries required,,,4
+,,,,CTL,Chrome OS,Intel,4.0,Ethernet 100Base-TX,PC,0.0,11.6,,,4,DDR4,32,GB,2.8,8.3,12.1,0.8,12,1 Lithium ion batteries required,,32,2.2
+Intel,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR3,512,GB,3.15,12.8,8.9,0.8,,1 Lithium ion batteries required,,512,2.4
+amd,dedicated,,,Lenovo,Windows 10,,2.0,,,0.0,11.6,,,4,DIMM,120,GB,10.6,0.39,0.39,0.39,,100 Lithium ion batteries required,,120,1.8
+intel,Integrated,,,Best Notebook,Windows 10 Pro,10th Gen Intel Comet Lake Core i7-10510,4.0,Solid State,PC,2.0,13.3,3840,2400,16,SODIMM,1,TB,5.37,7.88,11.98,0.6,,1 Lithium ion batteries required,,,
+Nvidia,dedicated,,,Apple,macOS 10.12 Sierra,Intel,4.0,Solid State,Mac,1.0,15.4,2880,1800,16,DDR3,1,TB,4.45,14.13,9.73,0.71,,1 Lithium Polymer batteries required,,1,2.5
+,,2.0,,Lenovo,,,4.0,,,0.0,11.6,,,4,,,,3.2,11.83,8.37,0.92,,100 Lithium ion batteries required,,64,
+,Integrated,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1920,1080,12,SDRAM,1,TB,7.4,14.96,9.84,0.74,10,1 Lithium ion batteries required,,,2.5
+Intel,dedicated,,,Dell,Windows 10 Professional,Intel,8.0,Serial ATA,PC,1.0,,,,32,DDR,3000,GB,22,14.02,7.09,15.22,,,,,3.6
+NVIDIA,dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,17.3,1920,1080,8,DDR4,1,TB,7.2,16.4,11,1,6.5,1 Lithium ion batteries required,,,2.3
+,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,14,4096,2304,20,DDR4,512,GB,5,13.2,9.2,0.8,,,,,3.9
+intel,,,,HP,Windows 10,Intel,2.0,Serial ATA,PC,0.0,11.6,1366,768,8,SDRAM,1000,GB,4.27,16.5,12.2,2.8,,,,,1.1
+nvidia,Dedicated,,,Dell,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,,,8,SDRAM,1512,GB,8.9,15.1,10.4,1,,,,512,2.5
+intel,Integrated,,,Oemgenuine,Windows 10 Pro,Intel,4.0,Serial ATA,PC,0.0,14,1366,768,16,DIMM,500,GB,3.5,13.25,0.79,9.15,,,,500,1.6
+NVIDIA,dedicated,,,HP,Windows 10,Intel,6.0,Solid State,PC,1.0,15.6,3840,2160,16,DDR4,512,GB,4.83,14.22,9.84,0.76,,1 Lithium ion batteries required,4,512,2.6
+AMD,dedicated,2.0,1.0,HP,Windows 8;,AMD E-series,2.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR3,500,GB,4.92,14.88,10.24,0.98,6,1 Lithium ion batteries required,,,1
+,Integrated,,,Dell,Windows 10,Intel,2.0,ATA,PC,0.0,15.6,,,8,DDR,1,TB,6.43,19.5,13.9,2.9,,,,,2.5
+Intel,Integrated,,,HP,Windows 10,Intel,1.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR4,500,GB,6.15,19.1,11.9,2.7,6,1 Lithium ion batteries required,,,2.3
+amd,,,,Lenovo,Windows 10,AMD,2.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR4,1,TB,4.19,14.88,10.24,0.9,,1 Lithium Polymer batteries required,,,2.9
+,,,,Lenovo,Android 4.2 Jelly Bean,MediaTek,4.0,Serial ATA,Android,0.0,10.1,1280,800,1,DDR2,16,GB,1.34,10.2,7.01,0.31,18,1 Lithium ion batteries required,,16,1.2
+nvidia,Dedicated,,,Lenovo,Windows 10 Pro,Intel,4.0,eSATA,PC,1.0,14,,,16,DDR3,512,GB,5.9,18.7,11.9,3.2,,1 9V batteries required,,1,3
+,Integrated,,,Lenovo,Windows 10,Intel,4.0,,Windows,0.0,14,1920,1080,8,DDR3,256,GB,3.09,12.7,8.8,0.6,,1 C batteries required,,256,2.7
+Intel,Integrated,,,Dell,Windows 10 Home,Intel,4.0,Solid State,2 in 1 Business Laptop,0.0,14,1920,1080,12,DDR,128,GB,5.85,9.2,13,0.8,10.5,4 Lithium ion batteries required,,128,1.6
+,,,,Dell,,,1.0,,,0.0,15.6,1920,1080,4,,,,6,9.3,14.1,0.8,,1 Lithium ion batteries required,,256,
+Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR3,256,GB,3.15,12.8,8.9,0.8,,,,256,2.4
+,,,,IVIEW,Windows 10,Intel,4.0,Solid State,PC,0.0,21.5,1920,1080,4,DDR3,64,GB,15.15,24,17,6,,2 Lithium Polymer batteries required,,,1.1
+Intel,Integrated,,,HP,Windows 10,Intel,4.0,,PC,0.0,13.3,,,8,,,,4.38,17.7,11.3,3.4,,1 Lithium ion batteries required,,128,1.6
+,,,,Samsung,Android 6.0 Marshmallow,,1.0,,Android,0.0,8,800,1280,2,,16,GB,1.25,8.7,5.3,1.9,,1 Lithium ion batteries required,,16,1.4
+intel,,,,Apple,macOS 10.12 Sierra,Intel,1.0,,Mac,0.0,13.3,,,8,DDR3,256,GB,2.2,3.8,14.5,10.4,,1 Lithium ion batteries required,,256,3.1
+intel,,,,Dell,Windows XP;,Intel,2.0,Serial ATA-150,PC,0.0,14.1,,,2,DDR2,160,GB,4.55,12,9.6,2.9,,1 Lithium ion batteries required,,,2
+AMD,"Integrated, Dedicated",2.0,2.0,ASUS,Windows 10 Home,AMD,4.0,Solid State,PC,0.0,15.6,1920,1080,8,DDR4,256,GB,3.7,14.2,9.6,0.76,,1 Lithium Polymer batteries required,8,256,3.6
+amd,integrated,,,Dell,Windows 10,AMD,2.0,Solid State,PC,0.0,11.6,,,4,DDR4,32,GB,2.65,16.1,10.6,2.9,,1 A batteries required,,32,1.6
+,Dedicated,4.0,1.0,HP,,,6.0,ATA-4,,0.0,1,,,4,,,,9.92,3.74,10.63,11.65,,,1,256.00,
+,Integrated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,16,SDRAM,512,GB,6.2,14.2,9.8,0.7,,,,1,1.8
+,integrated,2.0,,KINGDEL,Windows 10 Professional,Intel,2.0,Solid State,PC,0.0,,,,16,DDR3,256,GB,2.76,77.56,14.57,77.56,,1 Lithium Metal batteries required,,,1.6
+Intel,Integrated,,,HP,Windows 10 Pro,Intel,4.0,Serial ATA-600,Windows,1.0,15.6,1920,1080,8,,256,GB,3.92,14.6,9.9,0.7,,1 Lithium ion batteries required,,256.0,1.7
+AMD,dedicated,2.0,1.0,Acer,Windows 10 Home,AMD,1.0,ATA,PC,0.0,15.6,1920,1080,8,DDR4,1000,TB,5.95,10.5,15.4,1.1,,1 Lithium ion batteries required,,,2
+intel,integrated,1.0,1.0,Acer,Windows 10,Intel,2.0,,,0.0,14,1366,768,2,DDR3,32,GB,3.53,13.36,9.25,0.7,12,1 Lithium Polymer batteries required,,32.0,1.6
+intel,Integrated,,,Dell,Windows 10,Intel,2.0,Solid State,PC,0.0,13.3,,,8192,DDR3,128,GB,2.65,11.98,7.88,0.53,,1 Lithium ion batteries required,,128,3
+amd,Dedicated,,,ASUS,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,1920,1080,12,DDR4,128,GB,4.41,14.2,10.1,0.8,,1 Lithium ion batteries required,,128,2.7
+,,,,APPLE,iOS 9,,2.0,,Mac,0.0,7.9,2048,1536,128,DDR3,128,GB,1,5.31,0.24,8,10,1 A batteries required,,128,2.4
+nvidia,Dedicated,1.0,,ASUS,Windows 10,Intel,4.0,Solid State,PC,0.0,14,1920,1080,16,DDR3,512,GB,4.41,12.76,8.86,0.63,,1 Lithium ion batteries required,,,1.8
+,,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,23.8,,,8,SDRAM,1,TB,14.99,25.5,19.5,9,,1 Lithium ion batteries required,,,1.6
+AMD Radeon R7 M445 Graphics with 4G GDDR5 graphics memory,Dedicated,,2.0,Dell,Windows 10,AMD,4.0,,,0.0,15.6,1920,1080,16,,1000,GB,5.13,10.19,15.35,0.91,,1 Lithium ion batteries required,,1,2.7
+NVIDIA,Dedicated,,4.0,MSI,,Intel,6.0,Serial ATA,,1.0,15.6,1920,1080,16,,1024,GB,9.5,15.07,10.23,1.16,,,6,256,2.6
+,,,,Samsung,,Samsung,8.0,Solid State,PC,0.0,10.1,1920,1200,3,,128,GB,1.4,9.7,0.3,5.9,15,1 Lithium Polymer batteries required,,128,1.8
+Intel,Integrated,1.0,2.0,Dell,Windows 10 Home,Intel,4.0,Serial ATA,PC,0.0,15.6,1920,1080,8,,1000,GB,3.43,8.85,12.76,0.77,,1 Lithium ion batteries required,,,4
+intel,integrated,1.0,,Lenovo,Windows 10,Intel,2.0,Solid State,PC,0.0,14,1366,768,2,DDR3,64,GB,3.31,13.96,9.96,0.8,9,,,64,2.16
+,Integrated,1.0,,HP,Windows 10,Intel,2.0,,,0.0,11.6,,,4,DDR3,,,2.6,11.81,8.1,0.72,,1 C batteries required,,32,1.6
+Intel,Integrated,2.0,2.0,HP,,,4.0,Serial ATA,,1.0,14,1920,1080,8,,,,4.3,13.4,9.5,0.87,,1 Lithium ion batteries required,,256.00,
+Intel,Integrated,4.0,,Dell,Windows 10 Professional,Intel,1.0,Serial ATA,PC,0.0,0.0,,,8,DDR4,500,GB,11.6,11.5,3.7,11.4,,,,8,3
+intel,Integrated,1.0,,HP,Windows 10,Intel,1.0,,PC,0.0,14,1366,768,4,,32,GB,4.55,13.27,8.9,0.7,10,1 Lithium Polymer batteries required,,32,1.6
+Intel,integrated,,,Lenovo,Windows 10,Intel,4.0,ATA,PC,0.0,15.6,1360,768,8,DDR4,256,GB,5.8,14.9,10.2,0.9,5,1 Lithium ion batteries required,,,1.1
+intel,Integrated,,,Dell,Windows 10,Intel,2.0,Serial ATA,PC,0.0,14,1366,768,8,DDR4,128,GB,5.65,15.6,13.9,3.1,,1 Lithium ion batteries required,,,2.3
+amd,,,,Dell,Windows 10,AMD,4.0,Serial ATA-300,PC,0.0,15.6,,,4,DDR4,1,TB,6.55,19.3,13.6,3,,1 A batteries required,,,3.6
+nvidia,Dedicated,2.0,,Acer,Windows 10,Intel,4.0,,,0.0,15.6,1920,1080,8,DDR4,1,TB,5.95,10.47,15.39,1.06,,2 D batteries required,,,
+,Integrated,,,Dell,,,1.0,,,0.0,15.6,1920,1080,16,,,,6.8,20.3,3.2,13,,1 Lithium ion batteries required,,512,
+Intel,Integrated,,,HP,Windows 10 Home,Intel,2.0,Solid State,2-in-1 Business Laptop/Tablet,0.0,14,1366,768,512,DDR,512,GB,5.12,8.8,12.7,0.8,,3 Lithium ion batteries required,,512,
+NVIDIA,dedicated,,,ASUS,Windows 10 Home,Intel,6.0,Solid State,PC,0.0,17.3,1920,1080,16,,512,GB,6.28,15.7,11.5,1,,1 Lithium Polymer batteries required,,512,2.6
+,Integrated,6.0,4.0,HP,,Intel,2.0,Serial ATA,,0.0,1,,,4,,500,GB,10,3.74,10.63,11.65,,,1,,
+nvidia,dedicated,,,Lenovo,Windows 10,Intel,4.0,Serial ATA,PC,0.0,15.6,,,16,SODIMM,256,GB,9,19.5,15,4,,1 Lithium ion batteries required,,256,2.6
+,,,,Samsung,Android 4.4 KitKat,,4.0,,Android,0.0,7,,,8,,8,GB,1.1,7.9,4.9,1.9,12,1 Lithium ion batteries required,,8,
+intel,Integrated,,,Lenovo,Windows 10,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,4,DDR4,1,TB,5.71,14.88,10.24,0.9,5,,,,2.2
+Intel,Integrated,,,HP,Windows 10,Intel,4.0,Serial ATA,PC,0.0,14,1920,1080,8,DDR4,1,TB,4.48,14.1,9.7,0.7,12,1 Lithium Polymer batteries required,,256,2
+Intel,Integrated,1.0,,Acer,Windows 10,Intel,2.0,Solid State,PC,0.0,15.6,1920,1080,12,DDR4,480,GB,5.27,15,10.2,1.2,,,,,2.2
+,integrated,,,HP,Windows 10 Pro (64-Bit),,4.0,,,0.0,,,,8,,,,2.67,1,1,1,,,,256.0,
+,Dedicated,,,Dell,Windows 10,AMD,2.0,Solid State,PC,0.0,11.6,1366,768,4,DDR4,32,GB,3.31,11.4,8,1.02,,1 Lithium Polymer batteries required,,32,2.5
+Intel HD Graphics,Integrated,2.0,3.0,Lenovo,Windows 7 Professional,Intel,2.0,Serial ATA-600,PC,0.0,15.6,1366,768,4,DDR3,500,GB,5.4,19.2,13,3.6,9,1 Lithium Metal batteries required,,,2.3
+,,,,AOC,,,,,,0.0,22,,,,,,,6,22,14,5,,,,,
+,,,,Microsoft,,Intel,,Solid State,PC,0.0,12.3,2736,1824,8,,128,GB,5.4,16.1,9.7,3.8,9,1 Lithium Polymer batteries required,,128,
+,Dedicated,,,Dell,Windows 10,AMD,1.0,Serial ATA,PC,0.0,11.6,,,4,DDR4,32,GB,2.65,11.4,8,1.02,,1 Lithium ion batteries required,,32,1.6
+intel,Integrated,,2.0,Lenovo,,,1.0,Serial ATA,,1.0,14,1920,1080,4,,,,4.63,13,8.9,0.7,,1 Lithium ion batteries required,,256.00,
+,Integrated,2.0,4.0,Dell,Windows 10 Professional,Intel,6.0,Serial ATA,,0.0,0.0,,,4,,500,GB,2.6,7,1.4,7.2,,,4,,2.1
+,Integrated,1.0,,Dell,Windows 10,Intel,4.0,Solid State,PC,0.0,13.3,1920,1080,8,DDR,512,GB,3.97,12.76,8.85,0.77,8,1 Lithium ion batteries required,,512,1.8
+Intel,"Shared, Integrated",1.0,2.0,Dell,Windows 10 Home,Intel,2.0,Serial ATA,PC,0.0,15.6,1366,768,8,DDR4,1,TB,4.85,14.96,0.89,10.15,,1 Lithium Polymer batteries required,1,,2.7
+Intel,Integrated,,,Microsoft,Windows 10,Intel,2.0,Solid State,PC,0.0,13.5,3000,2000,8,DDR3,128,GB,7.15,12.3,51,9.14,17,2 Lithium Polymer batteries required,,128,3.5
+amd,integrated,,,Lenovo,Windows 10,Intel,4.0,Solid State,PC,0.0,15.6,1366,768,8,DDR4,256,GB,4.85,14.9,10.2,0.9,,1 Lithium ion batteries required,,256,2.7
+intel,integrated,,,Dell,Windows 10 Pro,Intel,4.0,,,0.0,14.1,1366,768,16,DDR3,240,GB,7.2,17,4,12,,,,,
