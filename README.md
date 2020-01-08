@@ -54,15 +54,10 @@ Một số thông tin cơ bản được crawl:
 -   Processor Count: số lượng nhân
 -   Computer Memory Type: Loại RAM (DDR3, DDR4,...)
 -   ...
-
-Tất cả thuộc tính của dữ liệu:
-![Screenshot from 2020-01-06 22-00-24](https://user-images.githubusercontent.com/24609363/71826679-077aae00-30d1-11ea-8243-37746325929d.png)
-
-Một giá trị mẫu của 1 dòng:
-![Screenshot from 2020-01-06 22-02-53](https://user-images.githubusercontent.com/24609363/71826678-06e21780-30d1-11ea-8f0c-dbbdb1c53bb2.png)
+~ Tất cả: 168 thông tin (Đối với dữ liệu của BestBuy).
 
 ### Preprocessing
-Dữ liệu được chọn là __Amazon__ (bỏ qua __Bestbuy__ để tránh nhiễu).
+Dữ liệu được chọn là __BestBuy__ (bỏ qua __Amazon__ để tránh nhiễu).
 
 Tuy vậy, vẫn thiếu rất nhiều trường thuộc tính và tỷ lệ % thiếu cao:
 ![Screenshot from 2020-01-06 21-57-01](https://user-images.githubusercontent.com/24609363/71826682-077aae00-30d1-11ea-90e8-3476f8f8be8b.png)
@@ -78,16 +73,38 @@ Chọn một số thuộc tính được để tiền xử lý. Các thuộc tí
 - Khối lượng
 - ...
 
-~ 27 thuộc tính
+~ 26 thuộc tính
 
 #### Thuộc tính thiếu
 
-Các thuộc tính thiếu được thay thế bởi các giá trị trung bình, 0, tần suất xuất hiện,... tùy vào trường nào đang xét sẽ có các giá trị được chọn phù hợp nhất với thuộc tính đó. 
+Các thuộc tính thiếu được thay thế bởi các giá trị trung bình (cho numeric), giá trị có tầng suất xuất hiện nhiều nhất (cho object/string) tùy vào trường nào đang xét sẽ có các giá trị được chọn phù hợp nhất với thuộc tính đó. 
 
 #### Dataset
 
--   Dữ liệu chưa được clean và preproccessing (file `*.csv`) nằm trong thư mục `/dataset/Amazon` cho dữ liệu của Amazon và `/dataset/BestBuy` cho dữ liệu của trang web Bestbuy.
-- Dữ liệu đã qua xử lý nằm ở thư mục `preprocessing` file `preprocessing.ipynb`
+- Dữ liệu chưa được clean và preproccessing (file `*.csv`) nằm trong thư mục `/dataset/Amazon` cho dữ liệu của Amazon và `/dataset/BestBuy` cho dữ liệu của trang web Bestbuy.
+- Dữ liệu đã qua xử lý nằm ở thư mục `preprocessing`, script xử lý là các file `preprocessing.ipynb`
+- Nhóm thực hiện chia dữ liệu thành 2 tập chính train (90%) và test (10%).
 
-### Model 
-### Testing & evuluation
+Các thuộc tính được rút trích:
+![Các thuộc tính](media/attrbs_train.PNG)
+Một mẫu đại diện:
+![Mẫu đại diện](media/example_item.PNG)
+
+
+### Model
+
+- Tập dữ liệu train được chia thành 2 tập chính: phần train (90% tập train, phục vụ cho quá trình train mô hình), phần validation (10% tập train, phục vụ đánh giá mô hình trong quá trình train).
+- Nhóm áp dụng một vài thuật toán trên tập sữ liệu đang có. Kết quả đạt tốt nhất với thuật toán Randomforest:
+- Thử các trường hợp n_estimators khác nhau, n_estimators=10 (và 20) cho kết quả tương đối tốt. Tuy nhiên, nhóm chọn n_estimators=10 cho mô hình cuối cùng.
+- Độ chính xác trên tập train khoảng 96%, tập validation khoảng 90%.
+![](media/select_nEstimator.PNG)
+ 
+### Testing.
+
+- Nhóm thực hiện test trên 10% dữ liệu đã chia từ trước.
+- Model chọn: Randomforest - n_estimator=10.
+- Độ chính xác trên tập test: ~85%.
+- Một số đánh giá:
+	- Dữ liệu hơi ít, nên mô hình thực sự đủ để predict giá gần với giá gốc.
+	- Các items có giá càng cao, thì sự chênh lệch giá predict và giá thực tế càng cao (Một phần do số lượng các items có giá cao trong tổng dữ liệu khá ít).
+![So sánh kết quả predict và kết quả thực](media/predict_real_price_compare.PNG)
