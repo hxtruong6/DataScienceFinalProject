@@ -95,7 +95,9 @@ Một mẫu đại diện:
 - Nhóm áp dụng một vài thuật toán trên tập sữ liệu đang có. Kết quả đạt tốt nhất với thuật toán Randomforest:
 - Thử các trường hợp n_estimators khác nhau, n_estimators=10 (và 20) cho kết quả tương đối tốt. Tuy nhiên, nhóm chọn n_estimators=10 cho mô hình cuối cùng.
 - Độ chính xác trên tập train khoảng 96%, tập validation khoảng 90%.
-![](media/select_nEstimator.PNG)
+
+Chọn n_estimators phù hợp cho dữ liệu:
+![Chọn n_estimators phù hợp cho dữ liệu](media/select_nEstimator.PNG)
  
 ### Testing.
 
@@ -105,4 +107,6 @@ Một mẫu đại diện:
 - Một số đánh giá:
 	- Dữ liệu hơi ít, nên mô hình thực sự đủ để predict giá gần với giá gốc.
 	- Các items có giá càng cao, thì sự chênh lệch giá predict và giá thực tế càng cao (Một phần do số lượng các items có giá cao trong tổng dữ liệu khá ít).
+
+So sánh kết quả predict và kết quả thực:
 ![So sánh kết quả predict và kết quả thực](media/predict_real_price_compare.PNG)
