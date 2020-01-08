@@ -59,9 +59,6 @@ Một số thông tin cơ bản được crawl:
 ### Preprocessing
 Dữ liệu được chọn là __BestBuy__ (bỏ qua __Amazon__ để tránh nhiễu).
 
-Tuy vậy, vẫn thiếu rất nhiều trường thuộc tính và tỷ lệ % thiếu cao:
-![Screenshot from 2020-01-06 21-57-01](https://user-images.githubusercontent.com/24609363/71826682-077aae00-30d1-11ea-90e8-3476f8f8be8b.png)
-
 Chọn một số thuộc tính được để tiền xử lý. Các thuộc tính khác do tỷ lệ thiếu quá cao nên sẽ bị bỏ qua. Các thuộc tính tiêu biểu:
 - Giá
 - Kích thước màn hình
@@ -87,6 +84,7 @@ Các thuộc tính thiếu được thay thế bởi các giá trị trung bình
 
 Các thuộc tính được rút trích:
 ![Các thuộc tính](media/attrbs_train.PNG)
+
 Một mẫu đại diện:
 ![Mẫu đại diện](media/example_item.PNG)
 
