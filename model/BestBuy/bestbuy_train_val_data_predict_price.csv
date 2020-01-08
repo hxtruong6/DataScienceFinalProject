@@ -1,0 +1,918 @@
+Price,Key_Specs__Screen_Size,Key_Specs__Touch_Screen,Key_Specs__Storage_Type,Key_Specs__System_Memory,RAM_type,RAM_speed,Processor,Graphics__Graphics,Screen_resolution1,Screen_resolution2,Key_Specs__Operating_System,Key_Specs__Battery_Type,General__Color_Category,General__Brand,Feature__Keyboard_Touch_Screen,Feature__Backlit_Keyboard,Feature__Mac_Features,Port_Number_USB_Ports,Display__Display_Type,Storage__eMMC_Capacity,Storage__Solid_State_Drive_Capacity,Dimension__Product_Depth,Dimension__Product_Height,Dimension__Product_Weight,Dimension__Product_Width
+1769.99,14.0,yes,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,2.0,lcd,0.0,256.0,8.54,0.59,2.4,12.7
+1099.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-polymer,gold,apple,no,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,256.0,8.36,0.61,2.75,12.0
+1769.99,13.3,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,,yes,,3.0,lcd,0.0,256.0,8.19,0.66,2.63,12.0
+1899.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,white,alienware,no,yes,,3.0,widescreen lcd,0.0,256.0,10.9,0.8,4.76,14.2
+1138.45,15.6,no,ssd,8.0,ddr4,2133.0,intel 7th generation core i5,intel hd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,yes,,4.0,lcd,0.0,256.0,9.9,0.9,4.14,14.8
+849.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,blue,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,7.4,0.7,2.62,11.9
+1199.99,13.3,no,ssd,8.0,lpddr3,,intel 6th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,force touch trackpad,,full hd widescreen led,0.0,256.0,8.3,0.6,3.02,12.0
+1099.99,14.0,no,ssd,16.0,lpddr3,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,blue,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,7.8,0.6,2.8,12.6
+499.99,13.3,no,hdd,8.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.5,12.8
+1199.99,13.3,no,ssd,8.0,lpddr3,1866.0,intel 6th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,gray,apple,no,yes,force touch trackpad,,full hd widescreen led,0.0,256.0,8.4,0.6,3.02,12.0
+229.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,white,hp,no,no,,3.0,widescreen led,64.0,0.0,8.9,0.7,2.87,13.3
+929.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.1,1.0,6.04,15.9
+479.99,17.3,no,hdd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1400.0,900.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,,full hd widescreen led,0.0,0.0,11.2,1.0,6.17,16.3
+384.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics 520,1366.0,768.0,windows 10 home,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,0.0,9.3,1.1,5.09,13.4
+1359.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2560.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,touchscreen widescreen led-lcd,0.0,512.0,9.6,0.7,4.74,14.2
+3299.99,15.6,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i9,nvidia geforce rtx 2080,3840.0,2160.0,windows 10 pro,lithium-polymer,gray,msi,no,yes,,3.0,widescreen led,0.0,1000.0,10.2,0.7,4.19,15.1
+315.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,led,0.0,128.0,,,,
+559.99,15.6,no,hdd,4.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,0.0,10.05,0.71,4.75,14.91
+1879.99,14.0,no,ssd,32.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,512.0,8.94,0.7,3.43,13.0
+999.99,17.3,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,11.0,1.1,5.84,15.7
+299.99,15.6,no,hdd,8.0,ddr4 sdram,1866.0,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,gray,asus,no,no,,3.0,widescreen led,0.0,0.0,9.9,1.1,2.2,15.0
+299.99,14.0,no,ssd,4.0,lpddr3,,intel core m3,intel uhd graphics 615,1920.0,1080.0,windows 10 home in s mode,lithium-polymer,white,asus,no,no,,2.0,full hd widescreen led,0.0,128.0,8.9,0.7,3.55,13.2
+629.99,15.6,no,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i5,intel uhd graphics,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,3.0,widescreen led,0.0,256.0,9.5,0.7,3.86,14.1
+1849.99,14.0,yes,ssd,16.0,lpddr3,,intel 10th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,,full hd widescreen led,0.0,512.0,7.8,0.5,2.65,12.6
+3186.99,15.6,yes,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i9,nvidia geforce rtx 2060,3840.0,2160.0,windows 10 pro,lithium-ion,black,asus,no,yes,,2.0,widescreen,0.0,1000.0,9.7,0.9,5.51,14.1
+549.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,touchscreen widescreen led-lcd,0.0,256.0,9.7,0.9,3.97,14.8
+1145.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 7th generation core i5,intel hd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion polymer,black,dell,no,yes,,4.0,led,0.0,256.0,9.0,0.8,3.52,13.1
+259.99,15.6,no,hdd,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics 500,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,widescreen led,0.0,0.0,10.2,0.9,4.63,15.0
+1499.99,13.3,no,ssd,16.0,lpddr4,3733.0,intel 10th generation core i7,intel iris plus graphics,1920.0,1080.0,windows 10 home,lithium-polymer,white,razer,no,yes,,2.0,widescreen lcd,0.0,256.0,8.3,0.6,3.0,12.0
+599.99,13.3,no,hdd,8.0,ddr3 sdram,1600.0,intel 3rd generation core i7,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.54,12.8
+1476.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,1.0,8.38,15.6
+1379.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.7,0.7,3.15,12.3
+499.99,13.3,no,hdd,8.0,ddr3 sdram,1333.0,intel core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.5,12.8
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.99,14.2
+1049.0,12.3,,,,,,,,2736.0,1824.0,windows 10 home,lithium-ion,black,microsoft,,,,,,0.0,0.0,7.9,0.33,27.7,11.5
+374.99,14.0,no,ssd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,silver,dell,,no,,3.0,widescreen led,0.0,256.0,9.1,0.8,3.6,13.2
+509.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,widescreen led,0.0,512.0,9.9,0.7,4.19,14.3
+1679.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-polymer,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.6,1.1,6.55,15.9
+297.99,11.6,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics 510,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,widescreen led,32.0,0.0,8.2,0.8,2.98,11.7
+175.99,14.0,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1920.0,1080.0,chrome os,lithium-polymer,gold,acer,no,no,,2.0,full hd widescreen led,32.0,0.0,9.3,0.7,3.42,13.4
+682.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,,yes,,4.0,led-lcd,0.0,256.0,10.0,1.0,5.51,14.3
+699.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,,yes,,3.0,led,0.0,256.0,10.2,0.79,4.4,15.0
+432.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,480.0,9.1,0.8,3.44,13.2
+1062.99,14.0,no,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.8,0.6,3.28,12.7
+519.99,15.6,yes,ssd,4.0,ddr4 sdram,2666.0,intel 10th generation core i3,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,128.0,9.5,0.7,3.75,14.1
+2380.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 7th generation core i7,nvidia geforce gtx 1080,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,4.0,full hd widescreen led,0.0,512.0,10.5,0.7,5.29,15.5
+579.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.3,1.1,4.85,14.2
+380.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i7,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,256.0,8.3,0.8,2.76,12.2
+2399.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,1.1,5.75,15.6
+669.99,15.6,no,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.0,1.0,5.07,14.3
+999.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel hd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,blue,asus,no,yes,,1.0,full hd widescreen led,0.0,512.0,8.6,0.4,2.43,12.3
+928.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,256.0,11.0,1.0,6.16,16.4
+269.99,15.6,no,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,silver,asus,no,no,,2.0,widescreen led-lcd,32.0,0.0,9.8,0.6,3.11,14.1
+999.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.3,1.0,5.07,15.1
+219.99,11.6,no,emmc,4.0,ddr3l sdram,1600.0,intel atom,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,acer,no,no,,2.0,widescreen led,32.0,0.0,8.0,0.7,2.43,11.6
+269.99,14.0,no,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,silver,asus,no,no,,2.0,widescreen led,32.0,0.0,9.0,0.6,3.11,12.7
+2699.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.0,0.7,4.41,14.1
+239.99,15.6,no,hdd,4.0,ddr4 sdram,2133.0,intel pentium,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,black,lenovo,no,no,,1.0,widescreen led,0.0,0.0,9.9,0.78,4.08,14.3
+949.99,17.3,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i7,nvidia geforce mx250,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,4.0,full hd widescreen led,0.0,512.0,10.5,0.9,6.13,15.9
+279.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion,gray,hp,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.9,0.7,3.4,13.3
+1149.99,13.9,yes,ssd,16.0,ddr4,,intel 8th generation core i7,intel hd graphics 620,3840.0,2160.0,windows 10 home,lithium-polymer,silver,lenovo,,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,12.6,0.57,3.04,8.93
+2699.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i9,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-ion,gray,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.2,0.8,4.96,15.6
+525.99,15.6,no,ssd,8.0,ddr4 sdram,2133.0,intel 6th generation core i5,intel hd graphics 520,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.9,0.9,4.61,14.8
+748.99,13.3,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,gray,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.9,0.6,3.53,12.8
+899.99,13.3,no,ssd,8.0,lpddr3,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gold,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.5,0.5,2.49,12.2
+999.99,15.6,no,"hdd, ssd",16.0,ddr4,2666.0,amd 2nd generation ryzen 7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,,yes,,3.0,lcd,0.0,256.0,10.3,1.02,4.9,14.2
+849.99,15.6,no,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,1.0,5.07,14.3
+439.99,15.6,no,hdd,4.0,ddr4 sdram,,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.34,14.8
+1246.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,256.0,9.76,0.75,3.87,14.4
+1299.99,12.0,no,ssd,8.0,lpddr3,,intel core m3,intel hd graphics 615,2304.0,1440.0,mac os,lithium-polymer,gold,apple,no,yes,"force touch trackpad, siri",1.0,led,0.0,256.0,7.74,0.52,2.03,11.04
+899.99,15.6,no,hdd,8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,0.0,10.3,1.0,5.07,15.1
+449.99,13.3,no,ssd,4.0,ddr3l sdram,,intel 3rd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+3099.99,15.4,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i7,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,1000.0,9.5,0.6,4.03,13.8
+413.99,15.6,yes,emmc,4.0,not provided,,intel pentium,intel hd graphics 505,1920.0,1080.0,chrome os,lithium-ion,silver,acer,no,yes,,2.0,full hd widescreen led,64.0,0.0,10.3,0.8,4.85,15.2
+679.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,256.0,9.5,0.7,3.75,14.1
+869.99,17.3,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,,lithium-polymer,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,0.8,4.89,16.2
+229.99,11.6,yes,emmc,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,windows 10 home,lithium-polymer,red,acer,,no,,2.0,touchscreen widescreen led-lcd,64.0,0.0,8.3,0.8,3.48,11.7
+439.99,15.6,no,hdd,4.0,ddr4 sdram,1866.0,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,white,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.5,14.8
+915.99,13.3,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.5,0.5,2.69,12.2
+152.99,11.6,no,ssd,4.0,ddr3l sdram,,intel celeron,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,black,acer,no,no,,2.0,widescreen led,0.0,64.0,8.3,0.9,3.09,11.5
+397.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-polymer,black,hp,,no,,4.0,widescreen led,0.0,500.0,9.33,0.83,3.48,13.4
+649.99,13.3,no,hdd,16.0,ddr3 sdram,1600.0,intel core i5,intel hd graphics 4000,1280.0,800.0,mac os x,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.94,0.95,4.5,12.78
+949.99,13.3,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,8.5,0.6,2.47,12.1
+299.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-polymer,black,hp,,no,,4.0,widescreen led,0.0,128.0,9.33,0.83,3.48,13.4
+444.99,15.6,no,hdd,4.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,full hd widescreen led,0.0,0.0,10.4,0.9,4.85,15.0
+310.99,14.0,no,hdd,8.0,ddr3 sodimm,,intel 3rd generation core i5,intel hd graphics 4000,1366.0,768.0,windows 10 home,lithium-ion,black,lenovo,,no,,3.0,widescreen led,0.0,0.0,9.13,1.18,,13.8
+1999.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.8,1.0,5.67,14.2
+739.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,512.0,9.7,0.7,4.08,14.2
+1949.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.5,1.0,6.28,15.7
+235.99,14.0,no,,4.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,,,windows 10,other,silver,hp,,,,4.0,widescreen led,0.0,0.0,9.11,1.34,4.78,13.31
+279.99,15.6,no,hdd,4.0,ddr4 sdram,2133.0,amd a6,amd radeon r4,1366.0,768.0,windows 10 home,lithium-ion,black,lenovo,no,no,,3.0,widescreen led,0.0,0.0,9.9,0.8,4.08,14.3
+408.99,15.6,no,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,amd radeon rx vega 3,1366.0,768.0,windows 10 home,lithium-ion,black,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.61,14.8
+1099.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,7.54,14.1
+959.99,17.3,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,10.8,0.8,6.48,16.2
+1149.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.1,1.0,6.04,15.9
+299.99,10.1,,,,,,,,1280.0,800.0,windows 10 home,lithium-polymer,gray,asus,,,,,lcd,0.0,0.0,6.9,0.4,20.5,10.3
+849.99,15.6,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,black,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.8,4.19,14.1
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.0,0.9,5.51,15.9
+341.99,15.6,no,hdd,6.0,ddr3l sdram,1600.0,intel 8th generation core i3,other,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,no,,3.0,full hd widescreen led,0.0,0.0,10.2,0.9,5.29,15.0
+305.99,15.6,no,hdd,4.0,ddr3,,intel 4th generation core i5,,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,4.0,widescreen led,0.0,0.0,9.86,1.17,5.35,14.9
+279.99,14.0,no,emmc,4.0,lpddr4,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,black,asus,,yes,,4.0,led,32.0,0.0,9.17,0.81,,13.5
+1999.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.5,1.0,6.28,15.7
+449.99,14.0,no,ssd,4.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,2.0,widescreen led,0.0,128.0,8.9,0.8,3.15,12.8
+649.99,17.3,yes,"ssd, hdd",8.0,ddr4 sdram,2133.0,intel 7th generation core i3,intel uhd graphics 620,1600.0,900.0,windows 10 home,lithium-ion,jet black,hp,no,no,,3.0,touchscreen widescreen led-lcd,0.0,128.0,10.7,1.0,5.25,16.3
+679.0,10.0,,,,,,,,1800.0,1200.0,windows 10 home in s mode,lithium-ion,silver,microsoft,,,,,lcd,0.0,0.0,6.9,0.3,18.4,9.6
+749.99,15.6,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i7,none,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.7,0.7,4.52,14.1
+349.99,11.6,yes,emmc,4.0,not provided,,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,asus,no,no,,1.0,touchscreen widescreen led-lcd,32.0,0.0,7.8,0.8,2.84,11.5
+2699.99,15.4,no,ssd,16.0,ddr4 sdram,2400.0,intel 9th generation core i7,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,1000.0,9.5,0.6,4.03,13.8
+2699.0,13.5,yes,ssd,16.0,lpddr3,1867.0,intel 8th generation core i7,intel uhd graphics 620,2256.0,1504.0,windows 10 home,lithium-polymer,silver,microsoft,yes,yes,,1.0,touchscreen lcd,0.0,1000.0,8.79,0.57,2.83,12.1
+489.99,17.3,no,hdd,4.0,ddr4 sdram,,amd a9,other,1600.0,900.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,widescreen led,0.0,0.0,10.7,1.0,5.53,16.3
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.99,14.2
+699.0,15.6,yes,emmc,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,chrome os,lithium-ion,blue,lenovo,no,no,,1.0,full hd widescreen led,128.0,0.0,9.8,0.7,4.19,14.2
+308.99,14.0,no,ssd,8.0,ddr4,2133.0,intel 6th generation core i5,intel hd graphics 520,1920.0,1080.0,windows 10 pro,lithium-ion,silver,hp,,yes,,3.0,led,0.0,180.0,9.3,0.7,3.4,13.3
+412.99,13.5,yes,emmc,4.0,lpddr3,,intel 8th generation core i3,intel uhd graphics 620,2256.0,1504.0,chrome os,lithium-ion,gray,acer,,yes,,3.0,led-tft,128.0,0.0,9.7,0.7,3.5,12.2
+779.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,256.0,10.1,0.71,4.75,14.9
+1599.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen lcd,0.0,512.0,9.8,0.7,4.41,14.0
+619.99,15.6,yes,hdd,8.0,ddr4 sdram,,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,gold,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,0.0,9.5,0.7,4.23,14.2
+1599.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.4,1.0,5.11,14.2
+489.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,128.0,9.6,0.7,3.97,14.1
+329.99,14.0,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,dell,,no,,4.0,lcd,32.0,0.0,9.33,0.9,3.45,13.4
+158.99,15.6,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,32.0,0.0,10.1,1.0,4.41,15.1
+1399.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 pro,lithium-polymer,gray,msi,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.2,0.6,3.64,14.4
+440.99,15.6,no,hdd,4.0,ddr4 sdram,,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,widescreen led,0.0,0.0,10.3,0.9,4.63,15.0
+1359.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce gtx 1050,3840.0,2160.0,windows 10 home,lithium-polymer,black,asus,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,1000.0,8.9,0.8,4.63,14.1
+899.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,no,,4.0,full hd widescreen led,0.0,256.0,10.1,1.0,5.2,15.0
+2399.99,16.0,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,amd radeon pro 5300m,3072.0,1920.0,macos catalina,lithium-ion polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",4.0,led,0.0,512.0,9.68,0.64,4.3,14.1
+339.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,dell,no,no,,4.0,widescreen led,0.0,240.0,9.2,1.3,4.67,13.3
+2999.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.7,4.96,15.6
+1399.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.4,1.1,6.61,17.0
+2699.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2400.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,white,alienware,no,yes,,3.0,widescreen lcd,0.0,256.0,12.6,1.2,8.53,15.9
+1499.99,13.3,no,ssd,8.0,lpddr3,,intel 7th generation core i5,intel iris plus graphics 640,2560.0,1600.0,mac os,lithium-polymer,silver,apple,,yes,siri,2.0,led,0.0,256.0,8.36,0.59,3.02,11.97
+1699.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel iris plus graphics 655,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,512.0,8.36,0.59,3.02,11.97
+1899.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,silver,alienware,no,yes,,3.0,lcd,0.0,512.0,10.8,0.83,,14.3
+2599.0,13.5,yes,ssd,16.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1050,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,touchscreen lcd,0.0,1000.0,9.14,0.9,,12.3
+499.99,15.4,no,hdd,4.0,ddr3 sdram,1066.0,intel core i5,nvidia geforce,1440.0,900.0,mac os x,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,0.0,9.8,0.9,5.51,14.3
+374.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,dell,no,no,,4.0,widescreen led,0.0,500.0,9.2,1.3,4.67,13.3
+990.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.41,14.3
+1499.99,15.6,no,"hdd, ssd",16.0,ddr4,2667.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion polymer,black,razer,,yes,,4.0,led,0.0,128.0,9.25,0.78,4.63,14.0
+2097.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,9.67,0.72,3.75,14.2
+2129.99,14.0,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,2560.0,1440.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,8.54,0.59,2.4,12.7
+2999.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,1024.0,10.0,0.7,4.41,14.1
+3199.99,15.4,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i9,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,1000.0,9.5,0.6,4.03,13.8
+399.99,17.3,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1600.0,900.0,windows 10 home in s mode,lithium-ion,jet black,hp,no,no,,3.0,widescreen led,0.0,256.0,10.72,0.96,5.25,16.33
+2999.99,17.3,no,"hdd, ssd",32.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,gray,asus,,yes,,4.0,lcd,0.0,512.0,12.6,2.0,10.4,16.7
+1149.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,amd 2nd generation ryzen 7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.0,5.95,15.7
+679.99,15.0,no,hdd,4.0,ddr3 sdram,,intel 1st generation core i7,,1440.0,900.0,mac os,lithium-polymer,silver,apple,,yes,,2.0,full hd widescreen led,0.0,0.0,,,5.49,
+305.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,dell,no,no,,4.0,widescreen led,0.0,120.0,9.2,1.3,4.67,13.3
+345.99,12.5,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,,widescreen led,0.0,256.0,8.3,0.79,3.0,12.2
+299.0,11.6,yes,emmc,4.0,not provided,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,gray,lenovo,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.2,0.7,2.65,11.4
+899.99,13.3,yes,ssd,8.0,lpddr3,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,samsung,no,yes,,,full hd widescreen led,0.0,256.0,8.1,0.5,2.84,12.1
+1599.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,0.9,5.51,14.3
+2249.99,17.3,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,,yes,,5.0,lcd,0.0,1000.0,10.7,0.7,5.7,15.7
+1699.0,15.0,yes,ssd,16.0,not provided,,amd ryzen 5 microsoft surface edition,amd radeon vega 9,2496.0,1664.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,256.0,9.6,0.57,3.4,13.4
+849.0,13.3,yes,ssd,8.0,lpddr3,,intel 8th generation core i5,intel uhd graphics 615,1920.0,1080.0,chrome os,lithium-ion polymer,black,google,,yes,,2.0,lcd,0.0,128.0,8.1,0.5,2.3,12.2
+979.99,14.0,no,ssd,8.0,ddr4,2666.0,amd 3rd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,256.0,8.94,0.7,3.46,13.0
+293.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,led,0.0,0.0,,,,
+444.99,15.6,no,,8.0,ddr3 sdram,,intel 3rd generation core i7,none,1600.0,900.0,windows 10,lithium-ion,gray,hp,,,,4.0,widescreen led,0.0,0.0,10.1,1.4,6.61,15.0
+1299.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,,yes,,4.0,widescreen lcd,0.0,256.0,9.9,0.8,4.14,14.8
+799.99,17.3,no,hdd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,0.0,11.0,1.1,5.95,15.7
+568.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,no,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.08,14.2
+439.99,15.6,no,hdd,4.0,ddr4 sdram,1866.0,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,gold,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.34,14.8
+599.99,13.3,no,hdd,16.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.5,12.8
+299.99,14.0,no,hdd,8.0,not provided,,intel 4th generation core i5,none,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,,widescreen led,0.0,0.0,9.1,0.7,3.55,13.3
+1410.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i5,intel uhd graphics 630,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,no,yes,,4.0,lcd,0.0,256.0,9.87,0.8,4.26,14.8
+999.99,15.6,no,ssd,8.0,ddr4,2666.0,intel 9th generation core i5,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,,yes,,4.0,led,0.0,512.0,10.0,0.85,,14.4
+1099.0,13.3,no,,8.0,ddr3l sdram,1600.0,intel 4th generation core i7,other,2560.0,1600.0,macos sierra 10.12,lithium-polymer,silver,apple,,,,2.0,full hd widescreen led,0.0,0.0,8.6,0.7,3.46,12.4
+381.99,15.6,yes,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,0.0,10.2,0.8,4.48,15.0
+1399.99,13.3,no,ssd,8.0,not provided,,intel 5th generation core i5,intel hd graphics 6000,1440.0,900.0,mac os,lithium-ion,silver,apple,,yes,siri,2.0,led,0.0,512.0,,,,
+199.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,blue,hp,no,no,,3.0,widescreen led,32.0,0.0,8.9,0.7,2.87,13.3
+499.99,15.4,no,hdd,4.0,ddr3 sdram,1066.0,intel 1st generation core i5,nvidia geforce,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,0.0,9.8,0.9,5.51,14.3
+97.99,14.0,no,ssd,4.0,not provided,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,,widescreen led,0.0,16.0,9.4,0.9,4.08,13.6
+279.99,11.6,yes,emmc,4.0,lpddr3,1866.0,mediatek,,1366.0,768.0,chrome os,lithium-ion,black,lenovo,,no,,,led-lcd,32.0,0.0,8.01,0.82,2.9,11.4
+799.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.2,0.8,4.1,12.9
+1139.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10,lithium-ion,black,lenovo,no,yes,,1.0,full hd widescreen led,0.0,512.0,8.3,0.5,2.43,12.1
+97.99,11.6,no,ssd,4.0,not provided,,non-amd/intel processor,none,1366.0,768.0,chrome os,lithium-polymer,black,samsung,no,no,,,widescreen led,0.0,16.0,,,,
+864.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.8,0.7,3.31,12.9
+649.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,,full hd widescreen led,0.0,256.0,9.1,0.8,3.99,14.1
+169.99,11.6,no,emmc,4.0,ddr4 sdram,,intel atom,intel hd graphics,1366.0,768.0,windows 10 home in s mode,lithium-ion,white,hp,no,no,,2.0,widescreen led,64.0,0.0,7.6,0.7,2.31,11.1
+1099.99,17.3,yes,hdd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,0.0,10.8,0.8,6.48,16.2
+249.99,11.6,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,dell,,no,,4.0,lcd,16.0,0.0,8.19,0.82,2.85,12.0
+1129.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.5,1.1,5.18,14.2
+687.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i7,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,512.0,9.1,0.8,3.33,13.2
+2399.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.6,0.6,4.61,14.2
+969.99,14.0,yes,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.0,0.7,3.64,12.9
+189.99,11.6,no,emmc,4.0,lpddr3,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,black,dell,no,no,,2.0,widescreen led,16.0,0.0,8.1,0.8,3.09,11.9
+1449.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,1.0,5.0,15.0
+1765.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,igzo,0.0,512.0,9.8,0.8,4.41,14.0
+269.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1920.0,1080.0,windows 10 home in s mode,lithium-ion,white,hp,no,no,,3.0,full hd widescreen led,64.0,0.0,8.9,0.7,2.87,13.3
+279.99,14.0,no,emmc,4.0,ddr4 sdram,,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,widescreen led,64.0,0.0,9.3,0.8,3.09,12.9
+1559.99,14.0,yes,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,512.0,8.94,0.7,3.43,13.0
+238.99,14.0,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1920.0,1080.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,full hd widescreen led,32.0,0.0,9.3,0.7,3.53,13.4
+579.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.52,14.1
+829.99,13.3,no,ssd,8.0,ddr3l,1600.0,intel core i5,intel iris graphics,2560.0,1600.0,mac os x 10.9 mavericks,lithium-polymer,silver,apple,no,,"force touch trackpad, siri",2.0,led,0.0,128.0,8.62,0.71,3.46,12.35
+502.99,14.0,no,ssd,16.0,ddr3 sdram,,intel 5th generation core i7,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,256.0,9.1,0.8,3.44,13.2
+2099.0,13.5,yes,ssd,16.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1050,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,touchscreen lcd,0.0,512.0,9.14,0.9,,12.3
+279.99,14.0,no,ssd,8.0,not provided,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,no,no,,,widescreen lcd,0.0,180.0,,,,
+1649.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,1.2,5.49,15.1
+1599.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,silver,alienware,no,yes,,3.0,widescreen lcd,0.0,256.0,10.8,0.8,4.85,14.3
+1710.99,14.0,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.0,1.0,3.64,13.1
+1749.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 7th generation core i7,nvidia geforce gtx 1050 ti,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.6,0.7,4.63,14.1
+1349.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,7.54,14.1
+1699.99,13.3,no,ssd,16.0,lpddr4,3733.0,intel 10th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,2.0,widescreen lcd,0.0,512.0,8.3,0.6,3.13,12.0
+1099.99,13.3,no,ssd,8.0,lpddr3,1866.0,intel 5th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,silver,apple,no,yes,force touch trackpad,2.0,full hd widescreen led,0.0,512.0,8.6,0.7,3.48,12.4
+2199.99,15.6,yes,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-polymer,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.3,0.8,5.25,14.3
+429.99,15.6,no,ssd,4.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.1,0.8,3.86,14.1
+1299.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel iris plus graphics 645,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,lcd,0.0,256.0,8.36,0.59,3.02,12.0
+1299.99,13.0,yes,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,intel uhd graphics,3840.0,2160.0,windows 10 home,lithium-ion,black,dell,no,yes,,1.0,touchscreen widescreen lcd,0.0,512.0,8.5,0.6,3.2,12.1
+999.99,15.6,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.3,0.7,4.19,14.1
+159.99,11.6,no,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,gray,asus,no,no,,1.0,widescreen led,32.0,0.0,7.8,0.7,2.2,11.3
+1449.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.0,6.39,15.9
+999.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.3,1.0,4.85,14.2
+689.99,14.0,yes,hdd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,0.0,8.8,0.8,3.7,12.7
+699.99,14.0,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,silver,acer,no,no,,2.0,full hd widescreen led,0.0,256.0,9.4,0.8,3.75,13.0
+1079.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 7th generation core i3,amd radeon 530,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,no,,3.0,widescreen lcd,0.0,256.0,10.2,0.89,4.45,15.0
+935.99,12.0,no,ssd,8.0,ddr3,,intel core m3,intel hd graphics 615,2304.0,1440.0,mac os,lithium-polymer,gold,apple,,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,256.0,7.74,0.14,2.03,11.04
+749.99,14.0,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.0,0.7,3.64,12.9
+258.99,14.0,no,ssd,4.0,ddr3l sdram,,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,hp,no,no,,4.0,widescreen led,0.0,128.0,9.3,1.0,4.7,13.4
+255.99,14.0,no,hdd,4.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,widescreen led,0.0,0.0,,,,
+499.99,17.3,no,hdd,8.0,ddr4 sdram,,amd a12,other,1600.0,900.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,widescreen led,0.0,0.0,10.6,0.9,4.61,16.2
+129.0,11.6,no,emmc,4.0,lpddr3,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,black,samsung,no,no,,2.0,widescreen led,32.0,0.0,8.1,0.7,2.54,11.4
+269.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,pink,hp,no,no,,3.0,touchscreen widescreen led-lcd,64.0,0.0,8.9,0.7,2.87,13.3
+1399.0,13.3,yes,ssd,16.0,lpddr3,,intel 8th generation core i7,intel uhd graphics 615,3840.0,2160.0,chrome os,lithium-ion polymer,black,google,,yes,,2.0,lcd,0.0,256.0,8.1,0.5,2.4,12.2
+899.99,15.4,yes,ssd,8.0,ddr3l,1600.0,intel 4th generation core i7,intel iris pro graphics 5200,2880.0,1800.0,mac os x 10.9 mavericks,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",,led-lcd,0.0,256.0,9.73,0.71,4.46,14.13
+129.99,14.0,no,ssd,4.0,ddr3l sdram,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,3.0,widescreen led,0.0,16.0,9.4,0.9,4.08,13.6
+669.99,14.0,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.2,0.8,4.1,12.9
+679.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.52,14.1
+999.0,13.5,yes,ssd,8.0,not provided,,intel 10th generation core i5,,2256.0,1504.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,256.0,8.79,0.57,2.89,12.1
+979.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.8,0.9,4.72,14.1
+664.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,amd 1st generation ryzen 5,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.8,0.7,3.84,12.7
+583.99,15.6,no,hdd,16.0,not provided,,intel 4th generation core i7,intel hd graphics,1920.0,1080.0,windows 10 pro,lithium-ion,black,hp,no,no,,4.0,full hd widescreen led,0.0,0.0,10.1,1.2,6.19,15.0
+1999.0,15.0,yes,ssd,16.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1060,3840.0,2160.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,other,0.0,256.0,9.87,0.9,,13.5
+549.99,13.3,no,ssd,4.0,ddr3l,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,no,,2.0,widescreen led,0.0,128.0,8.94,0.68,2.96,12.8
+999.99,13.3,no,ssd,8.0,lpddr3,1600.0,intel 5th generation core i5,intel hd graphics 6000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,led,0.0,128.0,8.94,0.11,2.96,12.8
+499.99,14.0,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i3,,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,,no,,3.0,led-lcd,0.0,128.0,8.78,0.81,3.5,12.8
+999.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.7,0.7,4.5,14.1
+629.99,13.3,no,hdd,16.0,ddr3 sdram,1333.0,intel core i5,intel hd graphics 3000,1280.0,800.0,mac os x,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.94,0.95,4.5,12.78
+339.99,15.6,no,hdd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,no,no,,4.0,widescreen led,0.0,0.0,9.9,1.2,5.07,14.9
+1299.99,13.9,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,3840.0,2400.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,,widescreen led,0.0,512.0,7.8,0.5,2.65,12.6
+999.99,15.4,no,ssd,8.0,ddr3l sdram,1600.0,intel 3rd generation core i7,nvidia geforce,2880.0,1800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,512.0,9.7,0.7,4.45,14.1
+2499.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,other,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,8.4,0.6,3.02,12.0
+379.0,14.0,yes,emmc,4.0,lpddr4 sdram,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,3.0,touchscreen widescreen led-lcd,32.0,0.0,8.9,0.7,3.48,12.8
+363.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,500.0,9.3,1.1,4.37,13.3
+599.99,15.6,yes,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,black,samsung,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.63,14.2
+298.99,11.6,no,emmc,4.0,not provided,,intel pentium,other,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,2.0,widescreen led,64.0,0.0,8.0,0.9,2.76,11.5
+899.0,13.5,yes,ssd,8.0,not provided,,intel 10th generation core i5,,2256.0,1504.0,windows 10 home,lithium-ion polymer,silver,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,128.0,8.79,0.57,2.76,12.1
+548.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i7,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,hp,no,no,,1.0,widescreen led,0.0,256.0,9.3,0.7,3.26,13.3
+1499.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,512.0,9.76,0.75,3.87,14.4
+769.99,13.3,no,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.3,0.6,2.87,12.2
+206.99,14.1,no,hdd,4.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1280.0,800.0,windows 10 home,lithium-ion,black,lenovo,,yes,,4.0,widescreen led,0.0,0.0,,,,
+517.99,15.6,yes,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,touchscreen widescreen led-lcd,0.0,128.0,9.7,0.9,3.9,14.8
+999.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.8,0.7,3.44,12.7
+899.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.5,1.0,6.28,15.7
+419.0,14.0,yes,emmc,4.0,lpddr4 sdram,2400.0,intel pentium,intel uhd graphics 605,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,3.0,touchscreen widescreen led-lcd,64.0,0.0,8.9,0.7,3.48,12.8
+529.99,13.3,no,ssd,4.0,ddr3 sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,,no,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+1999.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 10th generation core i7,nvidia geforce mx250,3840.0,2160.0,windows 10 home,lithium-ion,gray,hp,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,1000.0,9.8,0.8,4.61,14.2
+169.99,14.0,no,emmc,4.0,ddr4 sdram,2133.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,blue,hp,no,no,,3.0,widescreen led,64.0,0.0,8.9,0.7,3.2,13.3
+729.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,512.0,8.8,0.8,,12.7
+999.99,13.3,no,ssd,8.0,lpddr3,1866.0,intel 5th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.6,0.7,3.48,12.4
+1579.99,15.6,no,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,,lcd,0.0,512.0,9.76,0.75,3.87,14.4
+393.99,15.6,no,hdd,4.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,black,acer,no,no,,3.0,widescreen led,0.0,0.0,10.3,0.8,4.63,15.0
+549.99,11.6,no,ssd,4.0,lpddr3,1600.0,intel 4th generation core i5,intel hd graphics 5000,1366.0,768.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,128.0,7.6,0.7,2.38,11.8
+1269.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.1,7.08,15.9
+186.99,15.6,no,ufs,4.0,lpddr3,,intel celeron,intel hd graphics 400,1366.0,768.0,chrome os,lithium-ion polymer,gray,acer,,no,,2.0,widescreen tft-lcd,0.0,0.0,10.1,1.0,4.3,15.1
+315.99,14.0,no,ssd,8.0,ddr3 sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1366.0,768.0,windows 10 home,lithium-ion,gray,dell,,yes,,3.0,widescreen led,0.0,128.0,9.5,1.3,4.44,13.9
+999.99,14.0,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.9,0.6,3.59,12.7
+549.99,11.6,no,ssd,4.0,lpddr3,1600.0,intel 4th generation core i5,intel hd graphics 5000,1366.0,768.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,128.0,7.6,0.7,2.38,11.8
+1699.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,4.92,14.1
+1099.99,12.0,no,ssd,8.0,lpddr3,1866.0,intel core m3,intel hd graphics 615,2304.0,1440.0,mac os,lithium-polymer,space gray,apple,no,yes,force touch trackpad,,widescreen led,0.0,256.0,7.7,0.5,2.0,11.0
+659.99,14.0,no,hdd,8.0,ddr4,2400.0,intel 8th generation core i5,intel hd graphics 620,1366.0,768.0,windows 10 pro,prismatic,gray,dell,,yes,,,led,0.0,0.0,10.2,0.93,4.81,14.9
+989.99,15.6,no,ssd,12.0,ddr4 sdram,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.1,0.7,3.99,14.1
+219.0,11.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.1,0.8,3.09,11.7
+351.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 4th generation core i7,intel hd graphics 4400,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,9.3,1.1,4.37,13.3
+2999.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.7,0.7,5.73,15.7
+1099.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,512.0,9.8,0.7,4.17,14.2
+419.95,13.3,no,hdd,4.0,ddr3 sdram,1066.0,intel core 2 duo,other,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,8.9,0.9,4.41,12.8
+177.0,15.6,no,emmc,2.0,lpddr3,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,16.0,0.0,10.1,1.0,4.41,15.1
+2499.99,15.6,yes,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,3840.0,2160.0,windows 10 pro,lithium-ion,black,asus,no,yes,,2.0,widescreen,0.0,1000.0,9.7,0.9,6.39,14.1
+669.99,15.6,no,hdd,8.0,ddr4 sdram,,amd 1st generation ryzen 5,amd radeon rx 560,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,0.0,10.5,1.1,5.95,15.4
+1999.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.3,1.0,5.29,14.2
+869.99,14.0,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.2,0.8,4.1,12.9
+649.99,15.6,yes,hdd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,no,,3.0,touchscreen widescreen led,0.0,0.0,9.51,0.7,4.25,14.2
+997.0,12.3,yes,ssd,8.0,not provided,,intel 7th generation core i5,,2400.0,1600.0,chrome os,lithium-ion,silver,google,,yes,,,touchscreen lcd,0.0,128.0,11.4,0.4,2.45,8.7
+1269.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,,lithium-ion,black,cyberpowerpc,no,yes,,3.0,full hd widescreen led,0.0,240.0,9.5,0.8,4.63,14.1
+1659.99,15.6,yes,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,9.3,0.7,3.97,14.1
+299.99,11.6,yes,emmc,4.0,not provided,2400.0,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.2,0.8,2.76,12.0
+1889.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia quadro t1000,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,5.0,lcd,0.0,512.0,9.93,1.16,,14.9
+679.99,15.6,yes,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,other,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,touchscreen widescreen led-lcd,0.0,0.0,10.0,0.9,4.85,14.3
+749.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,amd 2nd generation ryzen 5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,10.3,1.1,5.95,14.2
+849.99,13.0,yes,ssd,8.0,lpddr3,2133.0,intel 10th generation core i5,intel uhd graphics,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,1.0,touchscreen widescreen lcd,0.0,512.0,8.5,0.6,3.2,12.1
+1483.99,14.0,yes,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,silver,lenovo,,yes,,2.0,lcd,0.0,256.0,8.58,0.61,2.99,12.7
+1449.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,3.0,widescreen lcd,0.0,128.0,10.8,0.8,5.89,14.3
+2799.99,17.3,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.7,0.7,5.71,15.7
+129.99,11.6,no,ssd,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,widescreen led,0.0,16.0,8.0,0.8,3.09,11.3
+92.99,11.6,no,ssd,4.0,ddr3l sdram,,non-amd/intel processor,none,1366.0,768.0,chrome os,lithium-polymer,black,samsung,no,no,,2.0,widescreen led,0.0,16.0,8.1,0.7,2.65,11.4
+859.99,14.0,no,ssd,8.0,ddr4 sdram,2133.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,no,no,,2.0,full hd widescreen led,0.0,256.0,9.5,0.8,3.79,13.3
+1999.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,1.2,5.49,15.1
+580.99,15.6,no,ssd,16.0,ddr3l sdram,,intel 4th generation core i7,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-polymer,black,dell,,no,,,widescreen led,0.0,500.0,10.1,1.29,6.25,14.8
+1899.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,intel uhd graphics 630,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,no,yes,,4.0,lcd,0.0,512.0,9.87,0.8,4.26,14.8
+379.99,15.6,no,hdd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,other,1366.0,768.0,windows 10 home,lithium-ion,black,lenovo,no,no,,2.0,widescreen led,0.0,0.0,10.2,0.9,4.85,14.9
+2029.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-polymer,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.6,1.1,6.55,15.9
+1099.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel iris plus graphics 645,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,lcd,0.0,128.0,8.36,0.59,3.02,12.0
+599.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.3,0.7,3.31,12.7
+499.99,15.6,yes,emmc,4.0,not provided,2400.0,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,chrome os,lithium-ion,gray,lenovo,no,yes,,1.0,full hd widescreen led,64.0,0.0,9.8,0.7,4.37,14.2
+1699.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.6,0.8,5.49,15.6
+759.99,13.3,yes,ssd,12.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.8,0.7,3.84,12.7
+1139.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-polymer,gold,apple,no,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,128.0,8.36,0.61,2.75,12.0
+811.99,13.3,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,3.0,lcd,0.0,256.0,8.52,0.63,2.91,12.1
+1399.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.69,4.19,15.1
+829.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,none,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.52,14.1
+1519.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,gray,hp,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.8,0.8,4.78,14.2
+1665.99,14.0,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,intel uhd graphics 630,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,no,yes,,4.0,lcd,0.0,256.0,9.0,0.8,3.63,13.1
+699.99,17.3,no,"ssd, hdd",8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1600.0,900.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,widescreen led,0.0,128.0,10.0,0.8,5.09,16.0
+999.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-polymer,gray,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.2,0.6,3.53,14.1
+882.73,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.8,0.6,3.28,12.7
+1699.99,17.0,no,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,intel hd graphics 620,2560.0,1600.0,windows 10 home,lithium-ion,gray,lg,no,yes,,4.0,lcd,0.0,512.0,10.5,0.7,2.95,15.0
+799.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,9.5,0.7,4.56,14.2
+2999.99,17.3,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2080 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.8,6.06,15.6
+849.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,amd radeon 540,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,3.0,lcd,0.0,256.0,8.77,0.65,3.28,12.7
+1008.99,14.0,no,hdd,4.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-polymer,black,dell,,no,,4.0,widescreen lcd,0.0,0.0,9.0,0.8,3.53,13.1
+2499.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,1.1,5.75,15.6
+807.99,15.6,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,blue,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.8,0.7,4.17,14.2
+849.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,0.9,5.51,15.9
+1899.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,4.0,full hd widescreen led,0.0,256.0,10.3,0.8,5.4,15.1
+310.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,4.0,led,0.0,0.0,,,,
+2199.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,9.9,0.7,4.41,14.2
+2423.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.7,4.96,15.6
+1798.99,14.0,yes,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,silver,lenovo,,yes,,2.0,lcd,0.0,256.0,8.58,0.61,2.99,12.7
+1550.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 8th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion polymer,black,acer,,yes,,4.0,led-lcd,0.0,512.0,10.0,0.7,4.41,14.1
+281.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,128.0,9.3,1.1,4.37,13.3
+679.99,13.3,no,ssd,4.0,lpddr3,1600.0,intel 4th generation core i5,intel hd graphics 5000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.9,0.7,2.98,12.8
+1599.0,13.5,yes,ssd,8.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1050,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,touchscreen lcd,0.0,256.0,9.14,0.9,,12.3
+238.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,widescreen led,0.0,0.0,,,,
+1999.0,13.5,yes,ssd,16.0,not provided,,intel 10th generation core i7,,2256.0,1504.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,512.0,8.79,0.57,2.89,12.1
+1297.0,12.3,yes,ssd,16.0,not provided,,intel 7th generation core i7,,2400.0,1600.0,chrome os,lithium-ion,silver,google,,yes,,,touchscreen lcd,0.0,512.0,11.4,0.4,2.45,8.7
+764.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,gray,dell,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.1,0.6,2.58,12.1
+397.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10,lithium-polymer,black,dell,no,no,,3.0,widescreen led,0.0,256.0,9.1,0.8,3.44,13.3
+293.99,14.0,no,hdd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,4.0,led,0.0,0.0,9.16,1.25,4.68,13.3
+799.99,13.3,no,ssd,8.0,lpddr3,1600.0,intel 5th generation core i5,other,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.9,0.7,2.98,12.8
+424.99,15.6,no,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,amd radeon vega 8,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,widescreen led,0.0,256.0,10.3,1.0,5.07,15.0
+266.99,14.0,no,hdd,4.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,widescreen led,0.0,0.0,,,,
+1999.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,3840.0,2160.0,windows 10 home,lithium-polymer,silver,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+849.99,17.3,no,hdd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,0.0,11.0,1.0,6.16,16.4
+1699.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,nvidia geforce mx150,3840.0,2160.0,windows 10 home,lithium-ion polymer,black,razer,,yes,,4.0,touchscreen widescreen led-lcd,0.0,512.0,11.9,0.58,3.04,8.27
+342.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,480.0,9.3,1.1,5.09,13.4
+269.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1920.0,1080.0,windows 10 home in s mode,lithium-ion,blue,hp,no,no,,3.0,full hd widescreen led,64.0,0.0,8.9,0.7,2.87,13.3
+2999.99,15.4,no,ssd,32.0,ddr4,2400.0,intel 8th generation core i9,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,1000.0,9.48,0.61,4.02,13.75
+449.0,14.0,yes,emmc,4.0,ddr4,,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,chrome os,lithium-ion,gray,dell,,yes,,1.0,touchscreen led,128.0,0.0,9.06,0.66,,13.0
+2249.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,igzo,0.0,512.0,9.8,0.7,4.41,14.0
+286.99,14.0,no,hdd,8.0,not provided,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,,widescreen led,0.0,0.0,,,,
+206.99,15.6,yes,emmc,4.0,lpddr4,,intel pentium,intel hd graphics 505,1920.0,1080.0,chrome os,lithium-ion,silver,acer,,no,,4.0,touchscreen widescreen lcd,32.0,0.0,10.1,0.75,4.3,14.9
+579.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.1,0.8,3.51,14.1
+499.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,no,,3.0,full hd widescreen led,0.0,256.0,9.2,0.9,4.21,14.2
+1329.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-polymer,gray,msi,no,yes,,1.0,full hd widescreen led,0.0,512.0,9.2,0.6,3.53,14.1
+479.99,13.3,no,hdd,4.0,ddr3 sdram,1333.0,intel 4th generation core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,8.9,0.9,4.5,12.8
+1123.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,,yes,,4.0,led,0.0,128.0,9.9,0.9,4.14,14.8
+280.99,11.6,yes,emmc,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.0,0.8,3.53,11.6
+1069.99,13.3,yes,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,silver,lenovo,,yes,,4.0,led,0.0,256.0,8.82,0.74,3.44,12.7
+849.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,8.8,0.7,3.31,12.9
+199.99,11.6,no,emmc,4.0,not provided,2133.0,intel celeron,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,gray,lenovo,no,no,,2.0,widescreen led,64.0,0.0,7.9,0.7,2.54,11.3
+278.32,11.6,no,emmc,4.0,not provided,,intel celeron,intel uhd graphics 600,1366.0,768.0,windows 10 home in s mode,lithium-polymer,black,acer,no,no,,2.0,widescreen led,64.0,0.0,8.0,0.9,2.76,11.5
+829.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,256.0,9.37,0.76,3.85,13.0
+599.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,256.0,8.8,0.8,3.51,12.7
+549.99,15.6,no,hdd,12.0,ddr4 sdram,,amd 1st generation ryzen 5,other,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,full hd widescreen led,0.0,0.0,10.2,0.9,5.07,15.0
+829.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+2499.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,0.7,4.41,14.1
+214.99,14.0,no,hdd,4.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,other,black,lenovo,,no,,4.0,widescreen led,0.0,0.0,9.13,1.18,4.77,13.8
+2805.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,12.6,2.0,10.36,16.7
+207.99,11.6,no,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,widescreen led,32.0,0.0,8.2,0.8,2.98,11.9
+999.0,13.3,yes,ssd,16.0,lpddr3,,intel 8th generation core i5,intel uhd graphics 615,1920.0,1080.0,chrome os,lithium-ion polymer,black,google,,yes,,2.0,lcd,0.0,128.0,8.1,0.5,2.3,12.2
+1439.99,14.1,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,black,dell,,yes,,4.0,widescreen lcd,0.0,256.0,8.7,0.7,3.11,13.0
+262.99,14.0,no,hdd,8.0,not provided,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,,widescreen lcd,0.0,0.0,,,,
+599.99,13.3,no,hdd,16.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.5,12.8
+1699.99,15.6,no,"hdd, ssd",16.0,ddr4,2667.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion polymer,black,razer,,yes,,4.0,full hd widescreen led,0.0,256.0,9.25,0.78,4.48,14.0
+432.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10,lithium-polymer,black,dell,no,no,,3.0,widescreen led,0.0,500.0,9.1,0.8,3.44,13.3
+842.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce gtx 1050,3840.0,2560.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,512.0,9.8,0.7,4.17,14.2
+299.99,14.0,yes,ssd,4.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home in s mode,lithium-ion,gold,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,128.0,8.86,0.71,3.22,12.76
+339.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-polymer,black,hp,,no,,4.0,widescreen led,0.0,240.0,9.33,0.83,3.48,13.4
+421.99,15.6,no,hdd,4.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,widescreen led,0.0,0.0,9.6,0.7,3.97,14.1
+259.99,11.6,no,emmc,4.0,lpddr4,,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,asus,,yes,,2.0,led,16.0,0.0,7.8,0.8,,12.1
+449.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,2.0,full hd widescreen led,0.0,256.0,10.1,0.9,4.96,14.2
+599.99,14.0,no,ssd,8.0,ddr4,2133.0,intel 6th generation core i5,intel hd graphics 520,1920.0,1080.0,windows 10 pro,lithium-ion polymer,silver,hp,,no,,3.0,led,0.0,256.0,9.3,0.74,3.6,13.3
+1169.99,13.5,yes,ssd,8.0,lpddr3,1866.0,intel 8th generation core i5,intel uhd graphics 620,2256.0,1504.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,1.0,touchscreen lcd,0.0,256.0,8.79,0.57,2.76,12.1
+269.99,11.6,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,dell,,no,,4.0,lcd,32.0,0.0,8.19,0.82,2.85,12.0
+1702.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,0.8,5.49,15.6
+304.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,120.0,9.1,0.9,3.99,13.2
+849.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.8,0.9,6.26,14.3
+829.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,128.0,10.0,1.1,5.51,14.3
+279.99,14.0,no,emmc,4.0,ddr4 sdram,,amd a4,amd radeon r4,1920.0,1080.0,chrome os,lithium-ion,white,hp,no,no,,2.0,full hd widescreen led,32.0,0.0,8.9,0.7,3.4,13.3
+1999.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,0.8,5.49,15.6
+2242.99,14.0,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,2560.0,1440.0,windows 10 pro,lithium-ion,silver,lenovo,,yes,,2.0,led-lcd,0.0,512.0,9.02,0.67,3.08,13.1
+329.99,11.6,yes,emmc,4.0,not provided,2400.0,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,2.0,touchscreen widescreen led-lcd,64.0,0.0,8.2,0.8,2.76,12.0
+599.99,13.3,no,ssd,4.0,lpddr3,1600.0,intel core i5,intel hd graphics 5000,1440.0,900.0,mac os x,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.9,0.7,2.98,12.8
+2999.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i9,nvidia geforce rtx 2070 max-q,3840.0,2160.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+599.99,13.3,yes,ssd,8.0,lpddr3,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,samsung,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.5,0.7,3.2,12.4
+849.0,12.3,,,,,,,,2736.0,1824.0,windows 10 home,lithium-ion,black,microsoft,,,,,lcd,0.0,0.0,7.9,0.33,27.2,11.5
+429.99,15.6,no,ssd,4.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,red,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.1,0.8,3.86,14.1
+1441.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,256.0,8.94,0.7,3.41,13.0
+609.99,15.6,no,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.1,0.9,4.3,14.7
+499.99,15.6,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,256.0,9.53,0.71,3.75,14.11
+659.99,15.6,no,hdd,8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,0.0,10.2,0.8,4.41,15.0
+347.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 1st generation ryzen 5,other,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,no,,3.0,touchscreen widescreen led-lcd,0.0,128.0,9.7,0.9,3.9,14.8
+899.95,15.4,no,ssd,8.0,ddr3l sdram,1600.0,intel 3rd generation core i7,nvidia geforce,2880.0,1800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.45,14.1
+569.99,14.0,yes,emmc,4.0,lpddr3,,intel core m3,intel uhd graphics 615,1920.0,1080.0,chrome os,lithium-ion,silver,asus,no,yes,,1.0,full hd widescreen led,64.0,0.0,8.0,0.6,3.2,12.6
+1249.99,13.3,yes,ssd,8.0,ddr4,2400.0,amd 3rd generation ryzen 7 pro,amd radeon vega 10,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,8.55,0.67,2.91,12.3
+682.99,15.6,no,"ssd, hdd",12.0,ddr4 sdram,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,full hd widescreen led,0.0,256.0,10.5,0.8,4.85,15.0
+854.99,17.3,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,128.0,11.0,1.0,6.68,16.4
+307.99,14.0,no,ssd,8.0,not provided,,intel 4th generation core i5,none,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,,widescreen led,0.0,128.0,9.1,0.7,3.55,13.3
+618.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i7,intel hd graphics 520,1366.0,768.0,windows 10 pro,lithium-polymer,black,dell,no,yes,,3.0,widescreen led,0.0,256.0,9.1,0.8,3.31,13.2
+319.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics 520,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,240.0,9.3,1.1,5.09,13.4
+479.99,13.3,no,ssd,4.0,ddr3 sdram,1600.0,intel core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,320.0,,,4.5,
+899.95,12.0,no,ssd,8.0,lpddr3,1600.0,intel core m3,intel hd graphics 5300,2304.0,1440.0,mac os,lithium-polymer,gold,apple,,yes,,2.0,widescreen led,0.0,512.0,7.74,0.52,2.03,11.04
+899.99,14.0,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10,lithium-ion,silver,asus,,yes,,3.0,lcd,0.0,512.0,8.3,0.6,3.2,12.7
+1379.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,silver,dell,no,yes,,,touchscreen widescreen lcd,0.0,256.0,7.8,0.5,2.84,11.9
+108.99,11.6,no,ssd,2.0,not provided,,non-amd/intel processor,none,1366.0,768.0,chrome os,lithium-ion,silver,samsung,no,no,,,widescreen lcd,0.0,16.0,,,,
+2149.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2080 max-q,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,0.6,4.63,14.2
+1238.99,14.0,no,ssd,16.0,ddr4 sdram,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,acer,,yes,,4.0,lcd,0.0,512.0,9.4,0.8,3.53,12.9
+2899.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 8th generation core i9,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.2,0.7,4.19,15.1
+2099.99,15.6,yes,ssd,8.0,not provided,,intel 6th generation core i5,nvidia quadro m600m,3840.0,2160.0,windows 10 home,lithium-polymer,black,wacom,,no,,3.0,other,0.0,256.0,10.3,0.7,4.45,16.5
+326.99,14.0,no,hdd,8.0,ddr3 sodimm,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,black,lenovo,,no,,3.0,widescreen led,0.0,0.0,,,,
+349.99,15.6,no,hdd,12.0,ddr4 sdram,,amd a9,other,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,widescreen led,0.0,0.0,10.2,0.9,4.63,15.0
+399.0,10.0,,,,,,,,1800.0,1200.0,windows 10 home in s mode,lithium-ion,silver,microsoft,,,,,,0.0,0.0,6.9,0.33,18.4,9.65
+1199.99,14.0,yes,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,lg,,yes,,3.0,touchscreen lcd,0.0,512.0,8.3,0.7,2.53,12.0
+426.99,15.6,no,ssd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,4.0,led,0.0,500.0,9.86,1.17,5.35,14.9
+1849.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-ion,silver,dell,,yes,,2.0,oled,0.0,1000.0,9.27,0.66,,14.1
+2799.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,other,3840.0,2160.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,widescreen led,0.0,512.0,9.8,0.7,4.14,14.1
+2099.99,17.3,no,ssd,32.0,ddr4 sdram,2666.0,intel xeon,other,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,1.1,5.73,15.6
+1438.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,yes,,4.0,lcd,0.0,256.0,9.9,0.9,4.14,14.8
+1919.99,17.3,no,"hdd, ssd",16.0,ddr4,2400.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,silver,alienware,,yes,,3.0,full hd widescreen led,0.0,512.0,,,11.7,
+2399.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.7,4.74,14.0
+947.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,nvidia geforce mx130,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,256.0,9.37,0.76,3.85,13.0
+1799.99,13.3,yes,ssd,16.0,lpddr4 sdram,3200.0,intel 10th generation core i7,intel iris plus graphics,3840.0,2160.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,widescreen,0.0,1000.0,7.7,0.7,2.87,12.0
+2199.99,17.3,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-ion,white,alienware,,yes,,3.0,led,0.0,512.0,11.6,0.81,5.8,15.7
+449.99,15.6,yes,ssd,8.0,ddr4 sdram,16.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,touchscreen widescreen led-lcd,0.0,128.0,10.2,0.8,4.41,15.0
+119.0,11.6,no,emmc,4.0,lpddr3,1600.0,intel atom,none,1366.0,768.0,chrome os,lithium-ion,black,samsung,no,no,,2.0,widescreen led,32.0,0.0,8.1,0.7,2.6,11.4
+2799.0,15.0,yes,ssd,32.0,not provided,,amd ryzen 7 microsoft surface edition,amd radeon rx vega 11,2496.0,1664.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,1000.0,9.6,0.57,3.4,13.4
+579.99,13.3,no,ssd,16.0,ddr3l sdram,,intel 3rd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+1429.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce mx130,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,,yes,,3.0,lcd,0.0,256.0,9.9,0.8,4.26,14.8
+267.99,14.0,no,ssd,8.0,ddr3l,1600.0,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion polymer,black,hp,,no,,4.0,led,0.0,128.0,9.3,0.8,3.4,13.3
+729.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.0,1.1,4.85,14.3
+789.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gold,hp,no,no,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.08,14.2
+574.99,14.0,no,hdd,4.0,ddr4,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,0.0,9.37,0.76,3.85,13.0
+899.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel hd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,white,lg,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.3,0.6,,12.7
+2049.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.8,1.0,5.67,14.2
+849.99,15.6,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,blue,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.8,0.7,4.17,14.2
+899.99,14.0,yes,ssd,8.0,lpddr3,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,,lithium-ion,gray,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.5,3.11,12.9
+2699.99,17.3,no,ssd,32.0,ddr4 sdram,2666.0,intel 8th generation core i9,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.6,1.1,5.75,15.6
+439.99,15.6,no,hdd,4.0,ddr4 sdram,1866.0,amd a9,other,1366.0,768.0,windows 10 home,lithium-ion,pink,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.34,14.8
+1749.99,14.0,yes,ssd,16.0,not provided,3733.0,intel 10th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,8.5,0.6,2.98,12.6
+269.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,480.0,8.5,0.8,2.93,12.2
+1499.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-ion,space gray,apple,no,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,256.0,8.36,0.61,2.75,12.0
+289.99,14.0,no,emmc,4.0,ddr4 sdram,,intel pentium,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,acer,no,no,,3.0,full hd widescreen led,64.0,0.0,9.0,0.6,2.87,12.7
+1699.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.5,1.0,6.28,15.7
+1059.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,no,,3.0,full hd widescreen led,0.0,256.0,11.0,1.0,6.68,16.4
+1799.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,1.1,5.75,15.6
+969.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.8,0.8,4.41,14.3
+1499.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel iris plus graphics 655,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,256.0,8.36,0.59,3.02,11.97
+1589.99,14.0,yes,ssd,16.0,lpddr3,,intel 8th generation core i7,intel hd graphics 615,1920.0,1080.0,windows 10 home,lithium-polymer,white,acer,no,yes,,,full hd widescreen led,0.0,512.0,7.5,0.4,2.18,12.5
+1449.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,0.7,4.41,14.1
+599.99,13.3,no,ssd,4.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.9,0.7,2.98,12.8
+1199.99,15.0,yes,ssd,8.0,ddr4,,intel 7th generation core i7,amd radeon 540,1920.0,1080.0,windows 10 home,lithium-ion,silver,samsung,,yes,,3.0,full hd widescreen led,0.0,128.0,9.41,0.67,3.8,13.66
+349.0,14.0,yes,emmc,8.0,ddr4 sdram,2133.0,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,chrome os,lithium-polymer,white,hp,no,yes,,3.0,full hd widescreen led,64.0,0.0,8.9,0.6,3.7,12.8
+2599.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,white,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.7,4.74,14.0
+529.99,13.3,no,hdd,4.0,ddr3 sdram,,intel core i5,intel hd graphics 3000,1280.0,800.0,mac os x 10.7 lion,lithium-polymer,multi,apple,,yes,,2.0,widescreen lcd,0.0,0.0,8.9,0.9,4.5,12.8
+779.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+768.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,nvidia geforce mx250,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.1,0.8,3.99,14.1
+272.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,widescreen led,0.0,0.0,,,,
+2999.99,15.4,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i9,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,silver,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,9.5,0.6,4.03,13.8
+1933.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,0.7,4.41,14.1
+279.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.9,0.7,3.4,13.3
+417.99,14.0,no,ssd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,silver,dell,,no,,3.0,widescreen led,0.0,500.0,9.1,0.8,3.6,13.2
+1399.99,13.3,no,ssd,8.0,lpddr3,1600.0,intel 5th generation core i5,other,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.9,0.7,2.98,12.8
+1379.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.5,0.9,4.85,14.2
+429.95,11.6,no,ssd,2.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1366.0,768.0,mac os,lithium-polymer,silver,apple,no,no,"force touch trackpad, siri",2.0,widescreen led,0.0,64.0,7.56,0.68,2.38,11.8
+762.99,12.3,yes,ssd,8.0,not provided,,intel 7th generation core i5,,2400.0,1600.0,chrome os,lithium-ion,silver,google,,yes,,,touchscreen lcd,0.0,256.0,11.4,0.4,2.45,8.7
+1699.99,14.0,no,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 pro,lithium-polymer,gray,msi,no,yes,,2.0,widescreen led,0.0,1000.0,8.5,0.6,2.84,12.6
+328.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led-lcd,0.0,240.0,8.3,0.8,2.76,12.2
+118.99,11.6,no,emmc,2.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,acer,no,no,,2.0,widescreen led,16.0,0.0,8.0,0.7,2.43,11.6
+1349.99,15.6,yes,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,nvidia geforce mx250,3840.0,2160.0,windows 10 home,lithium-ion,black,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,9.8,0.7,4.83,14.1
+429.99,15.6,yes,emmc,4.0,not provided,2133.0,intel pentium,other,1920.0,1080.0,chrome os,lithium-ion,gray,lenovo,no,no,,1.0,full hd widescreen led,32.0,0.0,9.8,0.7,4.37,14.2
+684.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+1549.99,13.3,no,ssd,8.0,lpddr3,1600.0,intel 5th generation core i7,other,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.9,0.7,2.98,12.8
+265.99,15.6,no,ssd,4.0,ddr4 sdram,2400.0,intel 8th generation core i3,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,blue,lenovo,no,no,,2.0,widescreen led,0.0,128.0,9.6,0.76,4.12,14.1
+368.99,12.5,no,ssd,16.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,256.0,8.3,0.8,2.76,12.2
+1799.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,1.2,5.49,15.1
+374.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 4th generation core i7,intel hd graphics 4400,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,256.0,9.3,1.1,4.37,13.3
+599.99,13.3,yes,ssd,8.0,not provided,3733.0,non-amd/intel processor,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,,full hd widescreen led,0.0,128.0,8.5,0.5,2.65,12.1
+1099.99,15.4,no,hdd,8.0,ddr3 sdram,1600.0,intel 2nd generation core i7,nvidia geforce gt 650m,2880.0,1800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,9.7,0.7,4.4,14.0
+2999.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,other,3840.0,2160.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,widescreen led,0.0,512.0,10.2,0.7,5.03,15.6
+1224.0,13.3,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,no,,4.0,lcd,0.0,256.0,8.55,0.67,2.85,12.3
+329.0,14.0,yes,emmc,4.0,ddr4 sdram,1666.0,amd a6,other,1920.0,1080.0,chrome os,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,32.0,0.0,8.9,0.7,3.26,12.9
+129.99,14.0,no,emmc,4.0,not provided,,amd a6,amd radeon r4,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,widescreen led,64.0,0.0,9.3,0.8,3.09,12.9
+1149.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,,no,,3.0,lcd,0.0,256.0,8.94,0.7,3.37,13.0
+429.99,15.6,no,ssd,4.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,blue,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.1,0.8,3.86,14.1
+198.99,15.6,no,emmc,4.0,ddr4 sdram,,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-polymer,silver,acer,no,no,,2.0,widescreen led,32.0,0.0,10.1,7.9,3.97,15.0
+1659.99,17.3,no,"hdd, ssd",16.0,ddr4 sdram,,intel 6th generation core i7,nvidia geforce gtx 1070,1920.0,1080.0,windows 10,lithium-ion,black,acer,,no,,5.0,full hd widescreen led,0.0,256.0,12.7,1.6,9.59,16.7
+619.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.6,3.31,12.7
+279.99,15.6,no,hdd,4.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1366.0,768.0,windows 10 home,lithium-polymer,black,acer,no,no,,3.0,widescreen led,0.0,0.0,10.3,1.0,5.07,15.0
+799.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,pink,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.1,0.7,3.97,14.1
+1549.99,15.6,yes,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,nvidia geforce gtx 1050,3840.0,2160.0,windows 10 home,lithium-polymer,gray,asus,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,1000.0,9.0,0.8,4.19,14.0
+281.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,240.0,8.5,0.8,2.93,12.2
+1549.99,15.6,no,"hdd, ssd",8.0,ddr4,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 pro,lithium-ion,silver,dell,,yes,,3.0,lcd,0.0,128.0,9.27,0.66,4.0,14.1
+629.99,13.3,no,hdd,8.0,ddr3 sdram,1600.0,intel core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.54,12.8
+2399.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.6,0.8,5.49,15.6
+658.99,15.6,no,hdd,4.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,0.0,10.05,0.71,4.75,14.91
+2699.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,3840.0,2160.0,windows 10 home,lithium-polymer,black,hp,no,yes,,3.0,widescreen led,0.0,1000.0,10.3,0.8,5.25,14.3
+1199.99,17.3,yes,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,nvidia geforce mx250,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,10.7,0.8,6.13,15.7
+2150.0,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.8,1.6,10.8,16.9
+185.99,14.0,no,ufs,4.0,ddr4 sdram,,intel celeron,intel uhd graphics 600,1920.0,1280.0,windows 10 home in s mode,lithium-polymer,black,acer,,no,,3.0,led-lcd,0.0,0.0,9.6,0.7,3.64,13.5
+3299.99,15.6,yes,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2080 max-q,3840.0,2160.0,windows 10 home,lithium-ion,black,razer,no,yes,,3.0,widescreen,0.0,512.0,9.25,0.7,4.74,13.98
+537.99,14.0,no,hdd,12.0,ddr3 sdram,,intel 5th generation core i7,intel hd graphics,1600.0,900.0,windows 10 pro,lithium-ion,black,lenovo,no,no,,3.0,widescreen led,0.0,0.0,8.9,0.8,3.57,13.1
+1549.22,15.6,no,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,512.0,9.76,0.75,3.87,14.4
+1399.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,1.0,7.5,15.6
+2899.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i9,nvidia geforce rtx 2070,3840.0,2160.0,windows 10 pro,lithium-ion,gray,msi,no,yes,,3.0,widescreen led,0.0,1000.0,10.2,0.7,4.19,15.1
+1799.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 10th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 pro,lithium-polymer,gray,msi,no,yes,,2.0,widescreen led,0.0,1000.0,9.2,0.6,3.64,14.4
+218.99,12.5,no,hdd,4.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,3.0,widescreen led,0.0,0.0,8.2,1.1,3.92,12.0
+380.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led-lcd,0.0,480.0,8.3,0.8,2.76,12.2
+237.99,11.6,yes,emmc,4.0,ddr3l sdram,1600.0,intel pentium,intel hd graphics 505,1920.0,1080.0,windows 10 home in s mode,lithium-polymer,gray,acer,no,no,,2.0,full hd widescreen led,64.0,0.0,7.9,0.6,2.76,11.4
+2199.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.7,4.96,15.6
+81.99,11.6,no,ssd,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,black,acer,,no,,2.0,led,0.0,16.0,8.0,0.8,2.76,11.3
+1449.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,7.54,14.1
+399.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,128.0,8.8,0.8,3.48,12.7
+699.99,15.6,no,ssd,12.0,ddr4 sdram,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.9,0.7,4.19,14.3
+999.99,15.6,yes,"ssd, hdd",16.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,black,asus,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.9,0.8,4.19,14.1
+1209.99,15.6,no,hdd,8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,0.0,10.5,0.9,4.85,14.2
+849.99,12.0,no,ssd,8.0,lpddr3,1866.0,intel core m3,intel hd graphics 515,2304.0,1440.0,mac os,lithium-polymer,gray,apple,no,yes,force touch trackpad,1.0,widescreen led,0.0,256.0,7.7,0.5,2.0,11.0
+449.99,13.3,no,ssd,4.0,ddr3l sdram,,intel 2nd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+758.31,13.5,yes,emmc,8.0,lpddr3,,intel 8th generation core i3,intel uhd graphics 620,2256.0,1504.0,chrome os,lithium-ion,gray,acer,,yes,,3.0,led-lcd,64.0,0.0,9.7,0.7,3.31,12.2
+549.99,13.3,no,ssd,16.0,ddr3l sdram,,intel 2nd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+354.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,512.0,9.3,1.1,5.09,13.4
+499.99,13.0,no,ssd,4.0,ddr3l sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,siri,2.0,led,0.0,64.0,8.94,0.68,2.96,12.8
+937.99,13.3,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,3.0,lcd,0.0,256.0,8.52,0.63,2.91,12.1
+859.99,12.0,no,ssd,8.0,lpddr3,1600.0,intel core m3,intel hd graphics 5300,2304.0,1440.0,mac os,lithium-polymer,silver,apple,,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,256.0,7.74,0.52,2.03,11.04
+799.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.1,0.7,2.98,12.0
+559.99,11.6,no,ssd,4.0,lpddr3,1600.0,intel 5th generation core i5,other,1366.0,768.0,mac os,lithium-polymer,silver,apple,no,no,,2.0,widescreen led,0.0,128.0,7.6,0.7,2.38,11.8
+527.99,12.3,yes,emmc,4.0,lpddr3,1600.0,intel core m3,intel hd graphics 615,2400.0,1600.0,chrome os,lithium-ion,white,hp,no,no,,,touchscreen led,32.0,0.0,8.3,0.3,1.6,11.5
+293.99,14.0,no,hdd,4.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,dell,no,no,,4.0,widescreen led,0.0,0.0,9.2,1.3,4.67,13.3
+102.99,11.6,no,emmc,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion polymer,black,hp,,no,,2.0,led,16.0,0.0,8.1,0.8,2.83,11.8
+276.99,14.1,no,ssd,4.0,not provided,,intel pentium,intel hd graphics 500,1920.0,1080.0,windows 10 home,lithium-polymer,silver,hyundai,no,no,,2.0,widescreen lcd,0.0,32.0,,,,
+217.99,15.6,yes,emmc,4.0,ddr4 sdram,,amd a4,amd radeon r4,1920.0,1080.0,chrome os,lithium-polymer,silver,acer,no,no,,2.0,full hd widescreen led,32.0,0.0,10.1,7.9,3.97,15.0
+499.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i5,none,1920.0,1080.0,windows 10 home,lithium-ion,gold,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.8,0.8,3.48,12.8
+1320.99,15.6,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,256.0,9.76,0.75,3.87,14.4
+159.99,11.6,no,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,red,asus,no,no,,1.0,widescreen led,32.0,0.0,7.8,0.7,2.2,11.3
+1299.99,14.0,no,ssd,4.0,ddr3l sdram,,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 7 professional,lithium-ion,silver,hp,,yes,,3.0,led,0.0,256.0,9.1,0.8,3.56,13.3
+749.99,13.3,no,ssd,4.0,lpddr3,1600.0,intel 5th generation core i5,other,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.7,2.95,12.8
+1575.99,14.0,yes,ssd,8.0,lpddr3,,intel 7th generation core i7,intel hd graphics 615,1920.0,1080.0,windows 10 pro,lithium-ion,black,acer,,yes,,2.0,led-lcd,0.0,256.0,9.3,0.4,2.65,12.9
+662.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,,lithium-ion,gold,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.99,14.2
+261.99,14.0,no,hdd,4.0,ddr3 sodimm,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,black,lenovo,,no,,2.0,widescreen led,0.0,0.0,9.2,1.2,,13.4
+1099.99,14.0,yes,ssd,16.0,ddr4 sdram,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,no,,2.0,full hd widescreen led,0.0,512.0,9.0,0.7,3.64,12.9
+631.99,14.0,no,hdd,4.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,0.0,9.37,0.76,3.85,13.0
+339.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,3.0,led,0.0,240.0,9.3,1.1,4.37,13.3
+899.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.1,0.7,3.99,14.1
+2199.99,17.3,no,ssd,16.0,ddr4 sdram,2400.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,,lithium-polymer,black,cyberpowerpc,no,yes,,3.0,full hd widescreen led,0.0,2000.0,10.3,1.1,5.18,15.6
+331.99,11.6,yes,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,lenovo,no,no,,4.0,led,32.0,0.0,8.01,0.8,2.9,11.4
+849.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.0,0.9,4.1,14.1
+743.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.8,0.7,4.17,14.2
+2099.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 pro,lithium-polymer,silver,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,1.0,4.19,15.1
+366.22,15.6,no,hdd,6.0,ddr4 sdram,,amd a9,amd radeon r5,1366.0,768.0,windows 10 home,lithium-ion,black,acer,,no,,3.0,led-lcd,0.0,0.0,10.2,0.9,4.63,15.0
+549.99,13.3,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,dell,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.4,0.6,3.22,12.1
+699.99,13.3,no,hdd,16.0,ddr3 sdram,1600.0,intel core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,no,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.54,12.8
+1649.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.1,7.08,15.9
+1099.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,,yes,"force touch trackpad, siri, touch id sensor",,lcd,0.0,256.0,8.36,0.61,2.75,12.0
+1223.99,15.6,no,"hdd, ssd",16.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,alienware,,yes,,3.0,widescreen,0.0,128.0,12.0,1.0,7.69,15.3
+24.96,12.2,yes,emmc,4.0,lpddr3,1866.0,intel celeron,intel hd graphics 615,1920.0,1200.0,chrome os,lithium-ion,silver,samsung,no,no,,3.0,full hd widescreen led,32.0,0.0,8.2,0.6,3.06,11.3
+639.99,15.6,no,ssd,8.0,ddr4,2666.0,intel 10th generation core i5,intel uhd graphics,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,,no,,2.0,lcd,0.0,256.0,10.2,0.78,4.46,15.0
+513.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,256.0,9.1,0.8,3.33,13.2
+279.99,15.6,no,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,3.9,14.8
+1849.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 7th generation core i7,nvidia geforce gtx 1050 ti,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.6,0.7,4.63,14.1
+899.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,acer,,yes,,4.0,lcd,0.0,128.0,9.4,0.8,3.53,12.9
+1299.99,14.0,no,ssd,16.0,ddr4 sdram,2133.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-polymer,gray,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.0,0.7,2.69,12.8
+258.99,14.0,no,,4.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics 4000,1366.0,768.0,windows 10,other,black,lenovo,,yes,,3.0,widescreen led,0.0,0.0,9.2,1.2,4.85,13.4
+219.99,11.6,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion polymer,black,hp,,yes,,4.0,led,16.0,0.0,8.18,0.71,2.8,12.0
+1049.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,,amd 2nd generation ryzen 7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.0,1.0,6.0,15.7
+809.0,14.0,no,ssd,8.0,ddr4,2400.0,amd 3rd generation ryzen 7,,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,no,,4.0,lcd,0.0,256.0,9.53,0.83,3.87,13.0
+450.99,15.6,no,hdd,8.0,ddr3 sdram,,intel 4th generation core i7,intel hd graphics,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,,no,,4.0,full hd widescreen led,0.0,0.0,10.1,1.2,6.19,15.0
+334.99,12.5,no,ssd,8.0,ddr3l sdram,1600.0,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10,lithium-polymer,black,dell,no,no,,3.0,widescreen led,0.0,256.0,8.3,0.8,2.76,12.2
+2199.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 9th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,silver,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,8.4,0.6,3.02,12.0
+1749.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10,lithium-ion,black,asus,no,yes,,4.0,full hd widescreen led,0.0,1000.0,9.9,0.7,4.3,14.2
+279.99,11.6,yes,ssd,4.0,ddr4 sdram,2400.0,intel pentium,intel uhd graphics 605,1366.0,768.0,windows 10 home,lithium-polymer,gray,hp,no,no,,2.0,touchscreen widescreen led-lcd,0.0,128.0,7.7,0.7,2.67,11.0
+165.99,14.0,no,ssd,4.0,lpddr3,,intel celeron,intel hd graphics,1920.0,1080.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,full hd widescreen led,0.0,16.0,9.3,0.7,3.53,13.4
+304.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,120.0,9.3,1.1,5.09,13.4
+788.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,silver,asus,no,no,,3.0,full hd widescreen led,0.0,512.0,9.1,0.7,3.97,14.1
+241.99,11.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.2,0.8,2.98,11.9
+1099.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.0,0.9,5.29,14.3
+264.99,14.0,no,ssd,8.0,not provided,,intel 4th generation core i5,none,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,,widescreen led,0.0,128.0,9.3,1.3,4.41,13.3
+2199.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia quadro t2000,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,0.7,4.14,14.1
+2957.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i7,nvidia quadro p1000,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,yes,,4.0,lcd,0.0,512.0,9.9,1.2,5.73,14.9
+749.99,15.6,no,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+1309.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.5,1.0,5.07,14.2
+819.99,14.0,yes,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.2,0.8,4.1,12.9
+2799.0,15.0,yes,ssd,16.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1060,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,other,0.0,1000.0,9.87,0.9,,13.5
+1299.99,15.6,yes,"ssd, hdd",16.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce gtx 1050,3840.0,2160.0,windows 10 home,lithium-ion,black,asus,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,256.0,8.9,0.8,4.63,14.1
+382.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1600.0,900.0,windows 10 pro,lithium-ion,black,hp,no,no,,4.0,widescreen led,0.0,256.0,9.3,0.8,3.57,13.3
+1149.99,13.3,no,ssd,8.0,not provided,,intel 5th generation core i7,intel hd graphics 6000,1440.0,900.0,mac os,lithium-ion,silver,apple,,yes,siri,2.0,led,0.0,128.0,,,,
+999.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,white,dell,no,yes,,3.0,full hd widescreen led,0.0,128.0,10.8,0.9,6.26,14.3
+1599.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,blue,hp,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.8,0.8,4.78,14.2
+2119.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,3840.0,2160.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+2503.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,3840.0,2160.0,windows 10 pro,lithium-polymer,silver,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+1309.99,13.9,no,ssd,8.0,lpddr3,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,silver,asus,no,yes,,1.0,full hd widescreen led,0.0,512.0,7.7,0.5,2.4,12.4
+259.99,11.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,black,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.1,0.8,3.09,11.7
+310.99,14.0,no,hdd,8.0,ddr3 sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1366.0,768.0,windows 10 home,lithium-ion,gray,dell,,yes,,3.0,widescreen led,0.0,0.0,9.5,1.3,4.44,13.9
+259.99,12.5,no,hdd,8.0,not provided,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,no,no,,,widescreen lcd,0.0,0.0,,,,
+899.99,12.0,no,ssd,8.0,lpddr3,1600.0,intel core m3,intel hd graphics 5300,2304.0,1440.0,mac os x,lithium-polymer,gray,apple,,yes,,2.0,widescreen led,0.0,512.0,7.74,0.52,2.03,11.04
+3199.99,17.3,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i9,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.2,0.7,4.96,15.6
+549.99,15.6,no,ssd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,no,,3.0,full hd widescreen led,0.0,256.0,9.1,0.8,3.51,14.1
+829.99,15.6,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.3,0.7,4.19,14.1
+239.99,15.6,no,ssd,8.0,ddr4 sdram,2133.0,amd a12,other,1366.0,768.0,windows 10 home,lithium-ion,black,asus,no,no,,3.0,widescreen led,0.0,128.0,10.1,1.0,5.07,15.0
+698.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.8,0.7,3.31,12.9
+2799.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2080 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.7,4.74,14.0
+91.99,11.6,no,emmc,4.0,ddr3l,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,black,lenovo,,no,,2.0,led,16.0,0.0,8.27,0.86,5.0,11.8
+1099.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 7th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,silver,apple,no,yes,force touch trackpad,,full hd widescreen led,0.0,128.0,8.4,0.6,3.02,12.0
+1099.99,13.3,yes,ssd,16.0,lpddr3,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,samsung,no,yes,,,full hd widescreen led,0.0,512.0,8.1,0.5,2.84,12.1
+579.99,13.3,no,hdd,8.0,ddr3 sdram,1600.0,intel core i5,intel hd graphics 4000,1280.0,800.0,mac os x,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.94,0.95,4.5,12.78
+99.0,11.6,no,emmc,2.0,lpddr3,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,black,samsung,no,no,,2.0,widescreen led,16.0,0.0,8.1,0.7,2.54,11.4
+399.0,12.2,yes,emmc,4.0,lpddr3,1866.0,intel core m3,intel hd graphics 615,1920.0,1200.0,chrome os,lithium-polymer,silver,samsung,no,no,,1.0,full hd widescreen led,128.0,0.0,8.2,0.7,2.93,11.3
+243.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 2nd generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,silver,hp,,no,,0.0,widescreen led,0.0,128.0,,,,
+1099.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.1,0.9,4.96,14.2
+1399.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.0,6.39,15.9
+1709.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,no,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,512.0,8.36,0.61,2.75,12.0
+1453.99,13.3,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,silver,hp,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,8.6,0.5,2.91,12.1
+1799.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,3840.0,2160.0,windows 10 home,lithium-polymer,gray,msi,no,yes,,3.0,widescreen led,0.0,512.0,10.2,0.7,4.19,15.1
+1999.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 9th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,256.0,8.4,0.6,3.02,12.0
+1699.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-ion,space gray,apple,no,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,512.0,8.36,0.61,2.75,12.0
+2249.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,silver,alienware,no,no,,3.0,widescreen lcd,0.0,256.0,11.5,0.9,5.8,16.1
+3299.99,15.4,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i9,amd radeon pro 555x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,1000.0,9.5,0.6,4.03,13.8
+1679.99,17.3,no,ssd,16.0,ddr4 sdram,2400.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,,lithium-polymer,black,cyberpowerpc,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.3,1.1,5.18,15.6
+829.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,white,hp,no,no,,2.0,full hd widescreen led,0.0,512.0,9.7,0.7,4.08,14.2
+349.99,13.3,no,hdd,4.0,ddr3 sdram,1066.0,intel core2 duo,other,1280.0,800.0,mac os x,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.9,0.9,4.41,12.8
+1599.99,13.3,yes,ssd,16.0,lpddr3,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-polymer,brown,hp,no,yes,,,full hd widescreen led,0.0,512.0,9.2,0.6,3.24,12.6
+206.99,14.0,no,emmc,4.0,ddr4 sdram,,intel celeron,intel uhd graphics 600,1920.0,1080.0,windows 10 home in s mode,lithium-polymer,silver,acer,no,no,,3.0,full hd widescreen led,64.0,0.0,9.0,0.6,2.87,12.7
+639.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.8,0.9,4.52,14.3
+1545.99,14.0,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce mx130,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,,yes,,4.0,led,0.0,256.0,9.0,0.9,3.63,13.1
+699.99,13.3,no,ssd,4.0,lpddr3,1600.0,intel 4th generation core i5,intel hd graphics 5000,1440.0,900.0,mac os,lithium-polymer,silver,apple,,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.7,2.98,12.8
+316.99,14.0,no,hdd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-polymer,black,hp,,no,,4.0,widescreen led,0.0,0.0,9.33,0.83,3.48,13.4
+1379.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 7th generation core i7,other,3840.0,2160.0,windows 10 pro,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.6,0.7,4.63,14.1
+599.99,13.3,no,hdd,4.0,ddr3,1333.0,intel core i7,intel hd graphics 3000,1280.0,800.0,mac os x 10.7 lion,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,led,0.0,0.0,8.94,0.95,4.5,12.78
+363.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,hp,no,no,,1.0,widescreen led,0.0,240.0,9.3,0.7,3.26,13.3
+699.99,15.6,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,intel uhd graphics,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,9.8,0.7,4.83,14.1
+1299.0,13.5,yes,ssd,16.0,not provided,,intel 10th generation core i7,,2256.0,1504.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,256.0,8.79,0.57,2.89,12.1
+249.0,14.0,no,emmc,4.0,ddr4 sdram,1600.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion,gray,hp,no,no,,2.0,widescreen led,32.0,0.0,8.9,0.7,3.4,13.3
+799.99,14.0,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,silver,asus,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.3,0.6,3.2,12.8
+999.99,13.9,yes,ssd,12.0,ddr4,,intel 8th generation core i7,intel hd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,gray,lenovo,,yes,,1.0,touchscreen widescreen led-lcd,0.0,256.0,12.6,0.57,3.04,8.93
+310.99,12.5,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led-lcd,0.0,120.0,8.3,0.8,2.76,12.2
+269.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,white,hp,no,no,,3.0,touchscreen widescreen led-lcd,64.0,0.0,8.9,0.7,2.87,13.3
+549.99,15.6,yes,emmc,8.0,ddr4 sdram,2133.0,intel 8th generation core i5,other,3840.0,2160.0,chrome os,lithium-ion,blue,lenovo,no,no,,1.0,touchscreen widescreen led-lcd,128.0,0.0,9.8,0.7,4.19,14.2
+307.99,14.0,no,ssd,8.0,not provided,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,,widescreen lcd,0.0,180.0,,,,
+1899.99,15.6,yes,ssd,16.0,not provided,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,512.0,9.4,0.8,4.41,14.0
+259.99,11.6,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,dell,,no,,4.0,lcd,16.0,0.0,8.2,0.8,2.84,12.0
+362.86,15.6,no,hdd,8.0,ddr4 sdram,,amd 2nd generation ryzen 3,amd radeon vega 3,1366.0,768.0,windows 10 home,lithium-ion,black,acer,,no,,3.0,led-lcd,0.0,0.0,10.3,1.0,5.07,15.0
+1199.0,15.0,yes,ssd,8.0,not provided,,amd ryzen 5 microsoft surface edition,amd radeon vega 9,2496.0,1664.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,256.0,9.6,0.57,3.4,13.4
+694.99,17.3,no,hdd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,0.0,11.0,1.0,6.13,16.3
+409.99,15.6,no,ssd,4.0,ddr4 sdram,,amd a4,other,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,widescreen led,0.0,128.0,9.7,0.9,3.9,14.8
+429.99,15.6,no,ssd,4.0,ddr4 sdram,,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.1,0.8,3.86,14.1
+1399.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.1,7.08,15.9
+1238.99,14.0,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,,full hd widescreen led,0.0,256.0,7.8,0.6,2.65,12.6
+1999.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.1,7.08,15.9
+449.99,15.4,no,hdd,4.0,ddr3 sdram,1066.0,intel core2 duo,nvidia geforce,1440.0,900.0,mac os x 10.6 snow leopard,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,9.82,0.95,5.5,14.35
+899.99,15.6,yes,ssd,16.0,ddr4,2133.0,intel 6th generation core i7,amd firepro w4100,1920.0,1080.0,windows 10 pro,prismatic lithium-ion,black,hp,no,yes,,3.0,led,0.0,256.0,10.1,0.78,4.2,15.1
+1799.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce mx150,3840.0,2160.0,windows 10 home,lithium-ion,gray,hp,no,yes,,,touchscreen widescreen led-lcd,0.0,1000.0,9.8,0.8,4.78,14.2
+1269.99,17.3,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-polymer,black,hp,no,yes,,3.0,full hd widescreen led,0.0,128.0,11.6,1.1,6.55,15.9
+749.99,17.3,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,128.0,11.0,1.0,6.13,16.3
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,,lithium-ion,green,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.99,14.2
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,other,1920.0,1080.0,,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.99,14.2
+1699.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,silver,alienware,no,yes,,3.0,widescreen lcd,0.0,256.0,10.8,0.8,4.85,14.3
+1122.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,red,asus,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.4,0.5,2.31,12.2
+529.99,13.3,no,ssd,8.0,ddr3l sdram,,intel 3rd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+87.99,11.6,no,ssd,4.0,ddr3l sdram,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,black,lenovo,,no,,,lcd,0.0,16.0,8.5,0.9,3.51,11.8
+190.99,15.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1920.0,1080.0,chrome os,lithium-ion,silver,acer,no,yes,,2.0,full hd widescreen led,32.0,0.0,10.1,0.7,4.3,14.9
+829.99,17.3,no,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,512.0,11.0,1.0,6.13,16.3
+1399.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,128.0,12.0,0.9,6.39,16.2
+1429.99,14.0,yes,ssd,12.0,not provided,3733.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,1.0,full hd widescreen led,0.0,512.0,8.5,0.6,2.98,12.6
+699.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,8.3,0.7,3.31,12.7
+999.99,15.6,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-polymer,silver,acer,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.1,0.6,2.2,14.1
+599.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i3,other,1920.0,1080.0,windows 10 home in s mode,lithium-ion,gray,lenovo,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.1,0.7,2.98,12.0
+1899.99,15.6,no,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.9,1.2,5.67,14.9
+879.99,15.6,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.3,0.7,4.19,14.1
+449.99,13.3,no,hdd,2.0,ddr3 sdram,1066.0,intel core 2 duo,nvidia geforce 9400m,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,no,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,8.94,0.95,4.5,12.78
+2224.99,14.0,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,2560.0,1440.0,windows 10 pro,lithium-ion,silver,lenovo,,yes,,2.0,lcd,0.0,512.0,8.58,0.61,2.99,12.7
+673.99,14.0,no,ssd,8.0,ddr4,2400.0,amd 3rd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,no,,4.0,lcd,0.0,256.0,9.53,0.83,3.87,13.0
+1674.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,256.0,8.9,0.66,2.98,13.0
+999.0,15.0,yes,ssd,8.0,not provided,,amd ryzen 5 microsoft surface edition,amd radeon vega 9,2496.0,1664.0,windows 10 home,lithium-ion polymer,silver,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,128.0,8.79,0.57,3.4,13.4
+1099.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,3.0,widescreen lcd,0.0,256.0,11.6,1.0,7.28,15.9
+789.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,0.8,4.52,14.3
+394.99,13.3,yes,emmc,4.0,lpddr3,,mediatek,other,1920.0,1080.0,chrome os,lithium-polymer,silver,acer,no,no,,2.0,full hd widescreen led,64.0,0.0,9.0,0.6,3.31,12.8
+342.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,480.0,9.1,0.9,3.99,13.2
+879.99,17.3,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.0,1.1,5.73,15.9
+439.99,11.6,no,ssd,4.0,ddr3l sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1366.0,768.0,mac os,lithium-polymer,silver,apple,,no,,2.0,widescreen led,0.0,500.0,7.6,0.7,2.38,11.8
+999.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.8,1.0,5.29,14.2
+229.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,pink,hp,no,no,,3.0,widescreen led,64.0,0.0,8.9,0.7,2.87,13.3
+247.99,14.0,no,,4.0,ddr3 sdram,,intel 3rd generation core i5,intel hd graphics,,,windows 10,other,black,,,,,4.0,widescreen led,0.0,0.0,9.11,1.28,4.95,13.31
+1299.99,13.3,no,ssd,8.0,lpddr3,,intel 7th generation core i5,intel iris plus graphics 640,2560.0,1600.0,mac os,lithium-polymer,silver,apple,,yes,siri,2.0,led,0.0,128.0,8.36,0.59,3.02,11.97
+1025.99,15.6,no,ssd,8.0,ddr4,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,,yes,,4.0,full hd widescreen led,0.0,256.0,10.8,0.93,5.82,15.3
+619.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1366.0,768.0,windows 10 home,lithium-ion,gray,hp,no,no,,3.0,touchscreen widescreen led-lcd,0.0,256.0,9.7,0.9,3.97,14.8
+1049.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.3,0.7,3.97,14.1
+1799.99,12.0,yes,ssd,8.0,lpddr3,1866.0,intel 7th generation core i7,intel hd graphics 615,2160.0,1440.0,windows 10 home,lithium-polymer,black,lenovo,no,yes,,2.0,touchscreen led,0.0,256.0,8.25,0.55,2.35,11.47
+266.99,14.0,no,hdd,4.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,dell,no,no,,4.0,widescreen led,0.0,0.0,9.2,1.3,4.67,13.3
+795.99,14.0,no,hdd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,acer,,no,,,led-lcd,0.0,0.0,9.3,0.9,3.97,13.5
+386.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,9.1,0.9,3.99,13.2
+879.95,12.0,no,,8.0,lpddr3,1600.0,intel core m,intel hd graphics 5300,2304.0,1440.0,mac os x,lithium-polymer,gray,apple,,no,,2.0,widescreen led,0.0,0.0,7.74,0.52,2.03,11.04
+248.99,14.0,no,ssd,8.0,ddr3l sdram,,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10 home,lithium-ion,black,hp,,no,,4.0,widescreen led-lcd,0.0,128.0,9.0,0.8,5.0,13.0
+2029.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia quadro t2000,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,5.0,lcd,0.0,512.0,9.93,1.16,,14.9
+281.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,256.0,9.3,1.1,5.09,13.4
+1299.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.8,0.9,6.11,14.3
+228.99,13.3,no,hdd,4.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1366.0,768.0,windows 10,lithium-ion,gray,dell,,no,,1.0,widescreen led,0.0,0.0,8.8,1.2,3.64,13.2
+1379.99,13.3,yes,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,3840.0,2160.0,windows 10 home,lithium-ion,silver,dell,no,yes,,,touchscreen widescreen lcd,0.0,512.0,7.8,0.5,2.8,11.9
+701.99,15.6,no,ssd,8.0,ddr4,2400.0,amd 3rd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,no,,4.0,lcd,0.0,256.0,9.92,0.78,4.7,14.5
+699.99,13.3,no,ssd,8.0,ddr3l sdram,1600.0,intel 1st generation core i5,intel hd graphics 4000,2560.0,1600.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,128.0,8.6,0.7,3.57,12.4
+249.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion,white,hp,no,no,,2.0,widescreen led,32.0,0.0,8.9,0.7,3.4,13.3
+769.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,9.8,0.9,4.52,14.3
+529.0,14.0,yes,emmc,4.0,lpddr3,1866.0,intel core m3,intel uhd graphics 615,1920.0,1080.0,chrome os,lithium-polymer,silver,asus,no,no,,1.0,full hd widescreen led,64.0,0.0,8.1,0.6,3.31,12.7
+580.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.8,0.7,4.17,14.2
+299.0,10.0,,,,,,,,1800.0,1200.0,windows 10 home in s mode,lithium-ion,silver,microsoft,,,,,lcd,0.0,0.0,6.9,0.33,18.4,9.65
+1479.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,other,3840.0,2160.0,windows 10,lithium-ion,silver,dell,no,no,,,touchscreen widescreen lcd,0.0,1000.0,8.2,0.5,2.93,11.7
+87.99,11.6,no,ssd,4.0,not provided,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,,widescreen led,0.0,16.0,8.0,0.8,2.76,11.3
+258.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 6th generation core i5,intel hd graphics 520,1366.0,768.0,windows 10 pro,lithium-ion,black,hp,no,no,,2.0,widescreen led,0.0,500.0,9.3,1.1,5.09,13.4
+879.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.1,0.9,4.96,14.2
+749.99,15.6,no,ssd,8.0,ddr4,2666.0,intel 8th generation core i5,,1920.0,1080.0,,lithium-ion,gray,dell,,yes,,4.0,led-lcd,0.0,256.0,9.8,0.71,4.19,14.1
+819.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gold,asus,no,yes,,3.0,full hd widescreen led,0.0,128.0,9.6,0.7,3.75,14.2
+239.99,15.6,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,32.0,0.0,10.1,1.0,4.41,15.1
+354.99,14.0,yes,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1920.0,1080.0,windows 10 home in s mode,lithium-ion,gray,asus,,no,,2.0,led,64.0,0.0,8.9,0.6,3.3,12.9
+919.99,15.6,no,hdd,8.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,0.0,10.5,1.1,5.95,15.4
+1459.99,13.9,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.9,0.6,3.04,12.7
+133.99,11.6,no,emmc,4.0,ddr3l sdram,1600.0,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion,white,acer,no,no,,2.0,widescreen led,16.0,0.0,8.0,0.7,2.43,11.6
+1028.99,15.6,no,hdd,8.0,ddr4 sdram,2133.0,intel 7th generation core i5,other,1366.0,768.0,windows 10 home,lithium-ion,black,dell,,yes,,4.0,widescreen lcd,0.0,0.0,9.9,0.9,4.19,14.8
+503.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,,touchscreen widescreen led-lcd,0.0,128.0,9.53,0.78,3.84,14.11
+2899.99,15.4,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i7,amd radeon pro 560x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,9.5,0.6,4.03,13.8
+559.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gold,hp,no,yes,,2.0,full hd widescreen led,0.0,128.0,8.8,0.8,3.42,12.7
+1049.95,15.4,no,ssd,16.0,ddr3l sdram,1600.0,intel 4th generation core i7,nvidia geforce gt 750m,2880.0,1800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,512.0,9.7,0.7,4.45,14.1
+1199.99,14.0,no,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 pro,lithium-ion,blue,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,7.8,0.7,2.8,12.6
+569.99,15.6,no,hdd,8.0,ddr4 sdram,,amd 2nd generation ryzen 5,other,1920.0,1080.0,,lithium-ion,silver,samsung,no,no,,3.0,full hd widescreen led,0.0,0.0,9.8,0.8,4.3,14.9
+299.0,12.2,yes,emmc,4.0,lpddr3,1866.0,intel celeron,intel hd graphics 615,1920.0,1200.0,chrome os,lithium-ion,silver,samsung,no,no,,3.0,touchscreen led,32.0,0.0,8.2,0.63,2.93,11.3
+499.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.8,0.8,4.48,14.2
+1599.99,15.6,no,"hdd, ssd",16.0,ddr4,2667.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10,lithium-ion polymer,black,razer,no,yes,,4.0,led-lcd,0.0,256.0,9.25,0.78,4.63,14.0
+279.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1366.0,768.0,chrome os,lithium-ion,blue,hp,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.9,0.7,3.4,13.3
+2399.0,15.0,yes,ssd,16.0,lpddr3,1866.0,intel 8th generation core i7,nvidia geforce gtx 1060,3840.0,2160.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,other,0.0,512.0,9.87,0.9,,13.5
+1499.0,13.5,yes,ssd,8.0,lpddr3,,intel 8th generation core i5,intel hd graphics 620,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,,yes,,3.0,lcd,0.0,256.0,9.1,0.9,3.38,12.3
+1149.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.4,1.0,5.29,14.2
+386.99,14.0,no,ssd,8.0,ddr3 sdram,,intel 4th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,silver,dell,no,no,,4.0,widescreen led,0.0,480.0,9.2,1.3,4.67,13.3
+289.99,11.6,yes,emmc,4.0,ddr4 sdram,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,silver,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.1,0.8,2.98,11.7
+224.99,15.6,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,16.0,0.0,10.1,1.0,4.41,15.1
+1299.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,2.0,full hd widescreen led,0.0,512.0,9.8,1.1,5.07,14.1
+382.99,11.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,black,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.1,0.8,3.09,11.7
+503.99,14.0,no,ssd,8.0,not provided,,intel 6th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,no,no,,,widescreen lcd,0.0,256.0,,,,
+549.99,15.4,no,hdd,4.0,ddr3 sdram,1333.0,intel 2nd generation core i7,amd radeon,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,widescreen led,0.0,0.0,9.82,0.95,5.6,14.32
+399.99,11.6,no,ssd,2.0,ddr3 sdram,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1366.0,768.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,64.0,7.56,0.68,2.38,11.8
+1999.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 pro,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.7,4.19,15.1
+455.99,15.6,no,hdd,8.0,ddr3l sdram,,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,10.0,0.9,4.72,14.8
+489.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,no,,2.0,full hd widescreen led,0.0,128.0,9.0,0.7,3.64,12.9
+2399.0,13.5,yes,ssd,16.0,not provided,,intel 10th generation core i7,,2256.0,1504.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,1000.0,8.79,0.57,2.89,12.1
+305.99,14.0,no,ssd,8.0,ddr3l,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,hp,,no,,4.0,widescreen led,0.0,128.0,9.33,0.99,4.69,13.4
+363.99,14.0,no,ssd,8.0,ddr3l,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,hp,,no,,4.0,widescreen led,0.0,500.0,9.33,0.99,4.4,13.4
+2849.99,13.3,no,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel iris plus graphics 655,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,1000.0,8.36,0.59,3.02,11.97
+479.99,15.6,yes,hdd,12.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home in s mode,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,0.0,9.6,0.7,3.97,14.1
+649.0,13.3,yes,ssd,8.0,lpddr3,,intel core m3,intel uhd graphics 615,1920.0,1080.0,chrome os,lithium-ion polymer,black,google,,yes,,2.0,lcd,0.0,64.0,8.1,0.5,2.3,12.2
+1499.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,3840.0,2160.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+3199.99,17.3,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2080 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.8,6.06,15.6
+899.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i5,intel uhd graphics 617,2560.0,1600.0,mac os,lithium-polymer,silver,apple,,yes,"force touch trackpad, siri, touch id sensor",,lcd,0.0,128.0,8.36,0.61,2.75,12.0
+629.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-polymer,silver,lenovo,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.5,0.6,2.62,12.1
+1399.99,14.0,yes,ssd,12.0,not provided,3733.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,full hd widescreen led,0.0,512.0,8.5,0.6,2.98,12.6
+509.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,no,,3.0,full hd widescreen led,0.0,256.0,9.9,0.8,4.08,14.3
+279.99,15.6,no,hdd,4.0,ddr4 sdram,2133.0,amd a6,amd radeon r4,1366.0,768.0,windows 10 home in s mode,lithium-ion,black,lenovo,no,no,,3.0,widescreen led,0.0,0.0,9.9,0.8,4.08,14.3
+327.99,11.6,yes,emmc,4.0,ddr4 sdram,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,silver,acer,no,no,,2.0,touchscreen widescreen led-lcd,32.0,0.0,8.1,0.8,2.98,11.7
+1199.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,black,dell,no,yes,,2.0,touchscreen widescreen lcd,0.0,512.0,,,,
+199.99,14.0,no,ssd,4.0,ddr4 sdram,1866.0,amd a9,amd radeon r5,1366.0,768.0,windows 10 home in s mode,lithium-ion,silver,hp,no,no,,2.0,widescreen led,0.0,128.0,8.9,0.78,3.24,12.76
+293.99,14.0,no,hdd,8.0,ddr3l sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,9.3,1.1,4.37,13.3
+1799.99,17.0,no,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,2560.0,1600.0,windows 10 home,lithium-ion,silver,lg,no,yes,,3.0,full hd widescreen led,0.0,1024.0,10.5,0.7,2.95,15.0
+285.99,11.6,yes,emmc,4.0,lpddr3,1866.0,non-amd/intel processor,other,1366.0,768.0,chrome os,lithium-ion,white,lenovo,no,no,,1.0,touchscreen widescreen led-lcd,64.0,0.0,8.5,0.8,2.65,11.5
+82.99,11.6,no,ssd,4.0,ddr3l sdram,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-ion polymer,black,acer,,yes,,2.0,lcd,0.0,16.0,8.0,0.8,2.87,11.3
+399.0,15.6,yes,emmc,4.0,not provided,,intel pentium,intel hd graphics 505,1920.0,1080.0,chrome os,lithium-ion,silver,acer,no,yes,,2.0,full hd widescreen led,32.0,0.0,10.3,0.8,4.85,15.2
+267.99,11.6,no,emmc,4.0,lpddr4,,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,black,acer,,no,,4.0,led-lcd,32.0,0.0,8.2,0.8,2.98,11.9
+1399.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 6th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,8.4,0.6,3.02,12.0
+1099.99,14.0,yes,ssd,16.0,lpddr3,,intel 10th generation core i7,nvidia geforce mx250,1920.0,1080.0,windows 10 home,lithium-polymer,gray,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.1,0.7,3.2,12.6
+314.99,14.0,no,ssd,8.0,ddr3l sdram,1600.0,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,3.0,led,0.0,256.0,9.1,0.9,3.98,13.2
+308.99,14.0,no,ssd,8.0,not provided,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,,widescreen lcd,0.0,160.0,,,,
+1499.99,17.3,no,ssd,16.0,ddr4,2666.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10,lithium-ion,black,asus,,yes,,5.0,full hd widescreen led,0.0,512.0,10.7,1.0,6.4,15.7
+138.99,15.6,no,emmc,2.0,lpddr3,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,16.0,0.0,10.1,1.0,4.41,15.1
+1472.99,13.3,yes,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,intel uhd graphics 620,3840.0,2160.0,windows 10 home,lithium-ion,blue,hp,no,yes,,,touchscreen widescreen led-lcd,0.0,512.0,8.6,0.6,2.91,12.2
+2599.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 pro,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.6,0.6,4.63,14.2
+499.99,15.6,no,ssd,12.0,ddr4 sdram,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,asus,no,no,,3.0,full hd widescreen led,0.0,256.0,9.1,0.8,3.75,14.1
+1191.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion polymer,black,dell,no,yes,,4.0,led,0.0,256.0,9.0,0.8,3.52,13.1
+599.99,13.3,no,hdd,8.0,ddr3 sdram,1333.0,intel core i5,intel hd graphics 3000,1280.0,800.0,mac os x 10.7 lion,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,0.0,8.94,0.95,4.5,12.78
+699.99,15.6,no,ssd,8.0,ddr4 sdram,,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,no,,3.0,full hd widescreen led,0.0,256.0,9.3,0.9,4.21,14.2
+369.99,14.0,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,dell,,no,,4.0,lcd,64.0,0.0,9.33,0.9,3.45,13.4
+959.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,512.0,11.0,1.0,6.68,16.4
+301.99,14.0,no,hdd,8.0,not provided,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,no,no,,,widescreen lcd,0.0,0.0,,,,
+1499.99,15.4,yes,ssd,16.0,ddr3l,1600.0,intel 4th generation core i7,nvidia geforce gt 750m,2880.0,1800.0,mac os x 10.9 mavericks,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",,led-lcd,0.0,512.0,9.73,0.71,4.46,14.13
+1149.99,17.3,no,ssd,16.0,ddr4 sdram,,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,3.0,full hd widescreen led,0.0,512.0,11.5,1.0,6.31,15.7
+1799.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,4.0,full hd widescreen led,0.0,512.0,10.8,1.0,6.37,15.7
+554.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+1137.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.5,1.1,5.95,15.4
+1699.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce mx130,1920.0,1080.0,windows 10 pro,lithium-ion polymer,black,dell,,yes,,3.0,lcd,0.0,256.0,9.9,0.8,4.26,14.8
+1329.0,12.3,,,,,,,,2736.0,1824.0,windows 10 home,lithium-ion,black,microsoft,,,,,lcd,0.0,0.0,7.9,0.3,27.2,11.5
+379.99,14.0,no,emmc,4.0,ddr4 sdram,,intel pentium,intel uhd graphics 605,1920.0,1080.0,windows 10 home in s mode,lithium-polymer,silver,acer,no,no,,3.0,full hd widescreen led,64.0,0.0,9.0,0.6,2.87,12.7
+699.99,15.6,no,hdd,4.0,ddr4 sdram,,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,acer,,yes,,4.0,led-lcd,0.0,0.0,10.0,0.9,4.63,14.9
+959.99,17.3,yes,ssd,12.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce mx250,1920.0,1080.0,windows 10 home,lithium-polymer,silver,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.5,0.9,6.44,15.9
+799.99,14.0,yes,ssd,8.0,ddr4 sdram,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,no,,2.0,full hd widescreen led,0.0,256.0,9.0,0.7,3.64,12.9
+1263.99,15.6,no,ssd,16.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-polymer,blue,asus,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.7,0.7,3.7,13.9
+1299.99,13.3,no,ssd,8.0,lpddr4 sdram,3200.0,intel 10th generation core i7,intel iris plus graphics,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,7.7,0.7,2.87,12.0
+579.99,15.6,no,hdd,8.0,ddr4 sdram,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,2.0,widescreen led,0.0,0.0,9.6,0.7,3.97,14.1
+1729.99,15.6,no,ssd,16.0,ddr4,2400.0,intel 8th generation core i7,nvidia quadro p520,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,3.0,lcd,0.0,512.0,9.76,0.75,3.87,14.4
+269.99,14.0,yes,emmc,4.0,ddr4 sdram,1866.0,amd a4,other,1366.0,768.0,windows 10 home in s mode,lithium-ion,blue,hp,no,no,,3.0,touchscreen widescreen led-lcd,64.0,0.0,8.9,0.7,2.87,13.3
+743.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,2.0,full hd widescreen led,0.0,512.0,10.1,0.9,4.96,14.2
+959.99,15.6,no,"hdd, ssd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,,yes,,4.0,led,0.0,128.0,10.8,0.93,5.82,15.3
+289.99,14.0,yes,emmc,4.0,ddr4 sdram,1666.0,amd a6,other,1920.0,1080.0,chrome os,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,32.0,0.0,8.9,0.7,3.26,12.9
+97.99,11.6,no,emmc,4.0,ddr3l sdram,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,black,lenovo,,no,,2.0,lcd,16.0,0.0,8.4,0.9,3.0,11.8
+609.0,14.0,no,hdd,4.0,ddr4,2400.0,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,lenovo,,no,,4.0,lcd,0.0,0.0,9.53,0.83,,12.7
+1999.99,13.3,yes,ssd,16.0,lpddr4,3733.0,intel 10th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-polymer,black,razer,no,yes,,5.0,touchscreen widescreen lcd,0.0,512.0,8.3,0.6,3.26,12.0
+649.99,13.3,no,ssd,4.0,ddr3l sdram,1600.0,intel 4th generation core i5,other,2560.0,1600.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,full hd widescreen led,0.0,128.0,8.6,0.7,3.46,12.4
+2099.0,15.0,yes,ssd,16.0,not provided,,amd ryzen 7 microsoft surface edition,amd radeon rx vega 11,2496.0,1664.0,windows 10 home,lithium-ion polymer,black,microsoft,yes,yes,,2.0,touchscreen lcd,0.0,512.0,9.6,0.57,3.4,13.4
+1049.99,13.3,yes,ssd,8.0,ddr4,,intel 7th generation core i7,intel hd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,samsung,,yes,,3.0,full hd widescreen led,0.0,128.0,8.54,0.63,2.91,12.21
+2199.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,white,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.7,4.74,14.0
+1049.99,12.0,no,ssd,8.0,lpddr3,1866.0,intel core m5,intel hd graphics 515,2304.0,1440.0,mac os,lithium-polymer,space gray,apple,no,yes,force touch trackpad,1.0,widescreen led,0.0,512.0,7.7,0.5,2.0,11.0
+599.99,14.0,no,ssd,8.0,ddr4,2133.0,intel 6th generation core i5,intel hd graphics 520,1920.0,1080.0,windows 10 pro,prismatic lithium-ion,black,hp,,yes,,3.0,led,0.0,256.0,9.33,1.06,4.4,13.4
+1387.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,256.0,8.9,0.66,2.98,13.0
+1799.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.8,4.63,14.0
+230.99,14.0,no,,4.0,ddr3 sdram,,intel core i5,intel hd graphics,1366.0,768.0,windows 10,lithium-ion,silver,hp,,,,3.0,widescreen led,0.0,0.0,9.3,1.2,5.0,13.2
+979.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,intel uhd graphics 620,3840.0,2160.0,windows 10 home,lithium-ion,black,dell,no,yes,,1.0,touchscreen widescreen lcd,0.0,512.0,,,,
+2399.99,15.4,no,ssd,16.0,ddr4 sdram,2400.0,intel 9th generation core i7,amd radeon pro 555x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,touch id sensor,,full hd widescreen led,0.0,512.0,9.5,0.6,4.03,13.8
+279.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1920.0,1080.0,chrome os,lithium-ion,gray,hp,no,no,,2.0,full hd widescreen led,32.0,0.0,8.9,0.7,3.4,13.3
+521.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 home in s mode,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,128.0,9.6,0.76,4.12,14.1
+729.99,17.3,no,"hdd, ssd",16.0,ddr4,2666.0,intel 10th generation core i7,intel iris plus graphics,1600.0,900.0,windows 10 home,lithium-ion polymer,black,dell,,no,,3.0,led,0.0,256.0,11.0,0.98,6.13,16.4
+175.99,14.0,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics,1920.0,1080.0,chrome os,lithium-polymer,blue,acer,no,no,,2.0,full hd widescreen led,32.0,0.0,9.3,0.7,3.42,13.4
+2299.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,igzo,0.0,512.0,9.8,0.8,4.41,14.0
+281.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,9.1,0.9,3.99,13.2
+120.99,15.6,no,hdd,4.0,ddr4 sdram,1866.0,amd a6,amd radeon r4,1366.0,768.0,windows 10 home,lithium-ion,black,hp,no,no,,3.0,widescreen led,0.0,0.0,9.7,0.9,4.61,14.8
+1129.99,13.5,yes,ssd,8.0,lpddr3,,intel 6th generation core i7,nvidia geforce gtx 965m,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,no,no,,2.0,lcd,0.0,256.0,9.14,0.9,3.63,12.3
+3173.99,15.6,no,ssd,16.0,ddr4 sdram,,intel 8th generation core i7,nvidia quadro p1000,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,,no,,4.0,lcd,0.0,512.0,9.9,1.2,5.73,14.9
+759.99,17.3,no,hdd,16.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,full hd widescreen led,0.0,0.0,11.0,1.0,6.68,16.4
+1199.99,15.6,no,ssd,16.0,ddr4 sdram,,amd 2nd generation ryzen 7,nvidia geforce gtx 1660 ti max-q,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,4.0,full hd widescreen led,0.0,512.0,9.9,0.8,4.63,14.2
+839.99,13.9,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,touchscreen widescreen led-lcd,0.0,256.0,8.9,0.6,3.04,12.7
+1699.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,widescreen led,0.0,1000.0,9.6,0.7,4.41,14.1
+899.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,amd radeon rx vega 10,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.7,0.7,4.52,14.1
+2439.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,3840.0,2160.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen lcd,0.0,1000.0,9.8,0.7,4.41,14.0
+249.0,14.0,no,emmc,4.0,lpddr3,1866.0,non-amd/intel processor,other,1366.0,768.0,chrome os,lithium-ion,black,lenovo,no,no,,1.0,widescreen led,32.0,0.0,9.1,0.8,3.2,12.8
+799.99,14.0,yes,ssd,8.0,ddr4 sdram,2666.0,intel 10th generation core i5,other,1920.0,1080.0,windows 10 home,lithium-ion,silver,lenovo,no,yes,,1.0,full hd widescreen led,0.0,256.0,8.4,0.7,3.09,12.7
+206.99,15.6,yes,ssd,4.0,not provided,,intel pentium,intel hd graphics 505,1920.0,1080.0,chrome os,lithium-ion,gray,acer,no,yes,,2.0,full hd widescreen led,0.0,32.0,10.3,0.8,4.85,15.2
+269.0,15.6,no,emmc,4.0,not provided,2400.0,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-polymer,silver,asus,no,no,,2.0,widescreen led,64.0,0.0,9.8,0.6,3.09,14.1
+3053.99,15.6,no,ssd,8.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia quadro p1000,1920.0,1080.0,windows 10 pro,lithium-ion,silver,dell,,yes,,3.0,lcd,0.0,512.0,9.3,0.7,3.92,14.1
+1619.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,widescreen lcd,0.0,512.0,9.3,0.8,4.63,14.0
+252.11,11.6,no,emmc,4.0,lpddr3,,intel celeron,intel hd graphics 400,1366.0,768.0,chrome os,lithium-ion,gray,acer,,no,,2.0,led-lcd,32.0,0.0,8.3,0.9,2.87,11.7
+399.99,15.6,no,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 3,other,1920.0,1080.0,windows 10 home in s mode,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,0.0,10.0,0.9,4.85,14.3
+1499.99,14.0,no,ssd,8.0,ddr4,2400.0,intel 8th generation core i7,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,8.94,0.7,3.41,13.0
+297.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 3rd generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10 home,lithium-ion,black,hp,,no,,3.0,widescreen led,0.0,128.0,9.09,0.75,3.6,13.3
+595.99,15.6,no,hdd,16.0,ddr3l sdram,,intel 4th generation core i7,intel hd graphics 4600,1920.0,1080.0,windows 10 pro,lithium-ion,black,hp,no,no,,4.0,full hd widescreen led,0.0,0.0,10.1,1.4,6.13,15.0
+311.99,11.6,yes,emmc,4.0,ddr3l sdram,1600.0,intel pentium,intel hd graphics 505,1920.0,1080.0,windows 10 home,lithium-polymer,gray,acer,no,no,,2.0,full hd widescreen led,64.0,0.0,7.9,0.6,2.76,11.4
+839.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 9th generation core i5,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,10.0,0.9,5.27,14.3
+999.99,13.3,no,ssd,8.0,lpddr3,2133.0,intel 8th generation core i7,intel hd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion polymer,black,razer,,yes,,4.0,full hd widescreen led,0.0,256.0,11.9,0.58,2.82,8.27
+399.99,11.6,yes,emmc,4.0,not provided,,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,asus,no,no,,1.0,touchscreen widescreen led-lcd,32.0,0.0,7.8,0.8,2.84,11.5
+999.99,14.0,yes,ssd,12.0,ddr4 sdram,2666.0,intel 10th generation core i7,other,1920.0,1080.0,windows 10 home,lithium-ion,blue,lenovo,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.9,0.6,3.59,12.7
+1799.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.2,0.8,4.96,15.6
+386.99,15.6,no,ssd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4400,1366.0,768.0,windows 10,lithium-ion,black,dell,,no,,4.0,led,0.0,240.0,9.86,1.17,5.35,14.9
+1899.99,15.6,no,ssd,32.0,ddr4 sdram,,intel 9th generation core i7,nvidia quadro t2000,1920.0,1080.0,windows 10 pro,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,4.92,14.1
+1699.99,15.6,no,ssd,16.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10,lithium-polymer,black,msi,,yes,,3.0,lcd,0.0,512.0,10.2,0.69,4.19,15.1
+1124.99,15.6,no,hdd,8.0,ddr4,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,led,0.0,0.0,9.95,0.8,4.29,14.4
+189.0,15.6,no,emmc,4.0,lpddr3,,intel atom,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,2.0,widescreen led,16.0,0.0,10.1,1.0,4.41,15.1
+82.99,11.6,no,ssd,2.0,not provided,,intel celeron,intel hd graphics,1366.0,768.0,chrome os,lithium-polymer,gray,acer,no,no,,,widescreen led,0.0,16.0,8.0,0.8,2.76,11.3
+749.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 10th generation core i5,none,1920.0,1080.0,windows 10 home,lithium-polymer,gray,msi,no,yes,,2.0,full hd widescreen led,0.0,512.0,8.7,0.6,2.62,12.7
+279.99,14.0,no,emmc,4.0,ddr4 sdram,1866.0,amd a4,amd radeon r4,1920.0,1080.0,chrome os,lithium-ion,blue,hp,no,no,,2.0,full hd widescreen led,32.0,0.0,8.9,0.7,3.4,13.3
+185.99,15.6,yes,emmc,4.0,not provided,,intel celeron,intel hd graphics 500,1920.0,1080.0,chrome os,lithium-polymer,silver,acer,no,yes,,2.0,full hd widescreen led,32.0,0.0,10.1,0.8,3.97,15.0
+1499.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 8th generation core i7,other,3840.0,2160.0,windows 10 pro,lithium-polymer,black,asus,no,yes,,1.0,full hd widescreen led,0.0,512.0,8.4,0.5,2.2,12.2
+679.99,13.3,no,hdd,16.0,ddr3,1333.0,intel 2nd generation core i5,intel hd graphics 3000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,"force touch trackpad, siri",2.0,led,0.0,0.0,8.94,0.95,4.5,12.78
+449.99,15.6,yes,emmc,4.0,ddr4 sdram,2133.0,intel pentium,other,1920.0,1080.0,chrome os,lithium-polymer,white,hp,no,yes,,1.0,full hd widescreen led,64.0,0.0,9.7,0.7,3.97,14.1
+1249.99,14.0,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,black,dell,,no,,4.0,widescreen lcd,0.0,256.0,9.0,0.8,3.53,13.1
+272.99,11.6,no,emmc,4.0,not provided,2400.0,intel celeron,intel hd graphics 500,1366.0,768.0,chrome os,lithium-ion,gray,dell,no,no,,2.0,widescreen lcd,16.0,0.0,8.2,0.8,2.82,12.0
+3099.99,17.3,no,ssd,32.0,ddr4 sdram,2666.0,intel 8th generation core i9,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,1000.0,10.6,1.1,5.75,15.6
+1299.99,15.4,no,ssd,16.0,ddr3l sdram,1600.0,intel 4th generation core i7,other,2880.0,1800.0,mac os,lithium-polymer,silver,apple,no,no,,2.0,widescreen led,0.0,256.0,9.7,0.7,4.45,14.1
+1799.99,15.6,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,10.5,0.8,4.85,14.2
+1749.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,3.0,widescreen lcd,0.0,512.0,10.8,0.8,5.89,14.3
+1286.99,17.3,no,ssd,16.0,ddr4 sdram,,amd 2nd generation ryzen 7,other,1920.0,1080.0,windows 10 home,lithium-polymer,black,acer,no,yes,,5.0,full hd widescreen led,0.0,256.0,11.7,1.5,8.82,16.9
+2219.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i9,nvidia geforce gtx 1650,3840.0,2160.0,windows 10 home,lithium-ion,silver,dell,no,yes,,2.0,oled,0.0,1000.0,9.3,0.7,3.97,14.1
+2699.99,15.6,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.3,0.8,5.07,14.0
+589.99,15.6,no,ssd,16.0,ddr3 sdram,,intel 4th generation core i7,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-polymer,black,dell,,no,,,widescreen led,0.0,250.0,10.1,1.29,6.35,14.8
+969.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,,intel 8th generation core i7,nvidia geforce gtx 1050,1920.0,1080.0,windows 10 home,lithium-ion,gray,asus,no,yes,,3.0,full hd widescreen led,0.0,256.0,10.6,0.8,4.85,16.2
+1699.99,17.3,no,"ssd, hdd",16.0,ddr4 sdram,2666.0,intel 8th generation core i7,nvidia geforce rtx 2070,1920.0,1080.0,windows 10 home,lithium-ion,gray,dell,no,yes,,3.0,full hd widescreen led,0.0,256.0,11.7,1.0,7.21,15.9
+467.99,12.5,no,ssd,16.0,ddr3 sdram,,intel 5th generation core i7,intel hd graphics 5500,1366.0,768.0,windows 10 pro,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,512.0,8.3,0.8,2.76,12.2
+2999.99,17.3,no,ssd,32.0,ddr4 sdram,2400.0,intel 9th generation core i9,nvidia geforce rtx 2070,3840.0,2160.0,windows 10 pro,lithium-polymer,gray,msi,no,yes,,3.0,widescreen led,0.0,1000.0,10.2,0.8,6.06,15.6
+1429.99,13.3,yes,ssd,16.0,lpddr3,2133.0,intel 10th generation core i7,other,3840.0,2160.0,windows 10,lithium-ion,silver,dell,no,yes,,,touchscreen widescreen lcd,0.0,512.0,7.8,0.5,2.84,11.9
+1199.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce gtx 1660 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,dell,,yes,,4.0,led-lcd,0.0,512.0,10.0,0.85,,14.4
+2579.99,15.6,no,ssd,32.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,9.67,0.72,3.75,14.2
+599.99,13.3,no,ssd,4.0,ddr3l sdram,1600.0,intel 3rd generation core i5,intel hd graphics 4000,1440.0,900.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.9,0.7,2.98,12.8
+279.99,11.6,no,emmc,4.0,lpddr4,2400.0,intel celeron,intel uhd graphics 600,1366.0,768.0,chrome os,lithium-ion,black,hp,,yes,,,led,16.0,0.0,8.18,0.74,2.93,12.0
+595.99,14.0,no,ssd,8.0,ddr4 sdram,,intel 6th generation core i7,intel hd graphics 520,1366.0,768.0,windows 10 pro,lithium-ion,silver,hp,no,no,,1.0,widescreen led,0.0,256.0,9.3,0.7,3.26,13.3
+589.99,15.6,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,full hd widescreen led,0.0,256.0,9.6,0.7,3.97,14.1
+629.99,15.6,no,ssd,16.0,not provided,,intel 4th generation core i7,intel hd graphics,1920.0,1080.0,windows 10 pro,lithium-ion,black,hp,no,no,,4.0,full hd widescreen led,0.0,512.0,10.1,1.2,6.19,15.0
+827.99,17.3,no,ssd,8.0,ddr4 sdram,,intel 9th generation core i5,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,black,acer,,yes,,4.0,led-lcd,0.0,512.0,11.0,1.06,6.61,15.9
+1699.99,15.6,yes,ssd,16.0,not provided,2666.0,intel 9th generation core i7,nvidia geforce gtx 1650,1920.0,1080.0,windows 10 home,lithium-ion,gray,lenovo,no,yes,,1.0,full hd widescreen led,0.0,512.0,9.4,0.8,4.34,14.0
+688.99,14.0,no,hdd,4.0,ddr4 sdram,,intel 8th generation core i3,intel uhd graphics 620,1366.0,768.0,windows 10 pro,lithium-ion,black,acer,,no,,,led-lcd,0.0,0.0,9.3,0.9,3.97,13.5
+2049.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,3840.0,2160.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen lcd,0.0,512.0,9.8,0.7,4.41,14.0
+2199.99,17.3,no,ssd,32.0,ddr4,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,msi,,yes,,4.0,lcd,0.0,1000.0,10.2,0.8,4.96,15.6
+1819.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,3840.0,2160.0,windows 10 pro,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen,0.0,512.0,9.8,0.8,4.41,14.0
+1339.0,14.0,yes,ssd,16.0,ddr4,2666.0,amd 3rd generation ryzen 7,,1920.0,1080.0,windows 10 pro,lithium-ion,black,lenovo,,yes,,4.0,lcd,0.0,512.0,8.94,0.7,3.46,13.0
+549.99,13.3,no,ssd,8.0,ddr3l sdram,,intel 3rd generation core i5,intel hd graphics 4000,1280.0,800.0,mac os,lithium-polymer,silver,apple,no,yes,,2.0,widescreen led,0.0,500.0,8.9,0.9,4.54,12.8
+1099.99,15.6,no,"ssd, hdd",8.0,ddr4 sdram,2666.0,intel 8th generation core i5,nvidia geforce gtx 1050 ti,1920.0,1080.0,windows 10 home,lithium-ion,black,asus,no,yes,,,full hd widescreen led,0.0,128.0,10.3,0.9,5.73,15.1
+351.99,14.0,no,ssd,8.0,ddr3 sdram,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,silver,dell,,no,,3.0,led,0.0,128.0,9.1,0.8,3.6,13.2
+599.99,14.0,no,ssd,8.0,ddr4,2133.0,intel 6th generation core i5,intel hd graphics 520,1920.0,1080.0,windows 10 pro,lithium-ion polymer,silver,hp,,no,,3.0,led,0.0,256.0,9.3,0.74,3.6,13.3
+1099.0,13.5,yes,ssd,8.0,lpddr3,1866.0,intel 7th generation core i5,intel hd graphics 620,3000.0,2000.0,windows 10 pro,lithium-polymer,silver,microsoft,no,yes,,3.0,touchscreen lcd,0.0,128.0,9.14,0.9,,12.3
+2499.99,17.3,no,ssd,16.0,ddr4 sdram,2667.0,intel 9th generation core i7,nvidia geforce rtx 2070 max-q,1920.0,1080.0,windows 10 home,lithium-polymer,black,razer,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,0.8,6.06,15.6
+799.99,15.6,yes,ssd,12.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.7,0.7,4.5,14.1
+1159.99,15.6,no,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,other,1920.0,1080.0,windows 10 pro,lithium-ion,black,dell,no,yes,,3.0,widescreen lcd,0.0,256.0,9.9,0.9,4.14,14.8
+1599.99,12.0,no,ssd,8.0,lpddr3,,intel 7th generation core i5,intel hd graphics 615,2304.0,1440.0,mac os,lithium-polymer,gold,apple,no,yes,"force touch trackpad, siri",1.0,led,0.0,512.0,7.74,0.52,2.03,11.04
+1199.99,17.3,yes,"ssd, hdd",12.0,ddr4 sdram,2400.0,intel 8th generation core i7,nvidia geforce mx150,1920.0,1080.0,windows 10 home,lithium-ion,silver,hp,no,yes,,3.0,full hd widescreen led,0.0,128.0,11.1,0.9,6.7,16.4
+239.99,11.6,no,emmc,4.0,not provided,,intel celeron,intel uhd graphics 600,1366.0,768.0,windows 10 home in s mode,lithium-ion,gray,asus,no,no,,2.0,widescreen led,64.0,0.0,7.6,0.7,2.2,11.3
+529.99,15.6,yes,hdd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 5,amd radeon vega 8,1366.0,768.0,windows 10 home,lithium-ion,gray,lenovo,no,no,,2.0,touchscreen widescreen led-lcd,0.0,0.0,10.0,0.9,4.85,14.3
+2049.99,15.4,no,ssd,16.0,ddr4,2400.0,intel 9th generation core i7,amd radeon pro 555x,2880.0,1800.0,mac os,lithium-polymer,space gray,apple,apple touch bar,yes,"force touch trackpad, siri, touch id sensor",,led,0.0,256.0,9.48,0.61,4.02,13.8
+329.99,14.0,no,hdd,8.0,ddr3 sdram,,intel 5th generation core i5,intel hd graphics,1366.0,768.0,windows 10 home,lithium-ion,black,dell,no,no,,3.0,widescreen led,0.0,0.0,9.1,0.9,3.99,13.2
+1399.99,14.0,no,ssd,16.0,ddr4 sdram,2400.0,intel 7th generation core i7,nvidia geforce gtx 1060,1920.0,1080.0,windows 10 home,lithium-polymer,black,,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.3,0.7,4.17,13.6
+328.99,14.0,no,ssd,8.0,ddr3l,1600.0,intel 4th generation core i5,intel hd graphics 4600,1366.0,768.0,windows 10,lithium-ion,black,hp,,no,,4.0,widescreen led,0.0,240.0,9.33,0.99,4.69,13.4
+899.99,13.3,yes,ssd,8.0,ddr4 sdram,2400.0,intel 8th generation core i5,intel hd graphics 620,1920.0,1080.0,windows 10 home,lithium-ion,silver,lg,no,yes,,2.0,full hd widescreen led,0.0,256.0,8.3,0.6,,12.0
+321.55,14.0,no,emmc,4.0,ddr4 sdram,,intel pentium,intel uhd graphics 605,1366.0,768.0,windows 10 home in s mode,lithium-polymer,black,acer,no,no,,3.0,widescreen led,64.0,0.0,9.6,0.7,3.64,13.5
+1099.99,15.6,yes,ssd,16.0,ddr4 sdram,2400.0,intel 10th generation core i7,nvidia geforce mx250,3840.0,2160.0,windows 10 home,lithium-ion,gray,hp,no,yes,,2.0,touchscreen widescreen led-lcd,0.0,512.0,9.8,0.8,4.78,14.2
+1399.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,9.8,1.1,5.07,14.1
+699.0,12.3,,,,,,,,2736.0,1824.0,windows 10 home,lithium-ion,silver,microsoft,,,,,lcd,0.0,0.0,7.9,0.3,27.2,11.5
+529.99,11.6,yes,ssd,8.0,ddr4 sdram,2400.0,intel pentium,intel uhd graphics 605,1366.0,768.0,windows 10 home,prismatic lithium-ion,black,hp,,yes,,3.0,led,0.0,128.0,8.11,0.78,3.17,11.8
+3199.99,17.3,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i9,nvidia geforce rtx 2070,3840.0,2160.0,windows 10 home,lithium-polymer,black,gigabyte,no,yes,,3.0,widescreen led,0.0,512.0,10.6,0.8,5.49,15.6
+589.99,14.0,yes,ssd,8.0,ddr4 sdram,2400.0,amd 2nd generation ryzen 7,other,1920.0,1080.0,windows 10 home,lithium-ion,black,lenovo,no,yes,,2.0,full hd widescreen led,0.0,256.0,9.0,0.7,3.64,12.9
+952.99,14.0,yes,ssd,8.0,lpddr3,,intel 8th generation core i5,intel uhd graphics 620,1920.0,1080.0,windows 10 pro,lithium-polymer,blue,acer,,yes,,3.0,led-lcd,0.0,256.0,9.0,0.6,2.14,13.0
+1329.99,15.6,no,ssd,16.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2060,1920.0,1080.0,windows 10 home,lithium-ion,black,hp,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.4,1.0,5.29,14.2
+2399.99,15.6,no,ssd,32.0,ddr4 sdram,2666.0,intel 9th generation core i7,nvidia geforce rtx 2080,1920.0,1080.0,windows 10 home,lithium-ion,black,msi,no,yes,,3.0,full hd widescreen led,0.0,512.0,10.2,1.2,5.49,15.1
